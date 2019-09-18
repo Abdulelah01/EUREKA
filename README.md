@@ -1,2 +1,2 @@
-# EUREKA
-This is our group project for class Special TopicsIn ISQA
+## EUREKA
+_This is our group project for class Special TopicsIn ISQA_
