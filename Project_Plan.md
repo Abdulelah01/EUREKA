@@ -22,9 +22,9 @@ We decided that we would break up the work plan by assignment deliverables for t
 |-------------------------------------|:----------------:|---------------|
 |Client Organization’s Mission & Goals|    Erik              |  September 29th           |		
 |Determine Research Questions	      |    Abdulelah             |  September 29th    |	
-|Study Organism Or phenomenon	      |    Anitha              |  September 29th            |	
-|Determine Decisions, Actions And/Or Interventions| Kristi      | October 1st              |		
-|Merge Research document Deliverable   |    Kristi              | October 2nd              |		
+|Study Organism or Phenomenon	      |    Anitha              |  September 29th            |	
+|Determine Decisions, Actions and/or Interventions| Kristi      | October 1st              |		
+|Merge Research Document Deliverable   |    Kristi              | October 2nd              |		
 |Research Deliverable Proofreader                  |    Abdulelah              | October 2nd             |
 |Submit Research Deliverable           |    Abdulelah              | October 3rd             |
 	
@@ -33,7 +33,7 @@ We decided that we would break up the work plan by assignment deliverables for t
 |**Tasks**	                       |**Contributor**   |**Completion Date**|
 |--------------------------------------|:----------------:|---------------|
 |Research Audience Profile             |   Anitha/Kristi               |   October 10th            |		
-|Identify target Audience	       |   Anitha/Kristi               |    October 10th           |
+|Identify Target Audience	       |   Anitha/Kristi               |    October 10th           |
 |Create Audience Profile Deliverable   |    Anitha              |  October 15th             |		
 |Audience Profile Deliverable Proofreader	       |    Kristi              |     October 16th          |
 |Submit Audience Profile Deliverable   |     Kristi             |October 17th |
@@ -46,9 +46,9 @@ We decided that we would break up the work plan by assignment deliverables for t
 Determine Intellectual Property Constraints|	Abdulelah |October 18th|	
 Describe Dataset		| Kristi            | October 19th  |
 Review/Understand Dataset	| Kristi	| October 19th |
-Document Any Issues With The dataset	|	Kristi |October 19th |
+Document Any Issues With the Dataset	|	Kristi |October 19th |
 Describe Data Cleaning Process		| Anitha | October 21st|
-Determine Decisions, Actions And/Or Interventions| Anitha | October 21st |		
+Determine Decisions, Actions and/or Interventions| Anitha | October 21st |		
 Data Cleaning Contributors Statements	|Team	          | October 23rd              |
 Data Cleaning Deliverable Proofreader		| Erik | October 23rd |
 Submit Data Cleaning Deliverable        | Erik                |October 24th |
@@ -61,8 +61,8 @@ Submit Data Cleaning Deliverable        | Erik                |October 24th |
 |Design R Script		|  Erik              |   October 29th |
 |Create R Script		|  Erik              |   October 31st |
 |Test & Debug R Script		| Kristi     |   November 4th |
-|Create Summary Of R Script            |      Kristi            |   November 5th            |		
-|Create Full Description Of The R Script	|	Kristi  | November 5th |
+|Create Summary of R Script            |      Kristi            |   November 5th            |		
+|Create Full Description of the R Script	|	Kristi  | November 5th |
 |R Script Contributors Statements	|Team	| November 6th|
 |R Script Deliverable Proofreader	| Anitha  | November 6th |
 |Submit R Script Deliverable             |   Anitha                |November 7th |
@@ -75,7 +75,7 @@ Submit Data Cleaning Deliverable        | Erik                |October 24th |
 |Design R Plots		| Abdulelah |    November 11th |
 |Create R Plots		| Abdulelah  |  November 11th |
 |Test & Debug R Plots	|  Anitha | November  12th |
-|Create Full Description Of The R Plots Script |    Anitha              |   November 12th            |
+|Create Full Description of the R Plots Script |    Anitha              |   November 12th            |
 R Plots Contributors Statements	               |Team	| November 13th |
 R Plots Deliverable Proofreader	|Abdulelah | November 13th |
 Submit R Plot Deliverable                      |   Abdulelah                | November 14th |
@@ -95,13 +95,13 @@ Project Presentation                   |    Team               | December 12th |
 
 |**Tasks**	                       |**Contributor**   |**Completion Date**|
 |--------------------------------------|:----------------:|---------------|
-|Create GIT Project Repository	       |  Abdulelah                | September 12             |	
-Create Project README.MD	       | Abdulelah         | September 12  |
-Determine Project Plan		       | Team              | September 13  |
-Create Project Work Plan	       | Kristi            | September 13  |
-Project Work Plan Proofreader 	       | Erik             | September 18  |
-Submit Project Work Plan               | Abdulelah         | September 19  |
-Review Components Of GIT Package     |Team		|December 9th |
+|Create GIT Project Repository	       |  Abdulelah                | September 12th             |	
+Create Project README.MD	       | Abdulelah         | September 12th  |
+Determine Project Plan		       | Team              | September 13th  |
+Create Project Work Plan	       | Kristi            | September 13th  |
+Project Work Plan Proofreader 	       | Erik             | September 18th  |
+Submit Project Work Plan               | Abdulelah         | September 19th  |
+Review Components of GIT Package     |Team		|December 9th |
 Update README.MD		 | Anitha   | December 10th |
 Create GIT Package		| Abdulelah |December 11th |
 Project Contributors Statements	       |Team	| December 11th |
@@ -111,4 +111,8 @@ Submit GIT Repository Package  |       Abdulelah                | December 12th 
 ### _**Contributorship Statement**_
 
 Abdulelah Almubarak, Kristi Boxley, Erik Eiler and Anitha Saminathan have contributed to this Project Work Plan Documentation. 
+
+### _**Proofreader Statement**_
+
+I, Erik Eiler, have reviewed this work and agree thatit is ready for submission.
 
