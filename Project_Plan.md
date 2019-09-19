@@ -1,12 +1,12 @@
-# Team Eureka's Project Work Plan
+# Project Work Plan
 
-This project work plan has been created by team Eureka.
+## This project work plan has been created by
 
 ![Image](https://github.com/anitha1987/EUREKA/blob/master/Eureka.jpg)
 
 **This picture is not for commercial use 
 
-### Eureka Team members 
+### Team members 
    **Abdulelah Almubarak**  
    **Kristi Boxley**  
    **Erik Eiler**  
