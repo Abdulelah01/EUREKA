@@ -1,16 +1,18 @@
-# Team Eureka's Project Work Plan
+# Project Work Plan
 
-This project work plan has been created by team Eureka.
-<img src="https://www.tedxcoconutgrove.org/img/logos/eureka.png" Our picture width="150" height="200" />
+## This project work plan has been created by
+
+![Image](https://github.com/anitha1987/EUREKA/blob/master/Eureka.jpg)
+
 **This picture is not for commercial use 
 
-### Eureka Team members 
-   **Abdulelah Almubarak**  
-   **Kristi Boxley**  
-   **Erik Eiler**  
-   **Anitha Saminathan**
+## Team members 
+   **_Abdulelah Almubarak_**  
+   **_Kristi Boxley_**  
+   **_Erik Eiler_**  
+   **_Anitha Saminathan_**
       
-### Overview 
+## Overview 
 
 We decided that we would break up the work plan by assignment deliverables for the project. The tasks column contains the tasks that we believe need to be done to meet the deliverable. The contributor's column contains the team member that is responsible for completing the task. The completion date column can signify two things: when the task should be completed by or when the task was completed by. Being an agile group, we want to allow for unforeseen issues and adjust our work plan as needed.
 
@@ -105,4 +107,8 @@ Create GIT Package		| Abdulelah |December 11th |
 Project Contributors statements	       |Team	| December 11th |
 Project readme.md Proofreader	  |Kristi    |December 11th |
 Submit GIT Repository Package  |       Abdulelah                | December 12th |
+
+### _**Contributorship Statement**_
+
+Abdulelah Almubarak, Kristi Boxley, Erik Eiler and Anitha Saminathan have contributed to this Project Work Plan Documentation. 
 
