@@ -114,5 +114,5 @@ Abdulelah Almubarak, Kristi Boxley, Erik Eiler and Anitha Saminathan have contri
 
 ### _**Proofreader Statement**_
 
-I, Erik Eiler, have reviewed this work and agree thatit is ready for submission.
+I, Erik Eiler, have reviewed this work and agree that it is ready for submission.
 
