@@ -6,13 +6,13 @@
 
 **This picture is not for commercial use 
 
-### Team members 
-   **Abdulelah Almubarak**  
-   **Kristi Boxley**  
-   **Erik Eiler**  
-   **Anitha Saminathan**
+## Team members 
+   **_Abdulelah Almubarak_**  
+   **_Kristi Boxley_**  
+   **_Erik Eiler_**  
+   **_Anitha Saminathan_**
       
-### Overview 
+## Overview 
 
 We decided that we would break up the work plan by assignment deliverables for the project. The tasks column contains the tasks that we believe need to be done to meet the deliverable. The contributor's column contains the team member that is responsible for completing the task. The completion date column can signify two things: when the task should be completed by or when the task was completed by. Being an agile group, we want to allow for unforeseen issues and adjust our work plan as needed.
 
