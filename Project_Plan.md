@@ -106,3 +106,7 @@ Project Contributors statements	       |Team	| December 11th |
 Project readme.md Proofreader	  |Kristi    |December 11th |
 Submit GIT Repository Package  |       Abdulelah                | December 12th |
 
+### _**Contributorship Statement**_
+
+Abdulelah Almubarak, Kristi Boxley, Erik Eiler and Anitha Saminathan have contributed to this Project Work Plan Documentation. 
+
