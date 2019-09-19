@@ -1,7 +1,9 @@
 # Team Eureka's Project Work Plan
 
 This project work plan has been created by team Eureka.
-<img src="https://www.tedxcoconutgrove.org/img/logos/eureka.png" Our picture width="150" height="200" />
+
+![Image](https://github.com/anitha1987/EUREKA/blob/master/Eureka.jpg)
+
 **This picture is not for commercial use 
 
 ### Eureka Team members 
