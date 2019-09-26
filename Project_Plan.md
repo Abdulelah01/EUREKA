@@ -21,9 +21,9 @@ We decided that we would break up the work plan by assignment deliverables for t
 | **Tasks**	                      |**Contributor**   |**Completion Date**|
 |-------------------------------------|:----------------:|---------------|
 |Client Organization’s Mission & Goals|    Erik              |  September 29th           |		
-|Determine Research Questions	      |    Abdulelah             |  September 29th    |	
+|Determine Research Questions	      |    Abdulelah/Team             |  September 29th    |	
 |Study Organism or Phenomenon	      |    Anitha              |  September 29th            |	
-|Determine Decisions, Actions and/or Interventions| Kristi      | October 1st              |		
+|Determine Decisions, Actions and/or Interventions| Kristi/Team      | October 1st              |		
 |Merge Research Document Deliverable   |    Kristi              | October 2nd              |		
 |Research Deliverable Proofreader                  |    Abdulelah              | October 2nd             |
 |Submit Research Deliverable           |    Abdulelah              | October 3rd             |
