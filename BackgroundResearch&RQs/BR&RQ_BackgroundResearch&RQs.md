@@ -26,7 +26,6 @@ An interesting fact is that the shape, structure, color and type of the flower v
 
 ### World of pollinators
 
-![Pollinator Partnership](https://github.com/anitha1987/WorkSpace/blob/master/pollinator%20partnerships.JPG)
 
 | Pollinators|Pollinating Varities|
 |:------------|:----------|
@@ -39,7 +38,6 @@ An interesting fact is that the shape, structure, color and type of the flower v
 |Wasps|Co evolved in fig plants, 900 species of fig plants with own species of wasps in it.|
 
 Among all pollinator’s bees are considered as the excellent pollinators because they spend majority of their lifetime in collecting pollen and nectar. The bees collect the pollen from the plants through the electrostatic force, it will be focusing on particular kind of flower at a time, which helps in pollen transfer between the same species of plants. Due to usage of pesticides and increasing urban landscape over last half century resulted in declined bee population and mysterious disappearance of enormous bees.
-
 
 ### Recent Pollinator Trends
 
@@ -70,4 +68,3 @@ Researching Pollinator health has been eye opening. Much of the prognosis is bad
 +	Pollination. (n.d.). Retrieved from https://www.canr.msu.edu/nativeplants/pollination/.
 
 +	Bicksler, A., & Guidotti, A. (2019, July 9). FAO Blog. Retrieved from https://www.pollinator.org/blog/fao.
-
