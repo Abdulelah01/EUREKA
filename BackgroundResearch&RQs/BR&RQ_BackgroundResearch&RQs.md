@@ -134,5 +134,5 @@ Researching Pollinator health has been eye opening. Much of the prognosis is bad
 |All | References|  
 
 ### Proofreader Statement
-I, Abdulelah Almubarak, have reviewed this work and agree that it is ready for submission.
+I, Abdulelah Almubarak, have reviewed this work and agree that it is ready for submission. 
 
