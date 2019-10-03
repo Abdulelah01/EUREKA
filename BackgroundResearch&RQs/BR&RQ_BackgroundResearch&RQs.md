@@ -38,6 +38,8 @@ An interesting fact is that the shape, structure, color and type of the flower v
 |Flies|Putrid smelling blossoms.|
 |Wasps|Co evolved in fig plants, 900 species of fig plants with own species of wasps in it.|
 
+![Pollinator Partnership](https://github.com/Abdulelah01/EUREKA/blob/master/pollinator%20partnerships.JPG)
+
 Among all pollinator’s bees are considered as the excellent pollinators because they spend majority of their lifetime in collecting pollen and nectar. The bees collect the pollen from the plants through the electrostatic force, it will be focusing on particular kind of flower at a time, which helps in pollen transfer between the same species of plants. Due to usage of pesticides and increasing urban landscape over last half century resulted in declined bee population and mysterious disappearance of enormous bees.
 
 
