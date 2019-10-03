@@ -58,7 +58,7 @@ However, Nebraska continues to have challenges when it comes to pollinator healt
 
 ### Nebraska At Risk Pollinators
 
-| Butterfly |Moths  |  bees |  
+| Butterfly |Moths  |  Bees |  
 |----------|------------|-----------|  
 |Monarch|  Whitney Underwing|Southern Plains Bumble Bee| 
 |Bucholz Black Dash| Married Underwing|Variable Cuckoo Bumble Bee|  
