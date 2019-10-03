@@ -6,7 +6,7 @@
 My project team is mainly focusing on the data from the protecting pollinators program. The core focus of protecting pollinators is conserving their habitats and attracting native pollinators. “The ecological service they provide is necessary for the reproduction of over 85% of the world’s flowering plants, including more than two-thirds of the world’s crop species” (Pollinator Conservation). The impact of losing pollinators is monumental not to just humans but to animal life as well. “The economic value of these native pollinators is estimated at $3 billion per year in the U.S” (Pollinator Conservation). Therefore, not only would food from crops be in ruin but food obtained from most animals would be ruined as well. The main threats to these pollinators are habit loss, pesticide use, and introduced diseases.  
 
 ### Research Questions And Why They Matter
-* We know that a third of the crop that was grown was not successful. Identify the type of grain used and the type of dirt the unsuccessful crop was planted in? 
+* We know that a third of the crop that was grown was not successful. Identify the type of grain used and the type of soil the unsuccessful crop was planted in? 
 * We would like to evaluate the number of species on the land and review the native plant species versus non-native species. 
 * How does the region or the size of the land affect the results? How does the type and quantity of the grain affect the results?  
 * We would like to investigate the issues that caused the failure in some of the farms and identify the reasons for the failures.   
@@ -39,7 +39,7 @@ An interesting fact is that the shape, structure, color and type of the flower v
 |Bees|Efficient Pollinators, Focus on one specific flower at a time.|
 |Beetles|Fragrant flowers which is large and bowl shaped.|
 |Flies|Putrid smelling blossoms.|
-|Wasps|Co evolved in fig plants, 900 species of fig plants with own species of wasps in it.|
+|Wasps|Coevolved in fig plants, 900 species of fig plants with own species of wasps in it.|
 
 Among all pollinator’s bees are considered as the excellent pollinators because they spend majority of their lifetime in collecting pollen and nectar. The bees collect the pollen from the plants through the electrostatic force, it will be focusing on a particular kind of flower at a time, which helps in pollen transfer between the same species of plants. Due to usage of pesticides and increasing urban landscape over last half century, there has been a mysterious disappearance of an enormous number of bees.
 
@@ -60,7 +60,7 @@ However, Nebraska continues to have challenges when it comes to pollinator healt
 
 
 ### Nebraska At Risk Pollinator  
-| Butterfly |Moths  |  Bees |  
+| Butterfly | Moths  |  Bees |  
 |----------|------------|-----------|  
 |Monarch|  Whitney Underwing|Southern Plains Bumble Bee| 
 |Bucholz Black Dash| Married Underwing|Variable Cuckoo Bumble Bee|  
@@ -133,4 +133,6 @@ Researching Pollinator health has been eye opening. Much of the prognosis is bad
 |Kristi | How Pollinators Are Studied, Recent Pollinator Trends, and Decisions, Interventions And Actions |  
 |All | References|  
 
+## Proofreader Statement
+I, Abdulelah Almubarak, have reviewed this work and agree that it is ready for submission.
 
