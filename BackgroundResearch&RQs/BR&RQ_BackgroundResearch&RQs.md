@@ -40,20 +40,6 @@ An interesting fact is that the shape, structure, color and type of the flower v
 
 Among all pollinator’s bees are considered as the excellent pollinators because they spend majority of their lifetime in collecting pollen and nectar. The bees collect the pollen from the plants through the electrostatic force, it will be focusing on particular kind of flower at a time, which helps in pollen transfer between the same species of plants. Due to usage of pesticides and increasing urban landscape over last half century resulted in declined bee population and mysterious disappearance of enormous bees.
 
-## Reference 
-
-+	What is a pollinator? (n.d.). Retrieved from https://www.nps.gov/subjects/pollinators/what-is-a-pollinator.htm.
-
-+	Ollerton, J. (2017). Pollinator diversity: distribution, ecological function, and conservation. Annual Review of Ecology, Evolution, and Systematics, 48, 353-376.
-
-+	What are pollinators and why do we need them? (Center for Pollinator Research). (n.d.). Retrieved from https://ento.psu.edu/pollinators/resources-and-outreach/what-are-pollinators-and-why-do-we-need-them.
-
-+	Alexandra-Maria, K., Alexandra-Maria Klein Alexandra-Maria Klein, Agroecology, K., Vaissière, B. E., Bernard, Steffan-Dewenter, I., … Claire Kremen Department of Environmental Science. (2006, October 27). Importance of pollinators in changing landscapes for world crops. Retrieved from https://royalsocietypublishing.org/doi/full/10.1098/rspb.2006.3721.
-
-+	Pollination. (n.d.). Retrieved from https://www.canr.msu.edu/nativeplants/pollination/.
-
-+	Bicksler, A., & Guidotti, A. (2019, July 9). FAO Blog. Retrieved from https://www.pollinator.org/blog/fao.
-
 ### Recent Pollinator Trends
 
 The Nebraska Game Parks have identified 18 at risk pollinator insects in Nebraska. There are the following: Monarch, Regal Fritillary, Colorado Rita Dotted-Blue, Iowa Skipper, Mottled Duskywing, Two-spotted Skipper, Bucholz Black Dash, Ottoe Skipper, Married Underwing, Whitney Underwing, Southern Plains Bumble Bee, Variable Cuckoo Bumble Bee, Suckley’s Cuckoo Bumble Bee, Hunt Bumble Bee, American Bumble Bee, Western Bumble Bee, Yellow Bumble Bee, and Morrison Bumble Bee. 
@@ -69,3 +55,17 @@ The decline in pollinators are not limited to the United States, A study by the 
 ### Decisions, Interventions and Actions
 
 Researching Pollinator health has been eye opening. Much of the prognosis is bad. However, there are things that everyone can do to protect pollinator health. A wonderful conclusion of this project would be to find a way to promote the health of pollinators. This result could be done by finding a combination of flowering plants that can withstand the bombardment of pesticides and unpredictable weather patterns. In reviewing the data provided by Xerces Society, it would be great to show usage patterns within the quadrants that might promote the health of the pollinators. The Xerces Society might develop a model for successful planting process. Also, the Xerces Society would be able to continue educating the public on the need for pollinators and the factors required to create a successful pollinator habitat in Nebraska. 
+
+## Reference 
+
++	What is a pollinator? (n.d.). Retrieved from https://www.nps.gov/subjects/pollinators/what-is-a-pollinator.htm.
+
++	Ollerton, J. (2017). Pollinator diversity: distribution, ecological function, and conservation. Annual Review of Ecology, Evolution, and Systematics, 48, 353-376.
+
++	What are pollinators and why do we need them? (Center for Pollinator Research). (n.d.). Retrieved from https://ento.psu.edu/pollinators/resources-and-outreach/what-are-pollinators-and-why-do-we-need-them.
+
++	Alexandra-Maria, K., Alexandra-Maria Klein Alexandra-Maria Klein, Agroecology, K., Vaissière, B. E., Bernard, Steffan-Dewenter, I., … Claire Kremen Department of Environmental Science. (2006, October 27). Importance of pollinators in changing landscapes for world crops. Retrieved from https://royalsocietypublishing.org/doi/full/10.1098/rspb.2006.3721.
+
++	Pollination. (n.d.). Retrieved from https://www.canr.msu.edu/nativeplants/pollination/.
+
++	Bicksler, A., & Guidotti, A. (2019, July 9). FAO Blog. Retrieved from https://www.pollinator.org/blog/fao.
