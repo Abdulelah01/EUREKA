@@ -31,7 +31,7 @@ An interesting fact is that the shape, structure, color and type of the flower v
 | Pollinators|Pollinating Varities|  
 |:------------|:----------|
 |Hummingbirds|Plants having tubular red, yellow and orange flowers.|
-|Moths & Bats|Nocturnal blooms with heavy fragrance and large amount of diluted nectar.|
+|Moths & Bats|Nocturnal blooms with heavy fragrance and large amount of diluted nectar.|  
 |Butterflies|Since they cannot feed while flying, they select flowers based on the shape. |  
 |Bees|Efficient Pollinators, Focus on one specific flower at a time.|
 |Beetles|Fragrant flowers which is large and bowl shaped.|
@@ -56,7 +56,7 @@ The Nebraska Game Parks have identified 18 at risk pollinator insects in Nebrask
 | Butterfly |Moths  |  bees |  
 |----------|------------|-----------|  
 |Monarch|  Whitney Underwing|Southern Plains Bumble Bee| 
-|Bucholz Black Dash| | Married Underwing|Variable Cuckoo Bumble Bee|  
+|Bucholz Black Dash| Married Underwing|Variable Cuckoo Bumble Bee|  
 |Regal Fritillary|  | Suckley’s Cuckoo Bumble Bee|  
 |Colorado Rita Dotted-Blue|  | Hunt Bumble Bee|  
 |Iowa Skipper|  | American Bumble Bee|  
