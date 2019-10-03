@@ -54,8 +54,7 @@ The Elephant and Bees Project is a pollinator-focused study in Africa and Asia. 
 
 The Nebraska Game Parks have identified 18 at risk pollinator insects in Nebraska. There are the following: Monarch, Regal Fritillary, Colorado Rita Dotted-Blue, Iowa Skipper, Mottled Duskywing, Two-spotted Skipper, Bucholz Black Dash, Ottoe Skipper, Married Underwing, Whitney Underwing, Southern Plains Bumble Bee, Variable Cuckoo Bumble Bee, Suckley’s Cuckoo Bumble Bee, Hunt Bumble Bee, American Bumble Bee, Western Bumble Bee, Yellow Bumble Bee, and Morrison Bumble Bee. 
 
-|----------|------------|-----------|----------|-----------|-----------| 
-
+|----------|------------|-----------|----------|-----------|-----------|  
 |Monarch|Regal Fritillary|Colorado Rita Dotted-Blue|Iowa Skipper|Mottled Duskywing|Two-spotted Skipper|  
  
 |Bucholz Black Dash| Ottoe Skipper| Married Underwing| Whitney Underwing|Southern Plains Bumble Bee|
