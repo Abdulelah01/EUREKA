@@ -1,4 +1,4 @@
-# Background Research & Research Questions
+ # Background Research & Research Questions
 ## Organization’s Mission
 “The Xerces Society for Invertebrate Conservation is an international nonprofit organization that protects the natural world through the conservation of invertebrates and their habitats.” The name Xerces is based off of an extinct butterfly, Xerces Blue. This extinction was the first known in North America due to human activities. “The Xerces Society’s core programs focus on habitat conservation and restoration, species conservation, protecting pollinators, contributing to watershed health, and reducing harm to invertebrates from pesticide use.” 
 ### Project-Specific Program Mission
@@ -28,8 +28,7 @@ An interesting fact is that the shape, structure, color and type of the flower v
 ### World of pollinators
 
 
-| Pollinators|Pollinating Varities|
-
+| Pollinators|Pollinating Varities|  
 |:------------|:----------|
 |Hummingbirds|Plants having tubular red, yellow and orange flowers.|
 |Moths & Bats|Nocturnal blooms with heavy fragrance and large amount of diluted nectar.|
