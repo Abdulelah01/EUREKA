@@ -12,6 +12,7 @@ My project team is mainly focusing on the data from the protecting pollinators p
 * In all those locations what are the proper fields that should allow potential growth?
 * Is it possible to know what types of trees around the farms and what kind of farms surrounding the area?
 
+
 ## Study of Organism
 
 ### Role of Pollinators in Ecosystem
@@ -38,6 +39,15 @@ An interesting fact is that the shape, structure, color and type of the flower v
 |Wasps|Co evolved in fig plants, 900 species of fig plants with own species of wasps in it.|
 
 Among all pollinator’s bees are considered as the excellent pollinators because they spend majority of their lifetime in collecting pollen and nectar. The bees collect the pollen from the plants through the electrostatic force, it will be focusing on particular kind of flower at a time, which helps in pollen transfer between the same species of plants. Due to usage of pesticides and increasing urban landscape over last half century resulted in declined bee population and mysterious disappearance of enormous bees.
+
+
+### How Pollinators are studied
+
+In an article by Diane Byers, she discussed the different approaches to studying the interaction between pollinators and plants as it relates to climate change. Those approaches are broken into four categories, plant, pollinator, interaction and network. A plant-focused approach where the researchers uses the measurement of the flowering phenology. Researchers in this type of study may gather data by reviewing historical records, performing field observations, performing experiments, measuring the effects of environmental differences, and/or making phylogentic, the evolution of a particular group of organisms, assessments. A pollinator-focused approach where the researchers are looking at entomological issues with a botanical audience in mind. Researchers in this type of study may gather data by reviewing historical records, perform field observations, perform experiments, and /or measure the effects of environmental differences. An interaction-focused approach where the researchers could look at the interactions of one flower type and a specific pollinator or the interactions within the entire community of pollinators and plants. Researchers in this type of study may gather data by reviewing historical records, performing field observations, performing experiments, measuring the effects of environmental differences, and/or measuring the effects of spring climates. Lastly, a network-focused approach where the researchers use a more comprehensive approach to evaluating the plant-pollinator network. Researchers in this type of study usually gather data by performing field observations and/ or making phylogentic assessments.  
+
+In a plant-focused study in Burkina Faso, West Africa, researchers looked at the impact of bee pollination on cotton and sesame crops. Cotton and Sesame seed crops are known as self-pollinating crops. Both cotton and sesame plants have one-day flowers. During this study, 50 cotton and sesame plants were selected randomly. When the flower bloomed, the study exposed the flower to five different pollination treatments. During the pollination treatments, researchers recorded the first pollinator to visit the flower. After the completed visit, the pollinator were captured and the flower was covered to prevent any other pollinator visits. The seeds were put in petri dishes and monitored until they either germinated or decayed. The germinated seeds were placed in pots in a greenhouse where they cultivated for 35 days. The study found that the pollination by honeybees and wild bees significantly increased yield quantity and quality on average up to 62%, while exclusion of pollinators caused an average yield gap of 37% in cotton and 59% in sesame. (Stein, et al, 2017)
+
+The Elephant and Bees Project is a pollinator-focused study in Africa and Asia. The project uses the knowledge of elephant’s avoidance to African Honey Bees to reduce the damage from crop-raiding elephants. The project uses beehive fences to deter Elephants from destroying small farms. This process creates “a social and economic boost to poverty-stricken rural communities through pollination services and the sustainable harvesting of Elephant Friendly Honey.” During this study, researchers are able to identify and record hundreds of pollinator and which flower type that each pollinator visits, and document the trends and distribution patterns of a variety pollinators, including honeybees
 
 ### Recent Pollinator Trends
 
