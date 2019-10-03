@@ -33,6 +33,7 @@ An interesting fact is that the shape, structure, color and type of the flower v
 |Hummingbirds|Plants having tubular red, yellow and orange flowers.|
 |Moths & Bats|Nocturnal blooms with heavy fragrance and large amount of diluted nectar.|
 |Butterflies|Since they cannot feed while flying, they select flowers based on the shape. |
+
 |Bees|Efficient Pollinators, Focus on one specific flower at a time.|
 |Beetles|Fragrant flowers which is large and bowl shaped.|
 |Flies|Putrid smelling blossoms.|
@@ -52,6 +53,9 @@ The Elephant and Bees Project is a pollinator-focused study in Africa and Asia. 
 ### Recent Pollinator Trends
 
 The Nebraska Game Parks have identified 18 at risk pollinator insects in Nebraska. There are the following: Monarch, Regal Fritillary, Colorado Rita Dotted-Blue, Iowa Skipper, Mottled Duskywing, Two-spotted Skipper, Bucholz Black Dash, Ottoe Skipper, Married Underwing, Whitney Underwing, Southern Plains Bumble Bee, Variable Cuckoo Bumble Bee, Suckley’s Cuckoo Bumble Bee, Hunt Bumble Bee, American Bumble Bee, Western Bumble Bee, Yellow Bumble Bee, and Morrison Bumble Bee. 
+
+|Monarch|Regal Fritillary|Colorado Rita Dotted-Blue|Iowa Skipper|Mottled Duskywing|Two-spotted Skipper|
+|Bucholz Black Dash| Ottoe Skipper| Married Underwing| Whitney Underwing|Southern Plains Bumble Bee|
 
 Many organizations within in Nebraska have taken on conservation projects around pollinator health. The Nebraska Department of transportation is trying to do their part in supporting the pollinators of Nebraska. They are performing tasks like planting seed mixtures comprised of 10 to 20% of native Nebraskan wildflower seed in conjunction with highway construction projects. The species may differ based on the region of the state where the project is occurring. NDOT is also funding a research project at the University of Nebraska to investigate dense areas of wildflower also known as wildflower islands and their effect on pollinating species populations. The Extension, a division of the Agriculture and Natural Resources at the University of Nebraska at Lincoln offers to programs to promote pollinator health in the state for the average resident. The first is a certification program. The program encourages residents to implement good pollinator practices in their own gardens and provides them with guidelines for the proper plants that are pollinator friendly. The second program is directed toward elementary school students. The program is designed to educate the students on the part insects play in producing the foods we eat. The program centers on growing Milkweed, which is a plant that is primarily eaten by Monarch butterflies.  
 
