@@ -35,7 +35,7 @@ An interesting fact is that the shape, structure, color and type of the flower v
 |:------------|:----------|
 |Hummingbirds|Plants having tubular red, yellow and orange flowers.|
 |Moths & Bats|Nocturnal blooms with heavy fragrance and large amount of diluted nectar.|  
-|Butterflies|Since they cannot feed while flying, They select flowers based on the shape. |  
+|Butterflies|Since they cannot feed while flying, they select flowers based on the shape. |  
 |Bees|Efficient Pollinators, Focus on one specific flower at a time.|
 |Beetles|Fragrant flowers which is large and bowl shaped.|
 |Flies|Putrid smelling blossoms.|
