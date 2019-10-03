@@ -1,8 +1,8 @@
- # Background Research & Research Questions
+# Background Research & Research Questions
 ## Organization’s Mission
-“The Xerces Society for Invertebrate Conservation is an international nonprofit organization that protects the natural world through the conservation of invertebrates and their habitats.” The name Xerces is based off of an extinct butterfly, Xerces Blue. This extinction was the first known in North America due to human activities. “The Xerces Society’s core programs focus on habitat conservation and restoration, species conservation, protecting pollinators, contributing to watershed health, and reducing harm to invertebrates from pesticide use.” 
+“The Xerces Society for Invertebrate Conservation is an international nonprofit organization that protects the natural world through the conservation of invertebrates and their habitats” (Mission & History). The name Xerces is based off of an extinct butterfly, Xerces Blue. This extinction was the first known in North America due to human activities. “The Xerces Society’s core programs focus on habitat conservation and restoration, species conservation, protecting pollinators, contributing to watershed health, and reducing harm to invertebrates from pesticide use” (Mission & History). 
 ### Project-Specific Program Mission
-My project team is mainly focusing on the data from the protecting pollinators program. The core focus of protecting pollinators is conserving their habitats and attracting native pollinators. “The ecological service they provide is necessary for the reproduction of over 85% of the world’s flowering plants, including more than two-thirds of the world’s crop species.” The impact of losing pollinators is monumental not to just humans but to animal life as well. “The economic value of these native pollinators is estimated at $3 billion per year in the U.S.” Therefore, not only would food from crops be in ruin but food obtained from most animals would be ruined as well. The main threats to these pollinators are habit loss, pesticide use, and introduced diseases.
+My project team is mainly focusing on the data from the protecting pollinators program. The core focus of protecting pollinators is conserving their habitats and attracting native pollinators. “The ecological service they provide is necessary for the reproduction of over 85% of the world’s flowering plants, including more than two-thirds of the world’s crop species” (Pollinator Conservation). The impact of losing pollinators is monumental not to just humans but to animal life as well. “The economic value of these native pollinators is estimated at $3 billion per year in the U.S” (Pollinator Conservation). Therefore, not only would food from crops be in ruin but food obtained from most animals would be ruined as well. The main threats to these pollinators are habit loss, pesticide use, and introduced diseases.
 ### The research questions we plan to focus on and why they matter
 * We know that the third of the crop that was grown wasn’t successful what type of grain used in those areas and what type of dirt was it planted in? 
 * We would like to evaluate the number of species on the land and check the native plant species versus non-native species. 
@@ -80,14 +80,20 @@ Researching Pollinator health has been eye opening. Much of the prognosis is bad
 
 ## Reference 
 
-+	What is a pollinator? (n.d.). Retrieved from https://www.nps.gov/subjects/pollinators/what-is-a-pollinator.htm.
++	Alexandra-Maria, K., Alexandra-Maria Klein Alexandra-Maria Klein, Agroecology, K., Vaissière, B. E., Bernard, Steffan-Dewenter, I., … Claire Kremen Department of Environmental Science. (2006, October 27). Importance of pollinators in changing landscapes for world crops. Retrieved from https://royalsocietypublishing.org/doi/full/10.1098/rspb.2006.3721.
+
++	Bicksler, A., & Guidotti, A. (2019, July 9). FAO Blog. Retrieved from https://www.pollinator.org/blog/fao.
+
++ Mission & History. (n.d.). Retrieved October 2, 2019, from https://xerces.org/mission/.
 
 +	Ollerton, J. (2017). Pollinator diversity: distribution, ecological function, and conservation. Annual Review of Ecology, Evolution, and Systematics, 48, 353-376.
 
-+	What are pollinators and why do we need them? (Center for Pollinator Research). (n.d.). Retrieved from https://ento.psu.edu/pollinators/resources-and-outreach/what-are-pollinators-and-why-do-we-need-them.
-
-+	Alexandra-Maria, K., Alexandra-Maria Klein Alexandra-Maria Klein, Agroecology, K., Vaissière, B. E., Bernard, Steffan-Dewenter, I., … Claire Kremen Department of Environmental Science. (2006, October 27). Importance of pollinators in changing landscapes for world crops. Retrieved from https://royalsocietypublishing.org/doi/full/10.1098/rspb.2006.3721.
-
 +	Pollination. (n.d.). Retrieved from https://www.canr.msu.edu/nativeplants/pollination/.
 
-+	Bicksler, A., & Guidotti, A. (2019, July 9). FAO Blog. Retrieved from https://www.pollinator.org/blog/fao.
++ Pollinator Conservation. (n.d.). Retrieved October 2, 2019, from https://xerces.org/pollinator-conservation/.
+
++	What are pollinators and why do we need them? (Center for Pollinator Research). (n.d.). Retrieved from https://ento.psu.edu/pollinators/resources-and-outreach/what-are-pollinators-and-why-do-we-need-them.
+
++	What is a pollinator? (n.d.). Retrieved from https://www.nps.gov/subjects/pollinators/what-is-a-pollinator.htm.
+
+
