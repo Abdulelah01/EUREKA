@@ -29,7 +29,7 @@ An interesting fact is that the shape, structure, color and type of the flower v
 
 ![Pollinator Partnership](https://github.com/anitha1987/EUREKA/blob/master/pollinator%20partnerships.JPG)
 
-| Pollinators|Pollinating Varities|  
+| Pollinators|Pollinating Varieties|  
 |:------------|:----------|
 |Hummingbirds|Plants having tubular red, yellow and orange flowers.|
 |Moths & Bats|Nocturnal blooms with heavy fragrance and large amount of diluted nectar.|  
