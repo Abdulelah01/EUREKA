@@ -27,7 +27,7 @@ An interesting fact is that the shape, structure, color and type of the flower v
 
 ### World of pollinators
 
-![Pollinator Partnership] (https://github.com/anitha1987/EUREKA/blob/master/pollinator%20partnerships.JPG)
+![Pollinator Partnership](https://github.com/anitha1987/EUREKA/blob/master/pollinator%20partnerships.JPG)
 
 | Pollinators|Pollinating Varities|  
 |:------------|:----------|
