@@ -81,15 +81,41 @@ Researching Pollinator health has been eye opening. Much of the prognosis is bad
 
 +	Alexandra-Maria, K., Alexandra-Maria Klein Alexandra-Maria Klein, Agroecology, K., Vaissière, B. E., Bernard, Steffan-Dewenter, I., … Claire Kremen Department of Environmental Science. (2006, October 27). Importance of pollinators in changing landscapes for world crops. Retrieved from https://royalsocietypublishing.org/doi/full/10.1098/rspb.2006.3721.
 
-+	Bicksler, A., & Guidotti, A. (2019, July 9). FAO Blog. Retrieved from https://www.pollinator.org/blog/fao.
++ At-Risk Insect Pollinators. (2019, September 26). Retrieved from http://outdoornebraska.gov/atriskpollinators/.  
 
-+ Mission & History. (n.d.). Retrieved October 2, 2019, from https://xerces.org/mission/.
++	Bicksler, A., & Guidotti, A. (2019, July 9). FAO Blog. Retrieved from https://www.pollinator.org/blog/fao.  
+
++ Byers, Diane. (2019, October 2). Studying Plant–Pollinator Interactions in a Changing Climate: A Review of Approaches. Retrieved from https://bioone.org/journals/applications-in-plant-sciences/volume-5/issue-6/apps.1700012/Studying-PlantPollinator-Interactions-in-a-Changing-Climate--A-Review/10.3732/apps.1700012.full.  
+
++ Dejka, Joe. (2019, September 26). Suffering huge losses in Nebraska, beekeepers blame chemicals, weather and more. Retrieved from https://www.omaha.com/news/nebraska/suffering-huge-losses-in-nebraska-beekeepers-blame-chemicals-weather-and/article_680046d5-64a1-5f06-9426-77ef04073dfe.html.   
+
++ Ewald, J.A., et al. (2019, September 27). Investigation of the Impact of Changes in Pesticide Use on Invertebrate Populations. Retrieved from https://www.gwct.org.uk/research/scientific-publications/2016/ewald2016/.  
+
++ Hallmann, Casper , et al. (2019, September 27). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. Retrieved from https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809.  
+
++ Jordan-Bloch, Chris. (2019, September 27). Trump’s epa said this bee-killing insecticide is safe, now beekeepers are suing. Retrieved from https://earthjustice.org/news/press/2019/pesticide-sulfoxaflor-beekeepers-sue-trump-epa.  
+
++ Kasprak, Alex. (2019, September 27). Did the Trump EPA Invoke ‘Emergency’ Rules to Allow Use of a Pesticide Harmful to Bees? Retrieved from https://www.snopes.com/news/2019/02/19/epa-emergency-pesticide-harmful-to-bees/.  
+
++ Mission & History. (n.d.). Retrieved October 2, 2019, from https://xerces.org/mission/.  
+
++ NDOT Activities to Support Pollinators. (2019, September 26). Retrieved from https://dot.nebraska.gov/projects/environment/pollinators/.  
+
++ Nebraska Pollinator Habitat Certification. (2019, September 26). Retrieved from https://entomology.unl.edu/pollinator-habitat-certification.  
+
++ New project taps Nebraska youth to help boost monarch butterfly population. (2019, September 26). Retrieved from https://ianrnews.unl.edu/new-project-taps-nebraska-youth-help-boost-monarch-butterfly-population.  
 
 +	Ollerton, J. (2017). Pollinator diversity: distribution, ecological function, and conservation. Annual Review of Ecology, Evolution, and Systematics, 48, 353-376.
 
-+	Pollination. (n.d.). Retrieved from https://www.canr.msu.edu/nativeplants/pollination/.
++	Pollination. (n.d.). Retrieved from https://www.canr.msu.edu/nativeplants/pollination/.  
 
-+ Pollinator Conservation. (n.d.). Retrieved October 2, 2019, from https://xerces.org/pollinator-conservation/.
++ Pollination & Botanical Research. (2019, October 2). Retrieved from http://elephantsandbees.com/pollination-study/.  
+
++ Pollinator Conservation. (n.d.). Retrieved October 2, 2019, from https://xerces.org/pollinator-conservation/.  
+
++ Powney, Gary, et al. (2019, September 27). Widespread losses of pollinating insects in Britain. Retrieved from https://www.nature.com/articles/s41467-019-08974-9.  
+
++ Stein, Katharina, et al. (2019, October 2). Bee pollination increases yield quantity and quality of cash crops in Burkina Faso, West Africa. https://www.nature.com/articles/s41598-017-17970-2.  
 
 +	What are pollinators and why do we need them? (Center for Pollinator Research). (n.d.). Retrieved from https://ento.psu.edu/pollinators/resources-and-outreach/what-are-pollinators-and-why-do-we-need-them.
 
