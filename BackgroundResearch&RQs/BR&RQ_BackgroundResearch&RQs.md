@@ -1,16 +1,18 @@
 # Background Research & Research Questions
 ## Organization’s Mission
-“The Xerces Society for Invertebrate Conservation is an international nonprofit organization that protects the natural world through the conservation of invertebrates and their habitats” (Mission & History). The name Xerces is based off of an extinct butterfly, Xerces Blue. This extinction was the first known in North America due to human activities. “The Xerces Society’s core programs focus on habitat conservation and restoration, species conservation, protecting pollinators, contributing to watershed health, and reducing harm to invertebrates from pesticide use” (Mission & History). 
+“The Xerces Society for Invertebrate Conservation is an international nonprofit organization that protects the natural world through the conservation of invertebrates and their habitats” (Mission & History). The name Xerces is based off of an extinct butterfly, Xerces Blue. This extinction was the first known in North America due to human activities. “The Xerces Society’s core programs focus on habitat conservation and restoration, species conservation, protecting pollinators, contributing to watershed health, and reducing harm to invertebrates from pesticide use” (Mission & History).   
+
 ### Project-Specific Program Mission
-My project team is mainly focusing on the data from the protecting pollinators program. The core focus of protecting pollinators is conserving their habitats and attracting native pollinators. “The ecological service they provide is necessary for the reproduction of over 85% of the world’s flowering plants, including more than two-thirds of the world’s crop species” (Pollinator Conservation). The impact of losing pollinators is monumental not to just humans but to animal life as well. “The economic value of these native pollinators is estimated at $3 billion per year in the U.S” (Pollinator Conservation). Therefore, not only would food from crops be in ruin but food obtained from most animals would be ruined as well. The main threats to these pollinators are habit loss, pesticide use, and introduced diseases.
+My project team is mainly focusing on the data from the protecting pollinators program. The core focus of protecting pollinators is conserving their habitats and attracting native pollinators. “The ecological service they provide is necessary for the reproduction of over 85% of the world’s flowering plants, including more than two-thirds of the world’s crop species” (Pollinator Conservation). The impact of losing pollinators is monumental not to just humans but to animal life as well. “The economic value of these native pollinators is estimated at $3 billion per year in the U.S” (Pollinator Conservation). Therefore, not only would food from crops be in ruin but food obtained from most animals would be ruined as well. The main threats to these pollinators are habit loss, pesticide use, and introduced diseases.  
+
 ### Research Questions And Why They Matter
-* We know that the third of the crop that was grown wasn’t successful what type of grain used in those areas and what type of dirt was it planted in? 
-* We would like to evaluate the number of species on the land and check the native plant species versus non-native species. 
-* Does the region matter or the size of the land or the type of the grain and the quantity of the grain?
-* We would like to investigate the issues that caused the failure in some of the farms and what are the reasons of the failure? 
-* We want to evaluate the field level average coefficient of conservatism as mentioned.
-* In all those locations what are the proper fields that should allow potential growth?
-* Is it possible to know what types of trees around the farms and what kind of farms surrounding the area?
+* We know that a third of the crop that was grown was not successful. Identify the type of grain used and the type of dirt the unsuccessful crop was planted in? 
+* We would like to evaluate the number of species on the land and review the native plant species versus non-native species. 
+* How does the region or the size of the land affect the results? How does the type and quantity of the grain affect the results?  
+* We would like to investigate the issues that caused the failure in some of the farms and identify the reasons for the failures.   
+* We would like to evaluate the field level average coefficient of conservatism.  
+* In all locations, which fields should allow for potential growth?  
+* Can we identify the types of trees and other farms in the surrounding area located near the crops? 
 
 
 ## Study Of Organism
