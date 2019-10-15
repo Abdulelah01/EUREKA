@@ -14,7 +14,7 @@
 #### Socio-Demographics
 
 * Nebraska Native  
-* Master's of Science in Ecology from University of Nebraska - Lincoln  
+* Masters of Science in Ecology from University of Nebraska - Lincoln  
 * Has worked in Alaska with the National Wildlife Refuge system and in Minnesota as a canoe guide
 * Started with Xerces Society in 2017
 * Collaborates with NRCS (Natural Resource Conservation Services)  
