@@ -18,9 +18,10 @@
 * Has worked in Alaska with the National Wildlife Refuge system and in Minnesota as a canoe guide
 * Started with Xerces Society in 2017
 * In her role at Xerces Society, Ms. Powers ...  
-        * Collaborates with NRCS  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Collaborates with NRCS  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Consults with farmers on habitat restoration  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Advises on pollinator friendly farm management practices  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Basec in Lincoln, Nebraska  
+
 
 
