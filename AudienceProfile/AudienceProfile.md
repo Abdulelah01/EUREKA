@@ -21,6 +21,7 @@
 * Consults with farmers on habitat restoration  
 * Advises on pollinator friendly farm management practices  
 > * Basec in Lincoln, Nebraska  
-
+<pre><code> Basec in Lincoln, Nebraska
+</code></pre>
 
 
