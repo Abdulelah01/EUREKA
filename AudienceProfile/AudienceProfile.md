@@ -33,5 +33,25 @@
  * Knowledge and experience in Microsoft Excel, analytical and visualization tools like R, SPSS, Tableau and MYSQL.
  * Knowledge in Statistical Methods and calculations.
  * Knowledge on the site to be analyzed (transect, quadrats), plant species, and variables used for the study.
+ 
+ #### Goals
+ ##### Organization Mission & Values
+* Protect the natural world by:
+   * Conserving and restoring habitats of invertebrates
+   * Conserving invertebrate species
+   * Contributing to the watershed health
+   * Protecting the world's pollinators
+   * Attracting native pollinators
+   * Minimizing the harmful impact of pesticides on invertebrates
+
+ ##### Expectations
+ * Correlate site-level factors with plant establishment success
+   * Date of planting
+   * Seed Amount
+   * Seed Vendor
+   * Surrounding landscape
+* Evaluate the cover of native vs non-native plant species
+* Evaluate the field level average coefficient of conservatism
+
 
 
