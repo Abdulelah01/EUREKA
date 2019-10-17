@@ -46,4 +46,4 @@ Copyright (c) 2019 EUREKA
 * Kristi Boxley
 * Erik Eiler
 * Anitha Saminathan
-* Abdulelah Almubarak
+* [Abdulelah Almubarak](https://github.com/Abdulelah01)
