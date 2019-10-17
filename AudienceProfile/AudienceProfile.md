@@ -34,8 +34,7 @@
  * Knowledge in Statistical Methods and calculations.
  * Knowledge on the site to be analyzed (transect, quadrats), plant species, and variables used for the study.
  
- #### Goals
- ##### Organization Mission & Values
+ #### Organization Mission & Values
 * Protect the natural world by:
    * Conserving and restoring habitats of invertebrates
    * Conserving invertebrate species
@@ -44,7 +43,7 @@
    * Attracting native pollinators
    * Minimizing the harmful impact of pesticides on invertebrates
 
- ##### Expectations
+ #### Project Expectations
  * Correlate site-level factors with plant establishment success
    * Date of planting
    * Seed Amount
