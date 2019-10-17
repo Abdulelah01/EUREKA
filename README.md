@@ -23,6 +23,6 @@ Copyright (c) 2019 EUREKA
 
 _Team Members_ 
 *Kristi Boxley
-Erik Eiler
-Anitha Saminathan
-Abdulelah Almubarak*
+*Erik Eiler
+*Anitha Saminathan
+*Abdulelah Almubarak
