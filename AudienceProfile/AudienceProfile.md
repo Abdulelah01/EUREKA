@@ -15,7 +15,7 @@
 
 * Nebraska Native  
 * Masters of Science in Ecology from University of Nebraska - Lincoln  
-* Has worked in Alaska with the National Wildlife Refuge system and in Minnesota as a canoe guide
+* Has worked in Alaska with the National Wildlife Refuge System and in Minnesota as a Canoe Guide
 * Started with Xerces Society in 2017
 * Collaborates with NRCS (Natural Resource Conservation Services)  
 * Consults with farmers on habitat restoration  
@@ -50,10 +50,10 @@
    * Date of Planting
    * Seed Amount
    * Seed Vendor
-   * Surrounding landscape
+   * Surrounding Landscape
 * Evaluate the cover of native vs non-native plant species
 * Evaluate the field level average coefficient of conservatism
-* Their goal to focus on the habitat conservation and restoration, species conservation pollinators. 
+* Their goals are to focus on the habitat conservation and restoration, species conservation pollinators. 
 
 #### Project Needs
 The project needs to include answering the following questions:
