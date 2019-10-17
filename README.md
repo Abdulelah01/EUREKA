@@ -14,6 +14,27 @@ _This is our group project for class Special Topics In ISQA_
 
 **4. [Audience Profile](https://github.com/Abdulelah01/EUREKA/blob/master/AudienceProfile/AudienceProfile.md)**
 
+**5. [Data Cleaning Documentation]()** _In progress_ 
+*Due Oct 24
+
+**6. [Progress Meeting]()** _In progress_
+*Due Oct 24
+
+**7. [R Script]()** _In progress_
+*Due Nov 7
+
+**8. [R Plots]()** _In progress_
+*Due Nov 14
+
+**9. [Project Presentation]()** _In progress_
+*Due Dec 12 at 6 PM
+
+**10. [Git Repository Package]()** _In progress_
+*Due Dec 12 at 3PM
+
+**11. [Project Preference Ranking Survey]()** _In progress_
+*Due Sep 13 at 9 PM
+
 ### Resources
 [ggplot2 cheat sheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)  
 
