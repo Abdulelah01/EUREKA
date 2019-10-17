@@ -68,3 +68,5 @@ The project needs to include answering the following questions:
 * Kristi added Socio-Demographics and Project Needs
 * Abe was the proofreader for this assignment
 
+## Proofreader Statement
+I, Abdulelah Almubarak, have reviewed this work and agree that it is ready to be submitted.
