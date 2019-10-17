@@ -22,7 +22,7 @@ _This is our group project for class Special Topics In ISQA_
 Copyright (c) 2019 EUREKA
 
 _Team Members_ 
-*Kristi Boxley
-*Erik Eiler
-*Anitha Saminathan
-*Abdulelah Almubarak
+* Kristi Boxley
+* Erik Eiler
+* Anitha Saminathan
+* Abdulelah Almubarak
