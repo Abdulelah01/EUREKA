@@ -17,11 +17,11 @@ _This is our group project for class Special Topics In ISQA_
 ### Resources
 [ggplot2 cheat sheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)  
 
-#### License
+### License
 [MIT License](https://github.com/Abdulelah01/EUREKA/blob/master/LICENSE)  
 Copyright (c) 2019 EUREKA
 
-_Team Members_ 
+### _Team Members_ 
 * Kristi Boxley
 * Erik Eiler
 * Anitha Saminathan
