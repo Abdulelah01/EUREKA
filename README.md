@@ -43,7 +43,7 @@ _This is our group project for class Special Topics In ISQA_
 Copyright (c) 2019 EUREKA
 
 ### _Team Members_ 
-* Kristi Boxley
-* Erik Eiler
-* Anitha Saminathan
+* [Kristi Boxley](https://github.com/kboxley)
+* [Erik Eiler](https://github.com/eeiler)
+* [Anitha Saminathan](https://github.com/anitha1987)
 * [Abdulelah Almubarak](https://github.com/Abdulelah01)
