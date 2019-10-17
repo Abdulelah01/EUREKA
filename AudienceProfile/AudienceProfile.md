@@ -42,6 +42,8 @@
    * Protecting the world's pollinators
    * Attracting native pollinators
    * Minimizing the harmful impact of pesticides on invertebrates
+   * Xerces society mission is to protect the natural world through the conservation of invertebrates and their habitats 
+   
 
  #### Project Expectations
  * Correlate site-level factors with plant establishment success
@@ -51,12 +53,14 @@
    * Surrounding landscape
 * Evaluate the cover of native vs non-native plant species
 * Evaluate the field level average coefficient of conservatism
+* Their goal to focus on the habitat conservation and restoration, species conservation pollinators. 
 
 #### Project Needs
 The project needs to include answering the following questions:
 * Identify any specific attributes that might have contributed to the failure of individual sites
 * Does the region have any effect on the success of the planting
 * Does the surrounding landscape have any effect on the success of the site
+
 
 ## Contributors Statement:
 * Anitha added Target Community and Technical Skills
