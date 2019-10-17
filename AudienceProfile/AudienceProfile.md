@@ -22,4 +22,16 @@
 * Advises on pollinator friendly farm management practices  
 * Based in Lincoln, Nebraska  
 
+#### Target Community
+
+* The pollinators are considered as the important factor for the maintanence of healthy ecosystem, therfore we could say
+    Specific target as Pollinators
+    General target as Ecosystem
+    
+ #### Technical Skills
+ 
+ * Knowledge and experience in Microsoft Excel, analytical and visualization tools like R, SPSS, Tableau and MYSQL.
+ * Knowledge in Statistical Methods and calculations.
+ * Knowledge on the site to be analyzed (transect, quadrats), plant species, and variables used for the study.
+
 
