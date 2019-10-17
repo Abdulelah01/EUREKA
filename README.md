@@ -42,7 +42,7 @@ _This is our group project for class Special Topics In ISQA_
 [MIT License](https://github.com/Abdulelah01/EUREKA/blob/master/LICENSE)  
 Copyright (c) 2019 EUREKA
 
-### _Team Members_ 
+### _Team Members Git Pages_ 
 * [Kristi Boxley](https://github.com/kboxley)
 * [Erik Eiler](https://github.com/eeiler)
 * [Anitha Saminathan](https://github.com/anitha1987)
