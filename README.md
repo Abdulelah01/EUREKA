@@ -20,3 +20,9 @@ _This is our group project for class Special Topics In ISQA_
 #### License
 [MIT License](https://github.com/Abdulelah01/EUREKA/blob/master/LICENSE)  
 Copyright (c) 2019 EUREKA
+
+_Team Members_ 
+*Kristi Boxley
+Erik Eiler
+Anitha Saminathan
+Abdulelah Almubarak*
