@@ -45,12 +45,22 @@
 
  #### Project Expectations
  * Correlate site-level factors with plant establishment success
-   * Date of planting
+   * Date of Planting
    * Seed Amount
    * Seed Vendor
    * Surrounding landscape
 * Evaluate the cover of native vs non-native plant species
 * Evaluate the field level average coefficient of conservatism
 
+#### Project Needs
+The project needs to include answering the following questions:
+* Identify any specific attributes that might have contributed to the failure of individual sites
+* Does the region have any effect on the success of the planting
+* Does the surrounding landscape have any effect on the success of the site
 
+## Contributors Statement:
+* Anitha added Target Community and Technical Skills
+* Erik added Organization Mission & Values and Project Expectations
+* Kristi added Socio-Demographics and Project Needs
+* Abe was the proofreader for this assignment
 
