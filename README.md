@@ -10,29 +10,28 @@ _This is our group project for class Special Topics In ISQA_
 
 **2. [Project Plan](https://github.com/Abdulelah01/EUREKA/blob/master/Project_Plan.md)**
 
-**3. [Study of Organism](https://github.com/Abdulelah01/EUREKA/blob/master/StudyOrganism.md)**
 
-**4. [Audience Profile](https://github.com/Abdulelah01/EUREKA/blob/master/AudienceProfile/AudienceProfile.md)**
+**3. [Audience Profile](https://github.com/Abdulelah01/EUREKA/blob/master/AudienceProfile/AudienceProfile.md)**
 
-**5. [Data Cleaning Documentation]()** _In progress_ 
+**4. [Data Cleaning Documentation]()** _In progress_ 
 * Due Oct 24
 
-**6. [Progress Meeting]()** _In progress_
+**5. [Progress Meeting]()** _In progress_
 * Due Oct 24
 
-**7. [R Script]()** _In progress_
+**6. [R Script]()** _In progress_
 * Due Nov 7
 
-**8. [R Plots]()** _In progress_
+**7. [R Plots]()** _In progress_
 * Due Nov 14
 
-**9. [Project Presentation]()** _In progress_
+**8. [Project Presentation]()** _In progress_
 * Due Dec 12 at 6 PM
 
-**10. [Git Repository Package]()** _In progress_
+**9. [Git Repository Package]()** _In progress_
 * Due Dec 12 at 3PM
 
-**11. [Project Preference Ranking Survey]()** _In progress_
+**10. [Project Preference Ranking Survey]()** _In progress_
 * Due Sep 13 at 9 PM
 
 ### Resources
