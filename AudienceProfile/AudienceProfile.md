@@ -25,8 +25,8 @@
 #### Target Community
 
 * The pollinators are considered as the important factor for the maintanence of healthy ecosystem, therfore we could say
-    Specific target as Pollinators
-    General target as Ecosystem
+    * Specific target as Pollinators
+    * General target as Ecosystem
     
  #### Technical Skills
  
