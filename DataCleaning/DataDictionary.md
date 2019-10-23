@@ -1,3 +1,16 @@
+# Data Cleaning Notes
+
+## Description of Data Source
+
+The project team was provided the data in Excel format. The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes. Below you will find descriptions of each of the Excel sheets.
+
+### Site Data Description
+
+The site data is composed of 17 rows. It contains a field id, a region, the number of acres associated with the field, the county, the date the site was planted, the planting method, the number of species planted, the Pure Live Seed pounds per acre, the previous vegetation cover and the Vendor for the seed planted. Only two cells were left N/A.
+The Columns are as follows:
+|Field ID|Region|Field acres|County|Planted Date|Planting method|# of species planted|Pure Live Seed lbs/acre|Previous cover|Seed Vendor|  
+|--------|------|-----------|------|------------|---------------|--------------------|-----------------------|--------------|-------|  
+
 
 |Attribute Name | Attribute Description |  
 |---------------|-----------------------|
