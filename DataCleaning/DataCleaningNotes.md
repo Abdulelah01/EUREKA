@@ -29,8 +29,11 @@ The Columns for the Visit Data:
 The columns for the parsed Surrounding Landscape Data:
 
 |Field ID|LandSTree|LandSRoad|LandSStructures|LandSSCrop|LandSGrass|LandSWaterArea|LandSOther|  
-|--------|---------|---------|---------------|----------|----------|--------------|----------| 
+|--------|---------|---------|---------------|----------|----------|--------------|----------|  
 
+#### Remediation of the Visit Data
+
+The visit data, on a whole, was fine. Most of the data was present. Only the Notes columns had missing cells and that is to be expected for a free form field. The Notes data for the most part will be ignored since it is more of a qualitative data. Although, the Notes column does tell us if the site was a failure. We will take that information and manually create a new column called established and populate the words success or failure. The Surrounding Landscape data was free form data as well. At first site we might have categorized this data as qualitative as well but the client specifically called out this data as varible in the analysis. Ithe the current form the data was unusuable though. Using Excel, this data was parsed into 7 columns. The data was collasped to the Field ID level. This collasping was done 
 
 ### Veg Data Description
 
