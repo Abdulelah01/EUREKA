@@ -49,6 +49,15 @@ The columns for Seed Data:
 |Field ID|Species|Pure Live Seed lbs/acre|Origin|   
 |--------|-------|-----------------------|------|  
 
+### Species Attributes Description  
+
+The Species attributes data is composed of 182 rows and 3 columns. The data set contains Species, Coefficient of Conservatism and common Name. A significant portion of the CoEfficient of Conservatism is marked with an asterick. These species will not be included in any coefficient of conservation averages per the client.  
+The Columns for Species Attributes Data:  
+
+
+|Species|Coefficent of Conservatism|Common Name|  
+|-------|--------------------------|-----------|  
+
 
 |Attribute Name | Attribute Description |  
 |---------------|-----------------------|
