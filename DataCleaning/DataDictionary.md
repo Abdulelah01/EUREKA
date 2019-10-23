@@ -25,6 +25,14 @@ The columns for the parsed Surrounding Landscape Data:
 |Field ID|LandSTree|LandSRoad|LandSStructures|LandSSCrop|LandSGrass|LandSWaterArea|LandSOther|  
 |--------|---------|---------|---------------|----------|----------|--------------|----------| 
 
+### Veg Data Description
+
+The Veg data is composed of 891 rows and 22 columns. The data set contains a Visit ID, a species and 20 quadrat columns divided by floral cover and non-floral cover. The quadrat contains a number from 1 to 6 that translates to the amount of coverage for that species within the quadrat. Much of this data is blank but not missing which is to be expected.  
+
+|Visit ID|Species|Q1|Q1FC|Q2|Q2FC|Q3|Q3FC|Q4|Q4FC|Q5|Q5FC|Q6|Q6FC|Q7|Q7FC|Q8|Q8FC|Q9|Q9FC|Q10|Q10FC|  
+|--------|-------|--|----|--|----|--|----|--|----|--|----|--|----|--|----|--|----|--|----|---|-----|  
+
+
 
 |Attribute Name | Attribute Description |  
 |---------------|-----------------------|
