@@ -6,11 +6,19 @@ The project team was provided the data in Excel format. The Excel spreadsheet wa
 
 ### Site Data Description
 
-The site data is composed of 17 rows. It contains a field id, a region, the number of acres associated with the field, the county, the date the site was planted, the planting method, the number of species planted, the Pure Live Seed pounds per acre, the previous vegetation cover and the Vendor for the seed planted. Only two cells were left N/A.
+The Site data is composed of 17 rows and 10 columns. It contains a field id, a region, the number of acres associated with the field, the county, the date the site was planted, the planting method, the number of species planted, the Pure Live Seed pounds per acre, the previous vegetation cover and the Vendor for the seed planted. Only two cells were left N/A.
 The Columns are as follows:  
 
 |Field ID|Region|Field acres|County|Planted Date|Planting method|# of species planted|Pure Live Seed lbs/acre|Previous cover|Seed Vendor|  
 |--------|------|-----------|------|------------|---------------|--------------------|-----------------------|--------------|-------|  
+
+### Visit Data Description  
+
+The Visit data is composed of 56 rows and 7 columns. It contains a field ID, a visit ID, Transect, the visit date, the observer, the surrounding Landscape and the Notes about the visit. Much of the data for the surrounding landscape is duplicated for each transect and each visit. The notes cells have the missing data for this sheet. The notes also contain an indication if the site failed. Another indication of a failed site is a fall visit will not occur.  
+
+|Visit ID|Field ID|Transect|Date|Observer|Surrounding Landscape|Notes|  
+|--------|--------|--------|----|--------|---------------------|-----| 
+
 
 
 |Attribute Name | Attribute Description |  
