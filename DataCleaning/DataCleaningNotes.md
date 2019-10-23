@@ -41,7 +41,12 @@ Steps
 3. Added data to each of the new columns based on the contents in the Surrounding Landscape column
 4. Consolidated all visits into one row for each Field ID and removed extra rows.
 5. Removed Visit ID, Observer, Visit Date, Surrounding LandScape and Notes columns.
-6. Merged visit_data_updated sheet with site data sheet based on Field ID
+6. Merged visit_data_updated sheet with site data sheet based on Field ID  
+
+The New consolidated dataset, ExpandedSiteData
+
+|FieldID|Region|NumOfAcres|County|PlantedDate|PlantingSeason|Planting method|# of species planted|Pure Live Seed lbs/acre|Previous cover|Seed Vendor| 
+
 
 ### Veg Data Description
 
