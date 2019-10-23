@@ -6,7 +6,7 @@ The project team was provided the data in Excel format. The Excel spreadsheet wa
 
 ### Site Data Description
 
-The Site data is composed of 17 rows and 10 columns. It contains a field id, a region, the number of acres associated with the field, the county, the date the site was planted, the planting method, the number of species planted, the Pure Live Seed pounds per acre, the previous vegetation cover and the Vendor for the seed planted. Only two cells were left N/A.
+The Site data is composed of 17 rows and 10 columns. It contains a field id, a region, the number of acres associated with the field, the county, the date the site was planted, the planting method, the number of species planted, the Pure Live Seed pounds per acre, the previous vegetation cover and the Vendor for the seed planted. Only two cells were left N/A. 
 The Columns for the Site Data:  
 
 |Field ID|Region|Field acres|County|Planted Date|Planting method|# of species planted|Pure Live Seed lbs/acre|Previous cover|Seed Vendor|  
@@ -28,10 +28,26 @@ The columns for the parsed Surrounding Landscape Data:
 ### Veg Data Description
 
 The Veg data is composed of 891 rows and 22 columns. The data set contains a Visit ID, a species and 20 quadrat columns divided by floral cover and non-floral cover. The quadrat contains a number from 1 to 6 that translates to the amount of coverage for that species within the quadrat. Much of this data is blank but not missing which is to be expected.  
+The Columns for Veg Data:  
 
 |Visit ID|Species|Q1|Q1FC|Q2|Q2FC|Q3|Q3FC|Q4|Q4FC|Q5|Q5FC|Q6|Q6FC|Q7|Q7FC|Q8|Q8FC|Q9|Q9FC|Q10|Q10FC|  
 |--------|-------|--|----|--|----|--|----|--|----|--|----|--|----|--|----|--|----|--|----|---|-----|  
 
+### Macro Data Description  
+
+The Macro data is composed of 650 rows and 5 columns. The data set contains a Visit ID, 3 columns that categorizes the species cover in the macroplots, <1%, 1-5% and > 5%, and Notes. The Notes are free form text. Much of this data is blank but not missing which is to be expected.  
+The columns for Macro Data:  
+
+|Visit ID|<1%|1-5%|>5%|Notes|   
+|--------|---|----|---|-----|  
+
+### Seed Data Description  
+
+The Seed data is composed of 543 rows and 4 columns. The data set contains a Field ID, Species, Pure Live Seed lbs per acre and Origin. This data set contains no missing data. The sum of the Pure Live Seed pound per acre by Field ID data matches the value found for that Field ID in the Site data sheet.  
+The columns for Seed Data:  
+
+|Field ID|Species|Pure Live Seed lbs/acre|Origin|   
+|--------|-------|-----------------------|------|  
 
 
 |Attribute Name | Attribute Description |  
