@@ -2,7 +2,7 @@
 
 ## Description of Data Source
 
-The project team was provided the data in Excel format. The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes. Below you will find descriptions of each of the Excel sheets.
+The project team was provided the data in Excel format. The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes. Below you will find descriptions of each of the Excel sheets. We did not have any intellectual property constraints or licensing issues associated with the data.
 
 ### Site Data Description
 
@@ -10,7 +10,13 @@ The Site data is composed of 17 rows and 10 columns. It contains a field id, a r
 The Columns for the Site Data:  
 
 |Field ID|Region|Field acres|County|Planted Date|Planting method|# of species planted|Pure Live Seed lbs/acre|Previous cover|Seed Vendor|  
-|--------|------|-----------|------|------------|---------------|--------------------|-----------------------|--------------|-------|  
+|--------|------|-----------|------|------------|---------------|--------------------|-----------------------|--------------|-------| 
+
+#### Remediation of the Site Data
+
+On a whole the site data was fine. There were two missing cells for Number of Species and Pure Live Seed pounds per acre for the Prairie Plains Seed Vendor. Otherwise the data set was complete. From the planted date, we will look at deriving a new field called PlantingSeason. The PlantingSeason allows for a friendlier translation of the date. However, the Site data alone is not enough information to draw many conclusions. As a result, it will be neceaary to merge this data with the visit data. 
+
+-- Add R code for creating the PlantingSeason
 
 ### Visit Data Description  
 
