@@ -45,7 +45,7 @@ Steps
 
 The New consolidated dataset, ExpandedSiteData
 
-|FieldID|Region|NumOfAcres|County|PlantedDate|PlantingSeason|Planting method|# of species planted|Pure Live Seed lbs/acre|Previous cover|Seed Vendor| 
+|FieldID|Region|NumOfAcres|County|PlantedDate|PlantingSeason|Planting method|# of species planted|Pure Live Seed lbs/acre|Previous cover|Seed Vendor| -- *Still working this section
 
 
 ### Veg Data Description
