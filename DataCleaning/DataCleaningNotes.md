@@ -33,7 +33,15 @@ The columns for the parsed Surrounding Landscape Data:
 
 #### Remediation of the Visit Data
 
-The visit data, on a whole, was fine. Most of the data was present. Only the Notes columns had missing cells and that is to be expected for a free form field. The Notes data for the most part will be ignored since it is more of a qualitative data. Although, the Notes column does tell us if the site was a failure. We will take that information and manually create a new column called established and populate the words success or failure. The Surrounding Landscape data was free form data as well. At first site we might have categorized this data as qualitative as well but the client specifically called out this data as varible in the analysis. Ithe the current form the data was unusuable though. Using Excel, this data was parsed into 7 columns. The data was collasped to the Field ID level. This collasping was done 
+The visit data, on a whole, was fine. Most of the data was present. Only the Notes columns had missing cells and that is to be expected for a free form field. The Notes data for the most part will be ignored since it is more of a qualitative data. Although, the Notes column does tell us if the site was a failure. We will take that information and manually create a new column called established and populate the words success or failure. The Surrounding Landscape data was free form data as well. At first site we might have categorized this data as qualitative as well but the client specifically called out this data as varible in the analysis. Ithe the current form the data was unusuable though. Using Excel, this data was parsed into 7 columns. The data was collasped to the Field ID level. This collasping was done since the data did not vary by transect, observer or visit date. The observer was Ms. Rae Powers for every visit except two where she was joined by another individual.
+
+Steps
+1. Created copy of Visit data Excel Sheet and named it visit_data_updated
+2. Added new columns to Excel sheet (LandSTree,LandSRoad,LandSStructures,LandSSCrop,LandSGrass,LandSWaterArea,LandSOther)  
+3. Added data to each of the new columns based on the contents in the Surrounding Landscape column
+4. Consolidated all visits into one row for each Field ID and removed extra rows.
+5. Removed Visit ID, Observer, Visit Date, Surrounding LandScape and Notes columns.
+6. Merged visit_data_updated sheet with site data sheet based on Field ID
 
 ### Veg Data Description
 
