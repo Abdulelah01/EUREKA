@@ -14,7 +14,7 @@ The Columns for the Site Data:
 
 #### Remediation of the Site Data
 
-On a whole the site data was fine. There were two missing cells for Number of Species and Pure Live Seed pounds per acre for the Prairie Plains Seed Vendor. Otherwise the data set was complete. From the planted date, we will look at deriving a new field called PlantingSeason. The PlantingSeason allows for a friendlier translation of the date. However, the Site data alone is not enough information to draw many conclusions. As a result, it will be neceaary to merge this data with the visit data. 
+On a whole the site data was fine. There were two missing cells for Number of Species and Pure Live Seed pounds per acre for the Prairie Plains Seed Vendor. Otherwise the data set was complete. From the planted date, we will look at deriving a new field called PlantingSeason. The PlantingSeason allows for a friendlier translation of the date. However, the Site data alone is not enough information to draw many conclusions. As a result, it will be neceaary to merge this data with the visit data to increase its value. The planting method will be removed since the method is drill for all sites.
 
 -- Add R code for creating the PlantingSeason
 
@@ -45,7 +45,8 @@ Steps
 
 The New consolidated dataset, ExpandedSiteData
 
-|FieldID|Region|NumOfAcres|County|PlantedDate|PlantingSeason|Planting method|# of species planted|Pure Live Seed lbs/acre|Previous cover|Seed Vendor| -- *Still working this section
+|FieldID|Region|NumOfAcres|County|PlantedDate|PlantingSeason|SpeciesNum|TotalPLSAcre|PreCover|SeedVendor|LandSTree|LandSRoad|LandSStructures|LandSSCrop|LandSGrass|LandSWaterArea|LandSOther|  
+|-------|------|----------|------|------------|-------------|----------|------------|--------|----------|---------|---------|---------------|----------|----------|--------------|----------| 
 
 
 ### Veg Data Description
