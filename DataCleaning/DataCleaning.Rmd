@@ -17,7 +17,7 @@ knitr::opts_knit$set(root.dir = "~/Documents/ISQA8086/R_scripts/")
 ```
 # Description of Xerces Data Set
 
-The project team was provided the data in Excel format. The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes. Below you will find descriptions of each of the Excel sheets. We did not have any intellectual property constraints or licensing issues associated with the data.  
+The project team was provided the data in Excel format. The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes. Below you will find descriptions of each of the Excel sheets. We did not have any intellectual property constraints or licensing issues associated with the data.  For this Rmarkdown script to work you will need to download the site_data.csv and landscape.csv.
 
 ## Site Data Description
 
