@@ -1,0 +1,1207 @@
+Data Cleaning Assignment
+================
+Eureka Project Team
+10/23/2019
+
+  - [Description of Xerces Data Set](#description-of-xerces-data-set)
+      - [Data Reference](#data-reference)
+      - [Site Data Description](#site-data-description)
+          - [Remediation of the Site
+            Data](#remediation-of-the-site-data)
+      - [Visit Data Description](#visit-data-description)
+          - [Remediation of the Visit
+            Data](#remediation-of-the-visit-data)
+          - [Load Site and Landscape
+            Data](#load-site-and-landscape-data)
+      - [Veg Data Description](#veg-data-description)
+          - [Remediation of Veg Data](#remediation-of-veg-data)
+      - [Macro Data Description](#macro-data-description)
+      - [Seed Data Description](#seed-data-description)
+      - [Species Attributes
+        Description](#species-attributes-description)
+      - [Data Dictionary](#data-dictionary)
+          - [Contributionship Statement](#contributionship-statement)
+          - [Proofreader Statement](#proofreader-statement)
+
+# Description of Xerces Data Set
+
+The project team was provided the data in Excel format. The Excel
+spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation),
+Macro, Seed and Species Attributes. Below you will find descriptions of
+each of the Excel sheets. We did not have any intellectual property
+constraints or licensing issues associated with the data. For this
+Rmarkdown script to work you will need to download the site\_data.csv
+and landscape.csv.
+
+## Data Reference
+
+Powers, R 2019, *Plant establishment in Conservation Reserve Program’s
+pollinator habitats across Nebrasksa*, data file, NRCS-Xerces Society,
+*Microsoft Excel file*
+
+## Site Data Description
+
+The Site data is composed of 17 rows and 10 columns. It contains a field
+id, a region, the number of acres associated with the field, the county,
+the date the site was planted, the planting method, the number of
+species planted, the Pure Live Seed pounds per acre, the previous
+vegetation cover and the Vendor for the seed planted. Only two cells
+were left N/A.
+
+The Columns for the Site Data:
+
+<table border=2>
+
+<th>
+
+Field ID
+
+</th>
+
+<th>
+
+Region
+
+</th>
+
+<th>
+
+Field acres
+
+</th>
+
+<th>
+
+County
+
+</th>
+
+<th>
+
+Planted Date
+
+</th>
+
+<th>
+
+Planting method
+
+</th>
+
+<th>
+
+\# of species planted
+
+</th>
+
+<th>
+
+Pure Live Seed lbs/acre
+
+</th>
+
+<th>
+
+Previous cover
+
+</th>
+
+<th>
+
+Seed Vendor
+
+</td>
+
+</table>
+
+<hr/>
+
+### Remediation of the Site Data
+
+On a whole the site data was fine. There were two missing cells for
+Number of Species and Pure Live Seed pounds per acre for the Prairie
+Plains Seed Vendor. Otherwise, the data set was complete. From the
+planted date, we will look at deriving a new field called
+PlantingSeason. The PlantingSeason allows for a friendlier translation
+of the date. However, the Site data alone is not enough information to
+draw many conclusions. As a result, it will be necessary to merge this
+data with the visit data to increase its value. The planting method will
+be removed since the method is drill for all sites.
+
+## Visit Data Description
+
+The Visit data is composed of 56 rows and 7 columns. It contains a field
+ID, a visit ID, Transect, the visit date, the observer, the surrounding
+Landscape and the Notes about the visit. Much of the data for the
+surrounding landscape is duplicated for each transect and each visit.
+The notes cells have the missing data for this sheet. The notes also
+contain an indication if the site failed. Another indication of a failed
+site is a fall visit will not occur. The biggest issue with this data
+are the Surrounding Landscape and the Notes columns. These columns are
+free text fields and difficult to parse. The Surrounding Landscape data
+has the potential to add value though. As a result, this data was parsed
+manually with a description of this new dataset below.
+
+The Columns for the Visit Data:
+
+<table border=2>
+
+<th>
+
+Visit ID
+
+</th>
+
+<th>
+
+Field ID
+
+</th>
+
+<th>
+
+Transect
+
+</th>
+
+<th>
+
+Date
+
+</th>
+
+<th>
+
+Observer
+
+</th>
+
+<th>
+
+Surrounding Landscape
+
+</th>
+
+<th>
+
+Notes
+
+</td>
+
+</table>
+
+<hr/>
+
+The columns for the parsed Surrounding Landscape Data:
+
+<table border=2>
+
+<th>
+
+Field ID
+
+</th>
+
+<th>
+
+LandSTree
+
+</th>
+
+<th>
+
+LandSRoad
+
+</th>
+
+<th>
+
+LandSStructuresr
+
+</th>
+
+<th>
+
+LandSSCrop
+
+</th>
+
+<th>
+
+LandSGrass
+
+</th>
+
+<th>
+
+LandSWaterArea
+
+</th>
+
+<th>
+
+LandSOther
+
+</td>
+
+</table>
+
+<hr/>
+
+### Remediation of the Visit Data
+
+The visit data, on a whole, was fine. Most of the data was present. Only
+the Notes columns had missing cells and that is to be expected for a
+free form field. The Notes data for the most part will be ignored since
+it is more of a qualitative data. Although, the Notes column does tell
+us if the site was a failure. We will take that information and manually
+create a new column called established and populate the words success or
+failure. The Surrounding Landscape data was free form data as well. At
+first site we might have categorized this data as qualitative as well
+but the client specifically called out this data as variable in the
+analysis. The current form the data was unusable though. Using Excel,
+this data was parsed into 7 columns. The data was collapsed to the Field
+ID level. This collapsing was done since the data did not vary by
+transect, observer or visit date. The observer was Ms. Rae Powers for
+every visit except two where she was joined by another individual.
+
+#### Steps
+
+1.  Created copy of Visit data Excel Sheet and named it
+    visit\_data\_updated
+
+2.  Added new columns to Excel sheet
+    (LandSTree,LandSRoad,LandSStructures,LandSSCrop,LandSGrass,LandSWaterArea,LandSOther,
+    Established)
+
+3.  Added data to each of the new columns based on the contents in the
+    Surrounding Landscape column
+
+4.  Consolidated all visits into one row for each Field ID and removed
+    extra rows.
+
+5.  Removed Visit ID, Observer, Visit Date, Transect, Surrounding
+    LandScape and Notes columns.
+
+6.  Merged visit\_data\_updated sheet with site data sheet based on
+    Field ID
+
+The New consolidated dataset, ExpandedSiteData
+
+<table border=2>
+
+<th>
+
+FieldID
+
+</th>
+
+<th>
+
+Region
+
+</th>
+
+<th>
+
+NumOfAcres
+
+</th>
+
+<th>
+
+County
+
+</th>
+
+<th>
+
+PlantedDate
+
+</th>
+
+<th>
+
+PlantingSeason
+
+</th>
+
+<th>
+
+SpeciesNum
+
+</th>
+
+<th>
+
+TotalPLSAcre
+
+</th>
+
+<th>
+
+PreCover
+
+</th>
+
+<th>
+
+SeedVendor
+
+</th>
+
+<th>
+
+LandSTree
+
+</th>
+
+<th>
+
+LandSRoad
+
+</th>
+
+<th>
+
+LandSStructuresr
+
+</th>
+
+<th>
+
+LandSSCrop
+
+</th>
+
+<th>
+
+LandSGrass
+
+</th>
+
+<th>
+
+LandSWaterArea
+
+</th>
+
+<th>
+
+LandSOther
+
+</th>
+
+<th>
+
+Established
+
+</td>
+
+</table>
+
+<hr/>
+
+### Load Site and Landscape Data
+
+    site <- read.csv("site_data.csv")
+    landS <- read.csv("landscape.csv")
+    sitelandS <- merge(x=site, y=landS, by="FieldID", all=TRUE)
+    print(sitelandS)
+
+## Veg Data Description
+
+The Veg data is composed of 891 rows and 22 columns. The data set
+contains a Visit ID, a species and 20 quadrat columns divided by floral
+cover and non-floral cover. The quadrat contains a number from 1 to 6
+that translates to the amount of coverage for that species within the
+quadrat. Much of this data is blank but not missing which is to be
+expected.
+
+The Columns for Veg Data:
+
+<table border=2>
+
+<th>
+
+Visit ID
+
+</th>
+
+<th>
+
+Species
+
+</th>
+
+<th>
+
+Q1
+
+</th>
+
+<th>
+
+Q1FC
+
+</th>
+
+<th>
+
+Q2
+
+</th>
+
+<th>
+
+Q2FC
+
+</th>
+
+<th>
+
+Q3
+
+</th>
+
+<th>
+
+Q3FC
+
+</th>
+
+<th>
+
+Q4
+
+</th>
+
+<th>
+
+Q4FC
+
+</th>
+
+<th>
+
+Q5
+
+</th>
+
+<th>
+
+Q5FC
+
+</th>
+
+<th>
+
+Q6
+
+</th>
+
+<th>
+
+Q6FC
+
+</th>
+
+<th>
+
+Q7
+
+</th>
+
+<th>
+
+Q7FC
+
+</th>
+
+<th>
+
+Q8
+
+</th>
+
+<th>
+
+Q8FC
+
+</th>
+
+<th>
+
+Q9
+
+</th>
+
+<th>
+
+Q9FC
+
+</th>
+
+<th>
+
+Q10
+
+</th>
+
+<th>
+
+Q10FC
+
+</td>
+
+</table>
+
+<hr/>
+
+### Remediation of Veg Data
+
+The Veg data requires some additional data from the visit dataset and
+the site data set. Below are the steps necessary to merge that data.
+
+1.  Export each tab of excel spreadsheet into individual csv
+    1.  File \> Export \> Change File Type \> CSV \> Save As  
+    2.  “Site data” saved as “site data.csv”  
+    3.  “Visit data” saved as “visit data.csv”  
+    4.  “Veg data” saved as “veg data.csv”  
+    5.  “Species attributes” saved as “species attributes.csv”  
+2.  Import each csv into RStudio  
+
+<!-- end list -->
+
+    library(readr)
+    Veg_Data <- read_csv("veg data.csv", col_types = cols(Q4FC = col_double(), Q5FC = col_double(), Q6FC = col_double(), Q7FC = col_double(), Q8FC = col_double(), Q9FC = col_double()))
+    library(readr)
+    visit_data <- read_csv("visit data.csv", col_types = cols(Date = col_date(format = "%m/%d/%Y")))
+    library(readr)
+    site_data <- read_csv("site data.csv", col_types = cols(`Planted Date` = col_date(format = "%m/%d/%Y")))
+    library(readr)
+    species_attributes <- read_csv("species attributes.csv")
+
+3.  Combine all the data  
+
+<!-- end list -->
+
+    combined <- merge(x=Veg_Data, y=visit_data, by="Visit ID", all=TRUE)
+    combined <- merge(x=combined, y=species_attributes, by="Species", all.x=TRUE)
+    combined <- merge(x=combined, y=site_data, by="Field ID", all.x=TRUE)
+
+4.  Trim the unneeded data columns  
+
+<!-- end list -->
+
+    trimmed <- combined %>% select("Field ID","Species","Visit ID","Q1","Q1FC","Q2","Q2FC","Q3","Q3FC","Q4","Q4FC","Q5","Q5FC","Q6","Q6FC","Q7","Q7FC","Q8","Q8FC","Q9","Q9FC","Q10","Q10FC","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor")
+
+#### Split the floral coverage and plant species coverage & Gather the quadrant and cover value data
+
+##### Each of theses melts should have the rows of trimmed(891) x 10
+
+Using tidyr::gather()
+
+1.  Gather the floral coverage data (Rows 8910, Cols 10)
+
+<!-- end list -->
+
+    meltFC <- trimmed %>% select("Field ID","Species","Visit ID","Q1","Q2","Q3","Q4","Q5","Q6","Q7","Q8","Q9","Q10","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor") %>% gather("Quadrant", "Cover Value", 4:13)
+
+2.  Gather the plant species coverage data (Rows 8910, Cols 10)
+
+<!-- end list -->
+
+    meltPSC <- trimmed %>% select("Field ID","Species","Visit ID","Q1FC","Q2FC","Q3FC","Q4FC","Q5FC","Q6FC","Q7FC","Q8FC","Q9FC","Q10FC","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor") %>% gather("Quadrant", "Cover Value", 4:13)
+
+#### Seperating the gathered data into native and non-native
+
+1.  Native
+
+<!-- end list -->
+
+    native <- subset(meltFC, meltFC$`Coefficient of Conservatism`!= '*')
+
+2.  Non-native
+
+<!-- end list -->
+
+    nonNative <- subset(meltFC, meltFC$`Coefficient of Conservatism`<='*')
+
+## Macro Data Description
+
+The Macro data is composed of 650 rows and 5 columns. The data set
+contains a Visit ID, 3 columns that categorizes the species cover in the
+macroplots, \<1%, 1-5% and \> 5%, and Notes. The Notes are free form
+text. Much of this data is blank but not missing which is to be
+expected.
+
+The columns for Macro Data:
+
+<table border=2>
+
+<th>
+
+Visit ID
+
+</th>
+
+<th>
+
+\<1%
+
+</th>
+
+<th>
+
+1-5%
+
+</th>
+
+<th>
+
+5%\>
+
+</th>
+
+<th>
+
+Notes
+
+</td>
+
+</table>
+
+<hr/>
+
+## Seed Data Description
+
+The Seed data is composed of 543 rows and 4 columns. The data set
+contains a Field ID, Species, Pure Live Seed lbs per acre and Origin.
+This data set contains no missing data. The sum of the Pure Live Seed
+pound per acre by Field ID data matches the value found for that Field
+ID in the Site data sheet.
+
+The columns for Seed Data:
+
+<table border=2>
+
+<th>
+
+Field ID
+
+</th>
+
+<th>
+
+Species
+
+</th>
+
+<th>
+
+Pure Live Seed lbs/acre
+
+</th>
+
+<th>
+
+Origin
+
+</td>
+
+</table>
+
+<hr/>
+
+## Species Attributes Description
+
+The Species attributes data is composed of 182 rows and 3 columns. The
+data set contains Species, Coefficient of Conservatism and common Name.
+A significant portion of the Coefficient of Conservatism is marked with
+an asterisk. These species will not be included in any coefficient of
+conservation averages per the client.
+
+The Columns for Species Attributes Data:
+
+<table border=2>
+
+<th>
+
+Species
+
+</th>
+
+<th>
+
+Coefficient of Conservatism
+
+</th>
+
+<th>
+
+Common Name
+
+</td>
+
+</table>
+
+<hr/>
+
+## Data Dictionary
+
+<table border=2>
+
+<th>
+
+Attribute Name
+
+</th>
+
+<th>
+
+Attribute Description
+
+</td>
+
+<tr>
+
+<td>
+
+FieldID
+
+</td>
+
+<td>
+
+The name assigned to the site
+
+</td>
+
+<tr>
+
+<td>
+
+Region
+
+</td>
+
+<td>
+
+The Region of the state, like NorthEast(NE)
+
+</td>
+
+<tr>
+
+<td>
+
+NumOfAcres
+
+</td>
+
+<td>
+
+The number of Acres associated with the site
+
+</td>
+
+<tr>
+
+<td>
+
+County
+
+</td>
+
+<td>
+
+The county of the site
+
+</td>
+
+<tr>
+
+<td>
+
+PlantedDate
+
+</td>
+
+<td>
+
+The date the species were planted
+
+</td>
+
+<tr>
+
+<td>
+
+PlantingSeason
+
+</td>
+
+<td>
+
+The season when the species were planted
+
+</td>
+
+<tr>
+
+<td>
+
+Established
+
+</td>
+
+<td>
+
+The success or failure of the site
+
+</td>
+
+<tr>
+
+<td>
+
+VisitNum
+
+</td>
+
+<td>
+
+The Number of Visits
+
+</td>
+
+<tr>
+
+<td>
+
+SpeciesNum
+
+</td>
+
+<td>
+
+The number of Species planted
+
+</td>
+
+<tr>
+
+<td>
+
+TotalPLSAcre
+
+</td>
+
+<td>
+
+The total amount of Pure Live Seed by pound by acre planted at the site
+
+</td>
+
+<tr>
+
+<td>
+
+PreCover
+
+</td>
+
+<td>
+
+The species that was the previous cover
+
+</td>
+
+<tr>
+
+<td>
+
+SeedVendor
+
+</td>
+
+<td>
+
+The name of the vendor that provided the seeds
+
+</td>
+
+<tr>
+
+<td>
+
+Transect
+
+</td>
+
+<td>
+
+The areas in which the site is divided. In most cases there are two
+transect but in one case there are three.
+
+</td>
+
+<tr>
+
+<td>
+
+LandSTree
+
+</td>
+
+<td>
+
+Contains the trees in the surrounding landscape
+
+</td>
+
+<tr>
+
+<td>
+
+LandSRoad
+
+</td>
+
+<td>
+
+Indicates if there is a road in the surrounding landscape
+
+</td>
+
+<tr>
+
+<td>
+
+LandSStructures
+
+</td>
+
+<td>
+
+Indicates if there are housing in the surrounding landscape
+
+</td>
+
+<tr>
+
+<td>
+
+LandSCrop
+
+</td>
+
+<td>
+
+Indicates what types of crops are in the surrounding landscape
+
+</td>
+
+<tr>
+
+<td>
+
+LandSGrass
+
+</td>
+
+<td>
+
+Indicates what type of grass is in the surrounding landscape
+
+</td>
+
+<tr>
+
+<td>
+
+LandSWaterArea
+
+</td>
+
+<td>
+
+Indicates that some source of water exists near the site
+
+</td>
+
+<tr>
+
+<td>
+
+LandSOther
+
+</td>
+
+<td>
+
+Indicates an attribute of the surrounding landscape that did not fall
+within the other 6 categories
+
+</td>
+
+<tr>
+
+<td>
+
+VisitID
+
+</td>
+
+<td>
+
+Indicator to distinguish visits; starts with SP for Spring or F for Fall
+and contains 1,2, or 3 for the transect
+
+</td>
+
+<tr>
+
+<td>
+
+VisitDate
+
+</td>
+
+<td>
+
+Indicates date of the visits
+
+</td>
+
+<tr>
+
+<td>
+
+VisitObserver
+
+</td>
+
+<td>
+
+Indicates who made the observations during the visits
+
+</td>
+
+<tr>
+
+<td>
+
+SurrLandScape
+
+</td>
+
+<td>
+
+Notation like text about the surrounding Landscape of the site; this
+data was broken up for more usability
+
+</td>
+
+<tr>
+
+<td>
+
+VisitNotes
+
+</td>
+
+<td>
+
+Free form text about the visits
+
+</td>
+
+<tr>
+
+<td>
+
+Species
+
+</td>
+
+<td>
+
+The species that were planted at the site or were observed at the site
+
+</td>
+
+<tr>
+
+<td>
+
+SpeciesOrigin
+
+</td>
+
+<td>
+
+The origin of the Species planted
+
+</td>
+
+<tr>
+
+<td>
+
+SpeciesPLS
+
+<td>
+
+The pure live seed pounds per acre that was planted for a species
+
+</td>
+
+<tr>
+
+<td>
+
+SpeciesCommName
+
+</td>
+
+<td>
+
+The Common Name of a Species
+
+</td>
+
+<tr>
+
+<td>
+
+CoEOfConsvm
+
+</td>
+
+<td>
+
+The Coefficient of Conservatism which is a range between 0 and 10. The
+higher the score the lower tolerance to environmental degradation
+
+</td>
+
+<tr>
+
+</table>
+
+<hr/>
+
+### Contributionship Statement
+
+Kristi worked on the Remediation for the Site and Visit Data and the
+Data Dictionary.  
+Erik worked on the Remediation for the Veg data.  
+Anitha was the Proofreader. Abdulelah Almubarak added the R code and
+knitted to Github document.
+
+### Proofreader Statement
+
+I, Anitha Saminathan have reviewed and proofread the following work and
+agree that it is ready for submission.
