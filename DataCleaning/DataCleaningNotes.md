@@ -4,6 +4,10 @@
 
 The project team was provided the data in Excel format. The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes. Below you will find descriptions of each of the Excel sheets. We did not have any intellectual property constraints or licensing issues associated with the data.
 
+### Data Reference
+
+Powers, R 2019, *Plant establishment in Conservation Reserve Program's pollinator habitats across Nebrasksa*, data file, NRCS-Xerces Society, *Microsoft Excel file*
+
 ### Site Data Description
 
 The Site data is composed of 17 rows and 10 columns. It contains a field id, a region, the number of acres associated with the field, the county, the date the site was planted, the planting method, the number of species planted, the Pure Live Seed pounds per acre, the previous vegetation cover and the Vendor for the seed planted. Only two cells were left N/A. 
