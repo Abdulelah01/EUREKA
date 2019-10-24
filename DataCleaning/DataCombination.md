@@ -2,6 +2,7 @@
 1. Export each tab of excel spreadsheet into individual csv
 2. Import each csv into RStudio
 ```
+library(readr)
 Veg_Data <- read_csv("veg data.csv", col_types = cols(Q4FC = col_double(), Q5FC = col_double(), Q6FC = col_double(), Q7FC = col_double(), Q8FC = col_double(), Q9FC = col_double()))
 visit_data <- read_csv("visit data.csv", col_types = cols(Date = col_date(format = "%m/%d/%Y")))
 site_data <- read_csv("site data.csv", col_types = cols(`Planted Date` = col_date(format = "%m/%d/%Y")))
@@ -27,4 +28,13 @@ meltFC <- select(trimmed, 1,2,3,5,7,9,11,13,15,17,19,21,23,24,25,26,27,28) %>% g
 2. Gather the plant species coverage data (Rows 8910, Cols 10)
 ```
 meltPSC <- select(trimmed, 1,2,3,4,6,8,10,12,14,16,18,20,22,24,25,26,27,28) %>% gather("Quadrant","Cover Value", 4:13)
+```
+## Seperating the gathered data into native and non-native
+1. Native
+```
+native <- subset(meltFC, meltFC$`Coefficient of Conservatism`!= '*')
+```
+2. Non-native
+```
+nonNative <- subset(meltFC, meltFC$`Coefficient of Conservatism`<='*')
 ```
