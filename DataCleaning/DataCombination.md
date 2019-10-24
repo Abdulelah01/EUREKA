@@ -17,3 +17,14 @@ combined <- merge(x=combined, y=site_data, by="Field ID", all.x=TRUE)
 ```
 trimmed <- combined %>% select("Field ID","Species","Visit ID","Q1","Q1FC","Q2","Q2FC","Q3","Q3FC","Q4","Q4FC","Q5","Q5FC","Q6","Q6FC","Q7","Q7FC","Q8","Q8FC","Q9","Q9FC","Q10","Q10FC","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor")
 ```
+## Split the floral coverage and plant species coverage & Melt the cover value data 
+#### Each of theses melts should have the rows of trimmed(891) x 10
+Using tidyr::gather()
+1. Gather the floral coverage data (Rows 8910, Cols 10)
+```
+meltFC <- select(trimmed, 1,2,3,5,7,9,11,13,15,17,19,21,23,24,25,26,27,28) %>% gather("Quadrant", "Cover Value", 4:13)
+```
+2. Gather the plant species coverage data (Rows 8910, Cols 10)
+```
+meltPSC <- select(trimmed, 1,2,3,4,6,8,10,12,14,16,18,20,22,24,25,26,27,28) %>% gather("Quadrant","Cover Value", 4:13)
+```
