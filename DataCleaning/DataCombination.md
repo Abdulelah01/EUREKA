@@ -26,11 +26,11 @@ trimmed <- combined %>% select("Field ID","Species","Visit ID","Q1","Q1FC","Q2",
 Using tidyr::gather()
 1. Gather the floral coverage data (Rows 8910, Cols 10)
 ```
-meltFC <- select(trimmed, 1,2,3,5,7,9,11,13,15,17,19,21,23,24,25,26,27,28) %>% gather("Quadrant", "Cover Value", 4:13)
+meltFC <- trimmed %>% select("Field ID","Species","Visit ID","Q1","Q2","Q3","Q4","Q5","Q6","Q7","Q8","Q9","Q10","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor") %>% gather("Quadrant", "Cover Value", 4:13)
 ```
 2. Gather the plant species coverage data (Rows 8910, Cols 10)
 ```
-meltPSC <- select(trimmed, 1,2,3,4,6,8,10,12,14,16,18,20,22,24,25,26,27,28) %>% gather("Quadrant","Cover Value", 4:13)
+meltPSC <- trimmed %>% select("Field ID","Species","Visit ID","Q1FC","Q2FC","Q3FC","Q4FC","Q5FC","Q6FC","Q7FC","Q8FC","Q9FC","Q10FC","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor") %>% gather("Quadrant", "Cover Value", 4:13)
 ```
 ## Seperating the gathered data into native and non-native
 1. Native
