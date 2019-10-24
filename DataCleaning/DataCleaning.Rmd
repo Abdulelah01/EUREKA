@@ -276,7 +276,7 @@ The Columns for Species Attributes Data:
 </table>
 <hr/>  
 
-### Contributorship Statement  
+### Contributionship Statement  
 Kristi worked on the Remediation for the Site and Visit Data and the Data Dictionary  
 Erik worked on the Remediation for the Veg data  
 Anitha was the Proofreader  
