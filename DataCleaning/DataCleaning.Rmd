@@ -165,6 +165,17 @@ The Columns for Veg Data:
 
 The Veg data requires some additional data from the visit dataset and the site data set. Below are the steps necessary to merge that data.
 
+1. Export each tab of excel spreadsheet into individual csv
+      a. File > Export > Change File Type > CSV > Save As  
+      b. "Site data" saved as "site data.csv"  
+      c. "Visit data" saved as "visit data.csv"  
+      d. "Veg data" saved as "veg data.csv"  
+      e. "Species attributes" saved as "species attributes.csv"         
+2. Import each csv into RStudio  
+
+3. Combine all the data  
+
+4. Trim the unneeded data columns  
 
 ## Macro Data Description  
 
