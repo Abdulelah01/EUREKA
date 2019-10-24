@@ -1,7 +1,7 @@
 Data Cleaning Assignment
 ================
 Eureka Project Team
-10/23/2019
+10/24/2019
 
   - [Description of Xerces Data Set](#description-of-xerces-data-set)
       - [Data Reference](#data-reference)
@@ -1198,8 +1198,9 @@ higher the score the lower tolerance to environmental degradation
 Kristi worked on the Remediation for the Site and Visit Data and the
 Data Dictionary.  
 Erik worked on the Remediation for the Veg data.  
-Anitha was the Proofreader. Abdulelah Almubarak added the R code and
-knitted to Github document.
+Anitha was the Proofreader.
+
+Abdulelah Almubarak added the R code and knitted to Github document.
 
 ### Proofreader Statement
 
