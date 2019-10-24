@@ -15,5 +15,5 @@ combined <- merge(x=combined, y=site_data, by="Field ID", all.x=TRUE)
 ```
 4. Trim the unneeded data columns
 ```
-trimmed <- combined %>% select(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,29, 34, 39)
+trimmed <- combined %>% select("Field ID","Species","Visit ID","Q1","Q1FC","Q2","Q2FC","Q3","Q3FC","Q4","Q4FC","Q5","Q5FC","Q6","Q6FC","Q7","Q7FC","Q8","Q8FC","Q9","Q9FC","Q10","Q10FC","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor")
 ```
