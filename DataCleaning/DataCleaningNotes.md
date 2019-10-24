@@ -16,7 +16,7 @@ The Columns for the Site Data:
 
 On a whole the site data was fine. There were two missing cells for Number of Species and Pure Live Seed pounds per acre for the Prairie Plains Seed Vendor. Otherwise the data set was complete. From the planted date, we will look at deriving a new field called PlantingSeason. The PlantingSeason allows for a friendlier translation of the date. However, the Site data alone is not enough information to draw many conclusions. As a result, it will be neceaary to merge this data with the visit data to increase its value. The planting method will be removed since the method is drill for all sites.
 
--- Add R code for creating the PlantingSeason
+-- Add R code for creating the PlantingSeason and removing Planting Method.
 
 ### Visit Data Description  
 
@@ -37,16 +37,17 @@ The visit data, on a whole, was fine. Most of the data was present. Only the Not
 
 Steps
 1. Created copy of Visit data Excel Sheet and named it visit_data_updated
-2. Added new columns to Excel sheet (LandSTree,LandSRoad,LandSStructures,LandSSCrop,LandSGrass,LandSWaterArea,LandSOther)  
+2. Added new columns to Excel sheet (LandSTree,LandSRoad,LandSStructures,LandSSCrop,LandSGrass,LandSWaterArea,LandSOther, Established)  
 3. Added data to each of the new columns based on the contents in the Surrounding Landscape column
 4. Consolidated all visits into one row for each Field ID and removed extra rows.
-5. Removed Visit ID, Observer, Visit Date, Surrounding LandScape and Notes columns.
+5. Removed Visit ID, Observer, Visit Date, Transect, Surrounding LandScape and Notes columns.
 6. Merged visit_data_updated sheet with site data sheet based on Field ID  
 
 The New consolidated dataset, ExpandedSiteData
 
-|FieldID|Region|NumOfAcres|County|PlantedDate|PlantingSeason|SpeciesNum|TotalPLSAcre|PreCover|SeedVendor|LandSTree|LandSRoad|LandSStructures|LandSSCrop|LandSGrass|LandSWaterArea|LandSOther|  
-|-------|------|----------|------|------------|-------------|----------|------------|--------|----------|---------|---------|---------------|----------|----------|--------------|----------| 
+|FieldID|Region|NumOfAcres|County|PlantedDate|PlantingSeason|SpeciesNum|TotalPLSAcre|PreCover|SeedVendor|LandSTree|LandSRoad|LandSStructures|LandSSCrop|LandSGrass|LandSWaterArea|LandSOther|Established|  
+|-------|------|----------|------|------------|-------------|----------|------------|--------|----------|---------|---------|---------------|----------|----------|--------------|----------|-----------|  
+
 
 
 ### Veg Data Description
