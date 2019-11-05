@@ -1,0 +1,1651 @@
+"","Field ID","Species","Visit ID","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor","Quadrant","Cover Value"
+"1","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
+"8","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
+"12","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
+"19","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
+"20","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
+"22","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
+"25","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
+"33","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",1
+"37","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"39","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"41","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"42","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"44","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"46","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"47","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"49","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"50","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"52","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q1FC",NA
+"57","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q1FC",NA
+"77","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q1FC",NA
+"81","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q1FC",NA
+"89","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q1FC",NA
+"91","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q1FC",NA
+"94","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q1FC",NA
+"104","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q1FC",NA
+"111","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q1FC",NA
+"116","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q1FC",NA
+"118","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q1FC",NA
+"127","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q1FC",NA
+"129","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q1FC",NA
+"139","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q1FC",NA
+"149","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q1FC",NA
+"152","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q1FC",NA
+"159","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q1FC",NA
+"168","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"170","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"180","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"183","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"187","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"188","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"198","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"199","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"202","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"203","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q1FC",NA
+"206","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"209","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"215","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"226","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"229","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",1
+"231","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"233","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"236","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",1
+"243","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"246","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"253","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"256","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"259","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"263","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"270","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"275","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"276","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"277","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"280","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"281","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q1FC",NA
+"291","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q1FC",NA
+"296","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q1FC",NA
+"297","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q1FC",NA
+"304","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q1FC",NA
+"306","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q1FC",NA
+"310","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q1FC",NA
+"311","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q1FC",NA
+"336","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q1FC",NA
+"339","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q1FC",NA
+"348","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q1FC",NA
+"353","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q1FC",NA
+"357","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q1FC",NA
+"361","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q1FC",1
+"369","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"379","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"382","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"384","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"394","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"399","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"404","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"408","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"418","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"420","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"423","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"425","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"431","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"432","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"433","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"434","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"441","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q1FC",NA
+"455","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"465","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"467","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"468","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"482","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"484","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"505","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"510","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"514","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q1FC",NA
+"518","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q1FC",NA
+"527","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"528","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q1FC",NA
+"529","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q1FC",NA
+"530","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q1FC",NA
+"543","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q1FC",NA
+"546","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"550","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"552","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q1FC",NA
+"553","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q1FC",NA
+"554","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"558","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"562","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q1FC",NA
+"569","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"573","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"577","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q1FC",NA
+"578","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"580","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q1FC",NA
+"583","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"589","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q1FC",NA
+"591","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q1FC",NA
+"631","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q1FC",NA
+"638","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q1FC",NA
+"658","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q1FC",NA
+"669","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"677","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"682","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"683","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"697","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"699","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"702","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"707","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"708","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"709","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"718","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"722","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"734","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"737","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"753","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"761","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"762","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"764","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"769","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"770","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"797","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"805","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"806","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"808","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q1FC",NA
+"816","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"825","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"832","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"833","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"846","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"856","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"862","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"868","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"874","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"876","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q1FC",NA
+"881","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q1FC",NA
+"885","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q1FC",NA
+"887","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q1FC",NA
+"890","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q1FC",NA
+"892","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q2FC",NA
+"899","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q2FC",NA
+"903","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q2FC",NA
+"910","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q2FC",NA
+"911","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q2FC",NA
+"913","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q2FC",NA
+"916","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q2FC",NA
+"924","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q2FC",NA
+"928","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"930","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"932","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"933","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"935","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"937","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"938","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"940","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"941","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"943","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q2FC",NA
+"948","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q2FC",NA
+"968","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q2FC",NA
+"972","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q2FC",NA
+"980","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q2FC",NA
+"982","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q2FC",NA
+"985","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q2FC",NA
+"995","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q2FC",NA
+"1002","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q2FC",NA
+"1007","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q2FC",NA
+"1009","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q2FC",NA
+"1018","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q2FC",NA
+"1020","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q2FC",NA
+"1030","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q2FC",NA
+"1040","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q2FC",NA
+"1043","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q2FC",NA
+"1050","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q2FC",NA
+"1059","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1061","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1071","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1074","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1078","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1079","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1089","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1090","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1093","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1094","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q2FC",NA
+"1097","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1100","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1106","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1117","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1120","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1122","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1124","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1127","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1134","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1137","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1144","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1147","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1150","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1154","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1161","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1166","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1167","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1168","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1171","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1172","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q2FC",NA
+"1182","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q2FC",NA
+"1187","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q2FC",NA
+"1188","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q2FC",NA
+"1195","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q2FC",NA
+"1197","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q2FC",NA
+"1201","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q2FC",NA
+"1202","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q2FC",NA
+"1227","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q2FC",NA
+"1230","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q2FC",NA
+"1239","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q2FC",NA
+"1244","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q2FC",NA
+"1248","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q2FC",NA
+"1252","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q2FC",NA
+"1260","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",3
+"1270","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1273","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1275","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1285","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1290","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1295","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1299","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1309","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1311","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1314","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1316","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1322","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1323","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1324","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",1
+"1325","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1332","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q2FC",NA
+"1346","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q2FC",1
+"1356","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q2FC",NA
+"1358","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q2FC",NA
+"1359","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q2FC",NA
+"1373","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q2FC",NA
+"1375","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q2FC",NA
+"1396","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q2FC",NA
+"1401","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q2FC",NA
+"1405","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q2FC",NA
+"1409","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1418","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1419","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1420","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1421","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q2FC",NA
+"1434","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q2FC",NA
+"1437","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1441","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1443","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q2FC",NA
+"1444","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q2FC",NA
+"1445","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1449","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1453","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q2FC",NA
+"1460","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1464","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1468","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1469","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1471","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1474","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1480","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1482","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q2FC",NA
+"1522","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q2FC",NA
+"1529","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q2FC",NA
+"1549","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q2FC",NA
+"1560","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1568","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1573","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1574","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1588","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1590","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1593","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1598","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1599","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1600","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1609","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1613","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1625","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1628","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1644","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1652","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1653","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1655","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1660","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1661","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1688","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1696","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1697","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1699","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q2FC",NA
+"1707","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1716","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1723","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1724","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1737","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1747","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1753","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1759","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1765","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1767","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q2FC",NA
+"1772","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q2FC",NA
+"1776","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q2FC",NA
+"1778","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q2FC",NA
+"1781","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q2FC",NA
+"1783","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q3FC",NA
+"1790","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q3FC",NA
+"1794","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q3FC",NA
+"1801","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q3FC",NA
+"1802","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q3FC",NA
+"1804","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q3FC",NA
+"1807","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q3FC",NA
+"1815","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q3FC",NA
+"1819","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1821","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1823","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1824","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1826","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1828","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1829","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1831","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1832","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1834","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q3FC",NA
+"1839","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q3FC",NA
+"1859","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q3FC",NA
+"1863","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q3FC",NA
+"1871","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q3FC",NA
+"1873","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q3FC",NA
+"1876","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q3FC",NA
+"1886","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q3FC",NA
+"1893","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q3FC",NA
+"1898","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q3FC",NA
+"1900","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q3FC",NA
+"1909","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q3FC",NA
+"1911","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q3FC",NA
+"1921","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q3FC",NA
+"1931","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q3FC",NA
+"1934","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q3FC",NA
+"1941","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q3FC",NA
+"1950","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1952","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1962","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1965","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1969","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1970","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1980","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1981","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1984","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1985","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q3FC",NA
+"1988","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"1991","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"1997","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2008","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2011","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2013","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2015","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2018","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2025","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2028","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2035","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2038","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2041","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2045","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2052","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2057","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2058","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2059","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2062","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2063","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q3FC",NA
+"2073","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q3FC",NA
+"2078","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q3FC",NA
+"2079","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q3FC",NA
+"2086","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q3FC",NA
+"2088","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q3FC",NA
+"2092","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q3FC",NA
+"2093","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q3FC",NA
+"2118","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q3FC",NA
+"2121","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q3FC",NA
+"2130","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q3FC",NA
+"2135","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q3FC",NA
+"2139","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q3FC",NA
+"2143","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q3FC",NA
+"2151","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",1
+"2161","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2164","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2166","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2176","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2181","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2186","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2190","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2200","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2202","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2205","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2207","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2213","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2214","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2215","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2216","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2223","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q3FC",NA
+"2237","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2247","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2249","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2250","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2264","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2266","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2287","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2292","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2296","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q3FC",NA
+"2300","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2309","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2310","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2311","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2312","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q3FC",NA
+"2325","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q3FC",NA
+"2328","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2332","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2334","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q3FC",NA
+"2335","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q3FC",NA
+"2336","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2340","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2344","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q3FC",NA
+"2351","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2355","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2359","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2360","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2362","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2365","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2371","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2373","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q3FC",NA
+"2413","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q3FC",NA
+"2420","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q3FC",NA
+"2440","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q3FC",NA
+"2451","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2459","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2464","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2465","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2479","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2481","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2484","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2489","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2490","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2491","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2500","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2504","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2516","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2519","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2535","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2543","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2544","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2546","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2551","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2552","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2579","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2587","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2588","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2590","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q3FC",NA
+"2598","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2607","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2614","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2615","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2628","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2638","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2644","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2650","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2656","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2658","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q3FC",NA
+"2663","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q3FC",NA
+"2667","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q3FC",NA
+"2669","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q3FC",NA
+"2672","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q3FC",NA
+"2674","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q4FC",NA
+"2681","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q4FC",NA
+"2685","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q4FC",NA
+"2692","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q4FC",NA
+"2693","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q4FC",NA
+"2695","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q4FC",NA
+"2698","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q4FC",NA
+"2706","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q4FC",1
+"2710","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2712","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2714","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2715","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2717","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2719","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2720","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2722","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2723","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2725","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q4FC",NA
+"2730","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q4FC",NA
+"2750","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q4FC",NA
+"2754","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q4FC",NA
+"2762","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q4FC",NA
+"2764","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q4FC",NA
+"2767","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q4FC",NA
+"2777","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q4FC",NA
+"2784","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q4FC",NA
+"2789","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q4FC",NA
+"2791","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q4FC",NA
+"2800","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q4FC",NA
+"2802","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q4FC",NA
+"2812","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q4FC",NA
+"2822","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q4FC",NA
+"2825","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q4FC",NA
+"2832","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q4FC",NA
+"2841","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2843","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2853","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2856","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2860","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2861","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2871","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2872","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2875","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2876","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q4FC",NA
+"2879","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2882","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2888","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2899","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2902","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2904","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2906","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2909","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2916","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2919","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2926","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2929","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2932","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2936","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2943","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2948","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2949","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2950","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2953","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2954","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q4FC",NA
+"2964","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q4FC",NA
+"2969","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q4FC",1
+"2970","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q4FC",NA
+"2977","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q4FC",NA
+"2979","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q4FC",NA
+"2983","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q4FC",1
+"2984","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q4FC",NA
+"3009","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q4FC",NA
+"3012","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q4FC",NA
+"3021","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q4FC",NA
+"3026","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q4FC",NA
+"3030","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q4FC",NA
+"3034","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q4FC",NA
+"3042","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3052","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3055","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3057","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3067","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3072","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3077","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3081","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3091","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3093","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3096","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3098","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3104","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3105","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3106","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3107","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3114","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q4FC",NA
+"3128","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3138","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3140","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3141","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3155","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3157","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3178","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3183","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3187","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q4FC",NA
+"3191","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3200","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3201","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3202","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3203","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q4FC",NA
+"3216","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q4FC",NA
+"3219","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3223","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3225","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q4FC",NA
+"3226","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q4FC",NA
+"3227","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3231","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3235","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q4FC",NA
+"3242","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3246","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3250","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3251","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3253","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3256","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3262","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3264","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q4FC",NA
+"3304","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q4FC",NA
+"3311","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q4FC",NA
+"3331","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q4FC",NA
+"3342","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3350","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3355","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3356","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3370","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3372","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3375","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3380","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3381","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3382","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3391","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3395","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3407","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3410","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3426","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3434","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3435","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3437","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3442","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3443","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3470","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3478","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3479","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3481","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q4FC",NA
+"3489","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3498","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3505","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3506","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3519","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3529","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3535","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3541","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3547","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3549","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q4FC",NA
+"3554","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q4FC",NA
+"3558","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q4FC",NA
+"3560","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q4FC",NA
+"3563","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q4FC",NA
+"3565","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q5FC",NA
+"3572","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q5FC",NA
+"3576","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q5FC",NA
+"3583","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q5FC",NA
+"3584","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q5FC",NA
+"3586","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q5FC",NA
+"3589","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q5FC",NA
+"3597","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q5FC",NA
+"3601","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3603","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3605","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3606","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3608","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3610","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3611","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3613","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3614","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3616","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q5FC",NA
+"3621","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q5FC",NA
+"3641","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q5FC",NA
+"3645","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q5FC",NA
+"3653","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q5FC",NA
+"3655","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q5FC",NA
+"3658","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q5FC",NA
+"3668","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q5FC",NA
+"3675","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q5FC",NA
+"3680","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q5FC",NA
+"3682","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q5FC",NA
+"3691","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q5FC",NA
+"3693","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q5FC",NA
+"3703","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q5FC",NA
+"3713","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q5FC",NA
+"3716","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q5FC",NA
+"3723","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q5FC",NA
+"3732","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3734","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3744","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3747","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3751","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3752","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3762","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3763","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3766","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3767","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q5FC",NA
+"3770","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3773","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3779","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3790","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3793","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3795","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3797","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3800","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3807","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3810","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3817","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3820","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3823","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3827","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3834","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3839","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3840","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3841","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3844","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3845","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q5FC",NA
+"3855","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q5FC",NA
+"3860","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q5FC",1
+"3861","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q5FC",NA
+"3868","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q5FC",NA
+"3870","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q5FC",NA
+"3874","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q5FC",NA
+"3875","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q5FC",NA
+"3900","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q5FC",NA
+"3903","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q5FC",NA
+"3912","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q5FC",NA
+"3917","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q5FC",NA
+"3921","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q5FC",NA
+"3925","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q5FC",NA
+"3933","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3943","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3946","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3948","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3958","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3963","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3968","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3972","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3982","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3984","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3987","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3989","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3995","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3996","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3997","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"3998","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"4005","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q5FC",NA
+"4019","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4029","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4031","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4032","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4046","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4048","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4069","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4074","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4078","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q5FC",NA
+"4082","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4091","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4092","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4093","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4094","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q5FC",NA
+"4107","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q5FC",NA
+"4110","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4114","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4116","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q5FC",NA
+"4117","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q5FC",NA
+"4118","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4122","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4126","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q5FC",NA
+"4133","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4137","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4141","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4142","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4144","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4147","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4153","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4155","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q5FC",NA
+"4195","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q5FC",NA
+"4202","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q5FC",NA
+"4222","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q5FC",NA
+"4233","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4241","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4246","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4247","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4261","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4263","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4266","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4271","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4272","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4273","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4282","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4286","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4298","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4301","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4317","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4325","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4326","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4328","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4333","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4334","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4361","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4369","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4370","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4372","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q5FC",NA
+"4380","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4389","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4396","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4397","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4410","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4420","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4426","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4432","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4438","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4440","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q5FC",NA
+"4445","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q5FC",NA
+"4449","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q5FC",NA
+"4451","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q5FC",NA
+"4454","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q5FC",NA
+"4456","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q6FC",NA
+"4463","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q6FC",NA
+"4467","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q6FC",NA
+"4474","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q6FC",NA
+"4475","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q6FC",NA
+"4477","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q6FC",NA
+"4480","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q6FC",NA
+"4488","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q6FC",NA
+"4492","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4494","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4496","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4497","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4499","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4501","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4502","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4504","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4505","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4507","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q6FC",NA
+"4512","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q6FC",NA
+"4532","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q6FC",NA
+"4536","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q6FC",NA
+"4544","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q6FC",NA
+"4546","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q6FC",NA
+"4549","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q6FC",NA
+"4559","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q6FC",NA
+"4566","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q6FC",NA
+"4571","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q6FC",NA
+"4573","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q6FC",NA
+"4582","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q6FC",NA
+"4584","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q6FC",NA
+"4594","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q6FC",NA
+"4604","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q6FC",NA
+"4607","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q6FC",NA
+"4614","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q6FC",NA
+"4623","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4625","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",1
+"4635","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4638","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4642","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4643","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4653","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4654","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4657","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4658","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q6FC",NA
+"4661","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4664","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4670","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4681","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4684","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4686","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4688","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4691","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4698","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4701","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4708","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4711","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4714","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4718","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4725","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4730","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4731","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4732","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4735","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4736","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q6FC",NA
+"4746","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q6FC",NA
+"4751","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q6FC",1
+"4752","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q6FC",NA
+"4759","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q6FC",NA
+"4761","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q6FC",NA
+"4765","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q6FC",NA
+"4766","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q6FC",NA
+"4791","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q6FC",NA
+"4794","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q6FC",NA
+"4803","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q6FC",NA
+"4808","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q6FC",NA
+"4812","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q6FC",NA
+"4816","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q6FC",NA
+"4824","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4834","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4837","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4839","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4849","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4854","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4859","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4863","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4873","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4875","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4878","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4880","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4886","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4887","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4888","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4889","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4896","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q6FC",NA
+"4910","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4920","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4922","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4923","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4937","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4939","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4960","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4965","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4969","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q6FC",NA
+"4973","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q6FC",NA
+"4982","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"4983","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q6FC",NA
+"4984","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q6FC",NA
+"4985","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q6FC",NA
+"4998","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q6FC",NA
+"5001","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5005","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5007","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q6FC",NA
+"5008","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q6FC",NA
+"5009","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5013","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5017","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q6FC",NA
+"5024","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5028","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5032","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5033","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5035","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5038","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5044","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5046","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q6FC",NA
+"5086","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q6FC",NA
+"5093","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q6FC",NA
+"5113","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q6FC",NA
+"5124","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5132","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5137","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5138","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5152","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5154","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5157","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5162","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5163","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5164","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5173","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5177","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5189","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5192","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5208","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5216","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5217","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5219","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5224","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5225","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5252","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5260","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5261","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5263","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q6FC",NA
+"5271","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5280","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5287","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5288","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5301","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5311","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5317","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5323","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",1
+"5329","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5331","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q6FC",NA
+"5336","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q6FC",NA
+"5340","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q6FC",NA
+"5342","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q6FC",NA
+"5345","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q6FC",NA
+"5347","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q7FC",NA
+"5354","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q7FC",NA
+"5358","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q7FC",NA
+"5365","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q7FC",NA
+"5366","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q7FC",NA
+"5368","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q7FC",NA
+"5371","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q7FC",NA
+"5379","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q7FC",NA
+"5383","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5385","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5387","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5388","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5390","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5392","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5393","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5395","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5396","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5398","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q7FC",NA
+"5403","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q7FC",NA
+"5423","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q7FC",NA
+"5427","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q7FC",NA
+"5435","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q7FC",NA
+"5437","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q7FC",NA
+"5440","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q7FC",NA
+"5450","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q7FC",NA
+"5457","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q7FC",NA
+"5462","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q7FC",NA
+"5464","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q7FC",NA
+"5473","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q7FC",NA
+"5475","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q7FC",NA
+"5485","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q7FC",NA
+"5495","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q7FC",NA
+"5498","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q7FC",NA
+"5505","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q7FC",NA
+"5514","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5516","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5526","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5529","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5533","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5534","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5544","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5545","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5548","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5549","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q7FC",NA
+"5552","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5555","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5561","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5572","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5575","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5577","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5579","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5582","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5589","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5592","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5599","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5602","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5605","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5609","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5616","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5621","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5622","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5623","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5626","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5627","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q7FC",NA
+"5637","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q7FC",NA
+"5642","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q7FC",1
+"5643","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q7FC",NA
+"5650","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q7FC",NA
+"5652","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q7FC",NA
+"5656","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q7FC",NA
+"5657","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q7FC",NA
+"5682","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q7FC",NA
+"5685","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q7FC",NA
+"5694","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q7FC",NA
+"5699","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q7FC",NA
+"5703","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q7FC",NA
+"5707","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q7FC",NA
+"5715","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5725","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5728","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5730","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5740","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5745","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5750","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5754","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5764","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5766","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5769","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5771","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5777","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5778","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5779","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5780","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5787","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q7FC",NA
+"5801","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5811","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5813","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5814","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5828","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5830","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5851","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5856","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5860","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q7FC",NA
+"5864","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5873","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5874","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5875","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5876","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q7FC",NA
+"5889","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q7FC",NA
+"5892","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5896","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5898","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q7FC",NA
+"5899","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q7FC",NA
+"5900","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5904","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5908","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q7FC",NA
+"5915","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5919","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5923","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5924","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5926","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5929","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5935","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5937","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q7FC",NA
+"5977","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q7FC",NA
+"5984","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q7FC",NA
+"6004","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q7FC",NA
+"6015","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6023","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6028","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6029","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6043","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6045","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6048","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6053","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6054","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6055","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6064","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6068","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6080","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6083","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6099","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6107","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6108","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6110","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6115","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6116","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6143","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6151","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6152","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6154","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q7FC",NA
+"6162","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6171","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6178","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6179","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6192","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6202","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6208","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6214","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6220","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6222","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q7FC",NA
+"6227","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q7FC",NA
+"6231","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q7FC",NA
+"6233","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q7FC",NA
+"6236","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q7FC",NA
+"6238","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q8FC",NA
+"6245","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q8FC",NA
+"6249","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q8FC",NA
+"6256","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q8FC",NA
+"6257","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q8FC",NA
+"6259","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q8FC",NA
+"6262","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q8FC",NA
+"6270","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q8FC",NA
+"6274","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6276","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6278","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6279","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6281","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6283","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6284","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6286","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6287","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6289","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q8FC",NA
+"6294","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q8FC",NA
+"6314","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q8FC",NA
+"6318","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q8FC",NA
+"6326","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q8FC",NA
+"6328","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q8FC",NA
+"6331","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q8FC",NA
+"6341","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q8FC",NA
+"6348","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q8FC",NA
+"6353","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q8FC",NA
+"6355","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q8FC",NA
+"6364","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q8FC",NA
+"6366","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q8FC",NA
+"6376","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q8FC",NA
+"6386","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q8FC",NA
+"6389","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q8FC",NA
+"6396","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q8FC",NA
+"6405","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6407","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",1
+"6417","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6420","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6424","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6425","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6435","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6436","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6439","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6440","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q8FC",NA
+"6443","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6446","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6452","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6463","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6466","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6468","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6470","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6473","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6480","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6483","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6490","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6493","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6496","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6500","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6507","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6512","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6513","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6514","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6517","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6518","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q8FC",NA
+"6528","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q8FC",NA
+"6533","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q8FC",NA
+"6534","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q8FC",NA
+"6541","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q8FC",NA
+"6543","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q8FC",NA
+"6547","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q8FC",NA
+"6548","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q8FC",NA
+"6573","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q8FC",NA
+"6576","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q8FC",NA
+"6585","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q8FC",NA
+"6590","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q8FC",NA
+"6594","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q8FC",NA
+"6598","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q8FC",NA
+"6606","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6616","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6619","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6621","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6631","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6636","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6641","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6645","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6655","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6657","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6660","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6662","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6668","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6669","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6670","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6671","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6678","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q8FC",NA
+"6692","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6702","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6704","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6705","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6719","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6721","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6742","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6747","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6751","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q8FC",NA
+"6755","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6764","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6765","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6766","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6767","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q8FC",NA
+"6780","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q8FC",NA
+"6783","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6787","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6789","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q8FC",NA
+"6790","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q8FC",NA
+"6791","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6795","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6799","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q8FC",NA
+"6806","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6810","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6814","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6815","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6817","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6820","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6826","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6828","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q8FC",NA
+"6868","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q8FC",NA
+"6875","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q8FC",NA
+"6895","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q8FC",NA
+"6906","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6914","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6919","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6920","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6934","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6936","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6939","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6944","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6945","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6946","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6955","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6959","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6971","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6974","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6990","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6998","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"6999","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"7001","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"7006","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"7007","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"7034","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"7042","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"7043","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"7045","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q8FC",NA
+"7053","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7062","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7069","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7070","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7083","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7093","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7099","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7105","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7111","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7113","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q8FC",NA
+"7118","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q8FC",NA
+"7122","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q8FC",NA
+"7124","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q8FC",NA
+"7127","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q8FC",NA
+"7129","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q9FC",NA
+"7136","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q9FC",NA
+"7140","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q9FC",NA
+"7147","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q9FC",NA
+"7148","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q9FC",NA
+"7150","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q9FC",NA
+"7153","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q9FC",NA
+"7161","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q9FC",NA
+"7165","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7167","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7169","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7170","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7172","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7174","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7175","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7177","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7178","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7180","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q9FC",NA
+"7185","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q9FC",NA
+"7205","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q9FC",1
+"7209","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q9FC",NA
+"7217","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q9FC",NA
+"7219","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q9FC",NA
+"7222","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q9FC",NA
+"7232","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q9FC",NA
+"7239","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q9FC",NA
+"7244","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q9FC",NA
+"7246","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q9FC",NA
+"7255","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q9FC",NA
+"7257","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q9FC",NA
+"7267","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q9FC",NA
+"7277","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q9FC",NA
+"7280","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q9FC",NA
+"7287","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q9FC",NA
+"7296","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7298","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7308","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7311","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7315","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7316","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7326","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7327","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7330","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7331","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q9FC",NA
+"7334","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7337","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7343","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7354","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7357","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7359","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7361","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7364","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7371","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7374","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7381","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7384","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7387","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7391","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7398","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7403","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7404","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7405","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7408","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7409","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q9FC",NA
+"7419","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q9FC",NA
+"7424","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q9FC",NA
+"7425","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q9FC",NA
+"7432","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q9FC",NA
+"7434","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q9FC",NA
+"7438","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q9FC",NA
+"7439","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q9FC",NA
+"7464","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q9FC",NA
+"7467","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q9FC",NA
+"7476","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q9FC",NA
+"7481","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q9FC",NA
+"7485","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q9FC",NA
+"7489","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q9FC",NA
+"7497","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7507","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7510","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7512","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7522","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7527","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7532","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7536","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7546","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7548","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7551","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7553","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7559","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7560","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7561","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7562","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7569","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q9FC",NA
+"7583","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7593","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7595","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7596","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7610","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7612","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7633","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7638","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7642","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q9FC",NA
+"7646","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7655","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7656","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7657","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7658","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q9FC",NA
+"7671","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q9FC",NA
+"7674","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7678","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7680","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q9FC",NA
+"7681","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q9FC",NA
+"7682","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7686","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7690","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q9FC",NA
+"7697","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7701","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7705","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7706","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7708","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7711","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7717","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7719","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q9FC",NA
+"7759","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q9FC",NA
+"7766","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q9FC",NA
+"7786","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q9FC",NA
+"7797","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7805","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7810","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7811","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7825","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7827","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7830","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7835","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7836","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7837","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7846","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7850","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7862","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7865","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7881","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7889","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7890","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7892","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7897","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7898","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7925","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7933","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7934","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7936","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q9FC",NA
+"7944","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"7953","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"7960","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"7961","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"7974","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"7984","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",1
+"7990","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"7996","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"8002","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"8004","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q9FC",NA
+"8009","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q9FC",NA
+"8013","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q9FC",NA
+"8015","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q9FC",NA
+"8018","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q9FC",NA
+"8020","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q10FC",NA
+"8027","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q10FC",NA
+"8031","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q10FC",NA
+"8038","Antelope11001","Medicago sativa","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q10FC",NA
+"8039","Antelope11001","Bromus inermis","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q10FC",NA
+"8041","Antelope11001","Phleum pratense","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q10FC",NA
+"8044","Antelope11001","Ulmus pumila","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q10FC",NA
+"8052","Antelope11001","Securigera varia","SP1Fulton1.9",1,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q10FC",NA
+"8056","Antelope11002","Trifolium pratense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8058","Antelope11002","Phleum pratense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8060","Antelope11002","Bromus inermis","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8061","Antelope11002","Medicago sativa","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8063","Antelope11002","Taraxacum officinale","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8065","Antelope11002","Bromus inermis","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8066","Antelope11002","Lactuca serriola","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8068","Antelope11002","Cirsium arvense","SP2Fulton",2,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8069","Antelope11002","Medicago sativa","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8071","Antelope11002","Cirsium arvense","SP1Fulton",1,2018-06-05,"*",2015-05-09,"The Seed House","Q10FC",NA
+"8076","Antelope11005","Chenopodium album","SP2Knievel",2,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q10FC",NA
+"8096","Antelope11005","Securigera varia","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q10FC",NA
+"8100","Antelope11005","Chenopodium album","SP1Knievel",1,2018-06-06,"*",2014-11-01,"Star Seed - Dealer - PF","Q10FC",NA
+"8108","Antelope11025A","Chenopodium album","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q10FC",NA
+"8110","Antelope11025A","Cannabis sativa","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q10FC",NA
+"8113","Antelope11025A","Convolvulus arvensis","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q10FC",NA
+"8123","Antelope11025A","Bromus tectorum","SP1Pellatz",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q10FC",NA
+"8130","Antelope11025A","Bromus tectorum","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q10FC",NA
+"8135","Antelope11025A","Salsola tragus","SP2Pellatz",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf","Q10FC",NA
+"8137","Antelope11025B","Cannabis sativa","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q10FC",NA
+"8146","Antelope11025B","Lactuca serriola","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q10FC",NA
+"8148","Antelope11025B","Cannabis sativa","SP1Pellatz5.8",1,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q10FC",NA
+"8158","Antelope11025B","Convolvulus arvensis","SP2Pellatz5.8",2,2018-06-06,"*",2015-05-31,"Kaup Forage and Turf-Same mix as Antelope11025A","Q10FC",NA
+"8168","Furnas1008","Melilotus officinalis","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q10FC",NA
+"8171","Furnas1008","Cannabis sativa","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q10FC",NA
+"8178","Furnas1008","Salsola tragus","F3Schluntz14.84",3,2018-09-28,"*",NA,NA,"Q10FC",NA
+"8187","Furnas11006","Bromus tectorum","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8189","Furnas11006","Convolvulus arvensis","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8199","Furnas11006","Monarda citriodora","SP1Schluntz",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8202","Furnas11006","Salsola tragus","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8206","Furnas11006","Convolvulus arvensis","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8207","Furnas11006","Gaillardia aristata","F1Schluntz",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8217","Furnas11006","Salsola tragus","F2Schluntz",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8218","Furnas11006","Melilotus officinalis","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8221","Furnas11006","Kochia scoparia","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8222","Furnas11006","Cannabis sativa","SP2Schluntz",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF","Q10FC",NA
+"8225","Furnas11008","Bromus inermis","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8228","Furnas11008","Chenopodium album","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8234","Furnas11008","Salsola tragus","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8245","Furnas11008","Salsola tragus","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8248","Furnas11008","Thlaspi arvense","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8250","Furnas11008","Cannabis sativa","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8252","Furnas11008","Cannabis sativa","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8255","Furnas11008","Melilotus officinalis","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8262","Furnas11008","Salsola tragus","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8265","Furnas11008","Nepeta cataria","SP2Schluntz14.84",2,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8272","Furnas11008","Lactuca serriola","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8275","Furnas11008","Cannabis sativa","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8278","Furnas11008","Chenopodium album","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8282","Furnas11008","Melilotus officinalis","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8289","Furnas11008","Lactuca serriola","SP1Schluntz14.84",1,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8294","Furnas11008","Monarda citriodora","SP3Schluntz14.84",3,2018-05-30,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8295","Furnas11008","Lactuca serriola","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8296","Furnas11008","Verbascum thapsus","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8299","Furnas11008","Cannabis sativa","F2Schluntz14.84",2,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8300","Furnas11008","Lactuca serriola","F1Schluntz14.84",1,2018-09-28,"*",2015-03-26,"Star Seed - Dealer - PF, same mix as Furnas11006","Q10FC",NA
+"8310","Gage11018A","Monarda citriodora","F2Fossler",2,2018-10-23,"*",NA,NA,"Q10FC",NA
+"8315","Gage11018A","Monarda citriodora","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q10FC",NA
+"8316","Gage11018A","Monarda citriodora","F1Fossler",1,2018-10-23,"*",NA,NA,"Q10FC",NA
+"8323","Gage11018A","Bromus tectorum","F1Fossler",1,2018-10-23,"*",NA,NA,"Q10FC",NA
+"8325","Gage11018A","Lactuca serriola","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q10FC",NA
+"8329","Gage11018A","Echinacea purpurea","SP1Fossler",1,2018-06-12,"*",NA,NA,"Q10FC",NA
+"8330","Gage11018A","Echinacea purpurea","F1Fossler",1,2018-10-23,"*",NA,NA,"Q10FC",NA
+"8355","Gage11018A","Taraxacum officinale","F1Fossler",1,2018-10-23,"*",NA,NA,"Q10FC",NA
+"8358","Gage11018A","Taraxacum officinale","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q10FC",NA
+"8367","Gage11018A","Echinacea purpurea","F2Fossler",2,2018-10-23,"*",NA,NA,"Q10FC",NA
+"8372","Gage11018A","Ulmus pumila","F1Fossler",1,2018-10-23,"*",NA,NA,"Q10FC",NA
+"8376","Gage11018A","Ulmus pumila","F2Fossler",2,2018-10-23,"*",NA,NA,"Q10FC",NA
+"8380","Gage11018A","Monarda citriodora","SP2Fossler",2,2018-06-12,"*",NA,NA,"Q10FC",NA
+"8388","Gage11054","Monarda citriodora","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8398","Gage11054","Bromus japonicus","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8401","Gage11054","Bromus tectorum","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8403","Gage11054","Monarda citriodora","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8413","Gage11054","Echinochloa crus-galli","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8418","Gage11054","Penstemon digitalis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8423","Gage11054","Bromus tectorum","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8427","Gage11054","Bromus tectorum","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8437","Gage11054","Ulmus pumila","F2Riha",2,2018-10-23,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8439","Gage11054","Ulmus pumila","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8442","Gage11054","Monarda citriodora","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8444","Gage11054","Bromus tectorum","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8450","Gage11054","Bromus inermis","F1Riha",1,2018-10-23,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8451","Gage11054","Lactuca serriola","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8452","Gage11054","Monarda citriodora","SP2Riha",2,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8453","Gage11054","Penstemon digitalis","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8460","Gage11054","Bromus japonicus","SP1Riha",1,2018-06-12,"*",2015-01-24,"Stock Seed","Q10FC",NA
+"8474","Gage11060","Monarda citriodora","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q10FC",1
+"8484","Gage11060","Monarda citriodora","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q10FC",NA
+"8486","Gage11060","Taraxacum officinale","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q10FC",NA
+"8487","Gage11060","Setaria viridis","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q10FC",NA
+"8501","Gage11060","Echinacea purpurea","F1Seitz",1,2018-10-23,"*",2015-02-24,"Stock Seed","Q10FC",NA
+"8503","Gage11060","Taraxacum officinale","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q10FC",NA
+"8524","Gage11060","Bromus tectorum","SP2Seitz",2,2018-06-12,"*",2015-02-24,"Stock Seed","Q10FC",NA
+"8529","Gage11060","Bromus tectorum","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q10FC",NA
+"8533","Gage11060","Poa pratensis","SP1Seitz",1,2018-06-12,"*",2015-02-24,"Stock Seed","Q10FC",NA
+"8537","Harlan11007A","Trifolium pratense","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8546","Harlan11007A","Bromus inermis","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8547","Harlan11007A","Monarda citriodora","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8548","Harlan11007A","Verbascum thapsus","SP1Lutjeharms4.6",1,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8549","Harlan11007A","Monarda citriodora","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q10FC",NA
+"8562","Harlan11007A","Ulmus pumila","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q10FC",NA
+"8565","Harlan11007A","Ulmus pumila","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8569","Harlan11007A","Monarda citriodora","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8571","Harlan11007A","Gaillardia aristata","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q10FC",NA
+"8572","Harlan11007A","Verbascum thapsus","F1Lutjeharms4.6",1,2018-09-27,"*",NA,NA,"Q10FC",NA
+"8573","Harlan11007A","Verbascum thapsus","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8577","Harlan11007A","Trifolium pratense","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8581","Harlan11007A","Monarda citriodora","F2Lutjeharms4.6",2,2018-09-27,"*",NA,NA,"Q10FC",NA
+"8588","Harlan11007A","Lactuca serriola","SP2Lutjeharms4.6",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8592","Harlan11008A","Trifolium pratense","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8596","Harlan11008A","Kochia scoparia","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8597","Harlan11008A","Kochia scoparia","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8599","Harlan11008A","Lactuca serriola","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8602","Harlan11008A","Chenopodium album","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8608","Harlan11008A","Cannabis sativa","SP2Lutjeharms",2,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8610","Harlan11008A","Taraxacum officinale","SP1Lutjeharms",1,2018-05-31,"*",NA,NA,"Q10FC",NA
+"8650","Harlan11012","Lactuca serriola","SP2Woollen",2,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q10FC",NA
+"8657","Harlan11012","Lactuca serriola","SP1Woollen",1,2018-05-31,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q10FC",NA
+"8677","Harlan11012","Taraxacum officinale","F2Woollen",2,2018-09-28,"*",2015-05-04,"Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info","Q10FC",NA
+"8688","Johnson110261","Convolvulus arvensis","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8696","Johnson110261","Bromus tectorum","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8701","Johnson110261","Bromus tectorum","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8702","Johnson110261","Lactuca serriola","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8716","Johnson110261","Bromus japonicus","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8718","Johnson110261","Bromus tectorum","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8721","Johnson110261","Convolvulus arvensis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8726","Johnson110261","Setaria viridis","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8727","Johnson110261","Taraxacum officinale","F1Leuenberger1",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8728","Johnson110261","Lactuca serriola","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8737","Johnson110261","Taraxacum officinale","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8741","Johnson110261","Bromus japonicus","SP2Leuenberger1",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8753","Johnson110261","Convolvulus arvensis","SP1Leuenberger1",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8756","Johnson110261","Setaria viridis","F2Leuenberger1",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8772","Johnson110262","Taraxacum officinale","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8780","Johnson110262","Morus alba","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8781","Johnson110262","Bromus japonicus","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8783","Johnson110262","Setaria viridis","F2Leuenberger2",2,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8788","Johnson110262","Thlaspi arvense","SP2Leuenberger2",2,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8789","Johnson110262","Setaria viridis","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8816","Johnson110262","Lactuca serriola","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8824","Johnson110262","Bromus tectorum","SP1Leuenberger2",1,2018-06-14,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8825","Johnson110262","Bromus japonicus","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8827","Johnson110262","Bromus tectorum","F1Leuenberger2",1,2018-10-29,"*",2014-11-26,"Wagner's Feed Store","Q10FC",NA
+"8835","Webster11004","Bromus tectorum","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8844","Webster11004","Morus alba","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8851","Webster11004","Lactuca serriola","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8852","Webster11004","Coreopsis lanceolata","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8865","Webster11004","Chenopodium album","F1Shipman8.3",1,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8875","Webster11004","Coreopsis lanceolata","SP1Shipman8.3",1,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8881","Webster11004","Bromus tectorum","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8887","Webster11004","Trifolium pratense","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8893","Webster11004","Bromus tectorum","F2Shipman8.3",2,2018-09-27,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8895","Webster11004","Bromus inermis","SP2Shipman8.3",2,2018-06-01,"*",2015-04-23,"Star Seed - Dealer - PF","Q10FC",NA
+"8900","Webster11006","Chenopodium album","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q10FC",NA
+"8904","Webster11006","Ulmus pumila","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q10FC",NA
+"8906","Webster11006","Bromus inermis","SP2Rasser",2,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q10FC",NA
+"8909","Webster11006","Chenopodium album","SP1Rasser",1,2018-06-01,"*",2015-04-16,"Star Seed - Dealer -PF seed mix","Q10FC",NA
