@@ -1,0 +1,4 @@
+nonNativeFloralCover
+nativeFloralCover
+nonNativePlantSpeciesCover
+nativePlantSpeciesCover
