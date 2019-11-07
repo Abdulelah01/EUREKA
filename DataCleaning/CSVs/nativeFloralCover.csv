@@ -1,4 +1,4 @@
-"","Field ID","Species","Visit ID","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor","Quadrant","Cover Value"
+"1","FieldID","Species","VisitID","Transect","VisitDate","CoEOfConsvm","PlantedDate","SeedVendor","Quadrant","CoverValue"
 "3","Antelope11001","Rudbeckia hirta","SP2Fulton1.9",2,2018-06-05,"4",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
 "4","Antelope11001","Chamaecrista fasciculata","SP2Fulton1.9",2,2018-06-05,"1",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
 "5","Antelope11001","Achillea millefolium","SP2Fulton1.9",2,2018-06-05,"2",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
