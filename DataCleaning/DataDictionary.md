@@ -32,3 +32,5 @@
 |SpeciesPLS      |   The pure live seed pounds per acre that was planted for a species |
 |SpeciesCommName  |   The Common Name of a Species |
 |CoEOfConsvm		|	The Coefficient of Conservatism which is a range between 0 and 10. The higher the score the lower tolerance to environmental degradation |
+|Quandrant | Need a description |   
+|CoverValue | Need a description |  
