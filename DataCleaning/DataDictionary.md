@@ -32,5 +32,6 @@
 |SpeciesPLS      |   The pure live seed pounds per acre that was planted for a species |
 |SpeciesCommName  |   The Common Name of a Species |
 |CoEOfConsvm		|	The Coefficient of Conservatism which is a range between 0 and 10. The higher the score the lower tolerance to environmental degradation |
-|Quandrant | Need a description |   
-|CoverValue | Need a description |  
+|Quadrat |Is an area within a transect; There are typically 10 quadrats per transect |   
+|CoverValue | This variable inccorporates the cover class withich is a value of 1 to 6 that determines the range of cover which is a percentage from 0 to greater than 95% |  
+|SequenceID | The sequence number associated with the species data; an arbitrary value |  
