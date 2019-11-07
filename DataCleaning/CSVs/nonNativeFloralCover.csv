@@ -1,4 +1,4 @@
-"SequenceID","FieldID","Species","VisitID","Transect","VisitDate","CoEOfConsvm","PlantedDate","SeedVendor","Quadrant","CoverValue"
+"SequenceID","FieldID","Species","VisitID","Transect","VisitDate","CoEOfConsvm","PlantedDate","SeedVendor","Quadrat","CoverValue"
 "1","Antelope11001","Phleum pratense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
 "8","Antelope11001","Cirsium arvense","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
 "12","Antelope11001","Bromus inermis","SP2Fulton1.9",2,2018-06-05,"*",2015-05-09,"The Seed House- same mix as Antelope11002","Q1FC",NA
