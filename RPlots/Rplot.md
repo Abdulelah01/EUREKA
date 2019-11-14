@@ -155,7 +155,7 @@ ggplot(condNatPlantCoverMean, aes(x=mean, y=Order)) +
                linetype="dashed", 
                size=0.1) 
 ```
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
 
 ## Contributorship Statement
 
