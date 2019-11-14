@@ -156,7 +156,7 @@ ggplot(condNatPlantCoverMean, aes(x=mean, y=Order)) +
 ```
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-Contributorship Statement
+### Contributorship Statement
 Erik Worked on Non-Native and Native Floral Coverage Density
 Kristi wored on the Taxonomy data 
 Anitha worked on the conservatism of coefficient
