@@ -1,8 +1,8 @@
 ---
-title: "Rplots"
-author: "Abdulelah Almubarak"
-date: "11/14/2019"
-output: html_document
+Title: "Rplots"
+Author: "Abdulelah Almubarak"
+Date: "11/14/2019"
+Output: html_document
 ---
 
 ```{r setup, include=FALSE}
