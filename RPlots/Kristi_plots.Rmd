@@ -1,0 +1,54 @@
+---
+title: "Dot Plot with Native Plant Data"
+author: "Eureka Project Team"
+date: "11/14/2019"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r Load Species Data, include=FALSE}
+expSpeciesData <- read.csv('Species_Attribute_expanded.csv',head=T)
+attach(expSpeciesData)
+```
+
+```{r Remove unnecassry Columns from Species Data, include=FALSE}
+expSpeciesDataRem <- expSpeciesData[,-c(2:3)]
+nativePlantCover <- read.csv('nativePlantCover.csv',head=T)
+```
+
+```{r Merge with Species Data, include=FALSE}
+library(tidyverse)
+expNativePlantCover <- merge(expSpeciesDataRem,nativePlantCover, by=c('Species'),all.x = F)
+```
+``` {r Remove N/A values and create Mean data, include=FALSE}
+expNatPlantCovNA <- na.omit(expNativePlantCover,CoverValue)
+condNatPlantCover <- select(expNatPlantCovNA, Order, CoverValue)
+condNatPlantCoverMean <- condNatPlantCover %>%
+    group_by(Order) %>%
+    summarise(mean=mean(CoverValue), n = n())
+attach(condNatPlantCoverMean)   
+```
+ 
+###  Dot Plot of Mean Data
+
+It shows that of the groupings that survived some cover values where significant to others but mostly they fell in the same rage
+
+```{r Geom Point Plot}
+library(ggplot2)
+library(scales)
+theme_set(theme_classic())
+ggplot(condNatPlantCoverMean, aes(x=mean, y=Order)) + 
+  geom_point(col="tomato2", size=3) +   # Draw points
+  geom_segment(aes(x=mean, 
+                   xend=mean, 
+                   y=Order, 
+                   yend=Order), 
+               linetype="dashed", 
+               size=0.1) 
+```
