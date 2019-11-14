@@ -159,12 +159,12 @@ ggplot(condNatPlantCoverMean, aes(x=mean, y=Order)) +
 
 ## Contributorship Statement
 
-Erik Worked on Non-Native and Native Floral Coverage Density
+Erik Worked on non-native and native floral coverage density
 
-Kristi wored on the Taxonomy data (Mean Data)
+Kristi worked on the taxonomy data (Mean Data)
 
 Anitha worked on the conservatism of coefficient
 
-Abe created the Rmarkdown 
+Abe created the rmarkdown 
 
 1, Abdulelah Almubarak, have reviewed and proofread the following work and agree that it is ready for submission.
