@@ -161,7 +161,7 @@ ggplot(condNatPlantCoverMean, aes(x=mean, y=Order)) +
 
 Erik Worked on Non-Native and Native Floral Coverage Density
 
-Kristi wored on the Taxonomy data
+Kristi wored on the Taxonomy data (Mean Data)
 
 Anitha worked on the conservatism of coefficient
 
