@@ -138,8 +138,9 @@ attach(condNatPlantCoverMean)
 ```
  
 ###  Dot Plot of Mean Data
+![ Mean Data ](Dot_Plot.png)
 
-It shows that of the groupings that survived some cover values where significant to others but mostly they fell in the same rage
+It shows that of the groupings that survived some cover values where significant to others but mostly they fell in the same range
 
 ```
 library(ggplot2)
