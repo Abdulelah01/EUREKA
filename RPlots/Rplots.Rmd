@@ -139,7 +139,7 @@ attach(condNatPlantCoverMean)
  
 ###  Dot Plot of Mean Data
 
-It shows that of the groupings that survived some cover values where significant to others but mostly they fell in the same rage
+It shows that of the groupings that survived some cover values where significant to others but mostly they fell in the same range
 
 ```
 library(ggplot2)
@@ -154,7 +154,7 @@ ggplot(condNatPlantCoverMean, aes(x=mean, y=Order)) +
                linetype="dashed", 
                size=0.1) 
 ```
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
 
 Contributorship Statement
 Erik Worked on Non-Native and Native Floral Coverage Density
