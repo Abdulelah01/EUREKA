@@ -16,13 +16,13 @@ _This is our group project for class Special Topics In ISQA_
 **4. [Data Cleaning Documentation](https://github.com/Abdulelah01/EUREKA/tree/master/DataCleaning)** 
 * Due Oct 24
 
-**5. [Progress Meeting]()** _In progress_
+**5. [Progress Meeting](https://github.com/Abdulelah01/EUREKA/blob/master/MeetingNotes.md)** _Concluded_
 * Due Oct 24
 
-**6. [R Script]()** _In progress_
+**6. [R Script](https://github.com/Abdulelah01/EUREKA/blob/master/Rscripts/Rscripts.md)** _Concluded_
 * Due Nov 7
 
-**7. [R Plots]()** _In progress_
+**7. [R Plots](https://github.com/Abdulelah01/EUREKA/blob/master/RPlots/Rplot.md)** _Concluded_
 * Due Nov 14
 
 **8. [Project Presentation]()** _In progress_
