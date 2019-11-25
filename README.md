@@ -25,10 +25,10 @@ _This is our group project for class Special Topics In ISQA_
 **7. [R Plots](https://github.com/Abdulelah01/EUREKA/blob/master/RPlots/Rplot.md)** _Concluded_
 * Due Nov 14
 
-**8. [Project Presentation]()** _In progress_
+**8. [Project Presentation](https://github.com/Abdulelah01/EUREKA/blob/master/Project%20Presentation.md)** _In progress_
 * Due Dec 12 at 6 PM
 
-**9. [Git Repository Package]()** _In progress_
+**9. [Git Repository Package](https://github.com/Abdulelah01/EUREKA/blob/master/Git%20Repository%20Package.md)** _In progress_
 * Due Dec 12 at 3PM
 
 **10. [Project Preference Ranking Survey]()** _In progress_
