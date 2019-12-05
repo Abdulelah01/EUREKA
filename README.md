@@ -13,7 +13,7 @@ _This is our group project for class Special Topics In ISQA_
 
 **3. [Audience Profile](https://github.com/Abdulelah01/EUREKA/blob/master/AudienceProfile/AudienceProfile.md)**
 
-**4. [Data Cleaning Documentation](https://github.com/Abdulelah01/EUREKA/tree/master/DataCleaning)** 
+**4. [Data Cleaning Documentation](https://github.com/Abdulelah01/EUREKA/blob/master/DataCleaning/DataCleaning.md)** 
 * Due Oct 24
 
 **5. [Progress Meeting](https://github.com/Abdulelah01/EUREKA/blob/master/MeetingNotes.md)** _Concluded_
