@@ -31,7 +31,7 @@ _This is our group project for class Special Topics In ISQA_
 **9. [Git Repository Package](https://github.com/Abdulelah01/EUREKA/blob/master/Git%20Repository%20Package.md)** _In progress_
 * Due Dec 12 at 3PM
 
-**10. [Project Preference Ranking Survey]()** _In progress_
+**10. [Project Preference Ranking Survey]()** _Concluded_
 * Due Sep 13 at 9 PM
 
 ### Resources
