@@ -158,7 +158,7 @@ print(expNativeFloralCover)
     library(dplyr)
     library(data.table)
 
-### Summary of native and non native plant species
+### Summary of native and non-native plant species
 
 ``` 
 
@@ -177,7 +177,7 @@ View(native)
 summary(native)
 ```
 
-### code for distributive statistice on coeffiencent column specific to field\_id
+### code for distributive statistic on coefficient column specific to field\_id
 
 ``` 
 
@@ -236,7 +236,7 @@ stat.desc(native %>% filter(Seed_Vendor == "Wagner's Feed Store")%>%select(Coef_
 # median - 3.000000e+00, mean - 2.663265e+00, SE.mean - 5.204614e-02 ,std.dev - 1.629302e+00
 ```
 
-# Contributorship Statement
+# Contributors Statement
 
 Erik and Kristi focused on scripting the Data Cleaning Tasks Anitha
 developed scripts for plotting Statistics Abe worked on developing the
