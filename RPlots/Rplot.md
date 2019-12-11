@@ -18,7 +18,7 @@ densityNonNativeFC <- ggplot(nonNativeFC[c(2,9,10)], aes(nonNativeFC$`Cover Valu
 ```
 ![Non-Native Floral Coverage Density](NonNativeFloralCoverageDensity.png)
 
-This plot shows the density of the floral coverage values for non-native plant species. As the plot shows the highest coverage value recorded was 3. The large majority was 1 meaning very little coverage. This plot can be hard to intepret due to the lack of coverage value range.
+This plot shows the density of the floral coverage values for non-native plant species. As the plot shows the highest coverage value recorded was 3. The large majority was 1 meaning very little coverage. This plot can be hard to interpret due to the lack of coverage value range.
 ## Non-Native Plant Species Coverage Density
 ```
 densityNonNativePSC <- ggplot(nonNativePSC[c(2,9,10)], aes(nonNativePSC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3","4","5","6"))  + scale_y_continuous(name="Density",breaks=c(0.0,0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0)) + ggtitle("Non-Native Plant Species Coverage Density")
