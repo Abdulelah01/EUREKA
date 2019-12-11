@@ -27,10 +27,12 @@ Audience profiling should be completed during product development to make sure t
 companies need to have goals in mind when they are selling a product. 
 
 **4. [Data Cleaning Documentation](https://github.com/Abdulelah01/EUREKA/blob/master/DataCleaning/DataCleaning.md)** 
+
 _The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes.
 
 **5. [Progress Meeting](https://github.com/Abdulelah01/EUREKA/blob/master/MeetingNotes.md)** _Concluded_
-* Due Oct 24
+
+_Run the stats behind native vs nonNative failure rates Seed Vendor failure rates Site failure rates, then relates previous cover data.
 
 **6. [R Script](https://github.com/Abdulelah01/EUREKA/blob/master/Rscripts/Rscripts.md)** _Concluded_
 * Due Nov 7
