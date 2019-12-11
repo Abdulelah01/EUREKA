@@ -3,7 +3,7 @@ Final
 Abdulelah Almubarak
 11/7/2019
 
-# Import New Dataset and Merge
+## Import New Dataset and Merge
 
 1.  Import new Expanded Site Data
 
@@ -240,6 +240,7 @@ stat.desc(native %>% filter(Seed_Vendor == "Wagner's Feed Store")%>%select(Coef_
 
 Erik and Kristi focused on scripting the Data Cleaning Tasks Anitha
 developed scripts for plotting Statistics Abe worked on developing the
-Macro data \# Proofreader Statement 1, Abdulelah Almubarak, have
+Macro data \# 
+_Proofreader Statement 1, Abdulelah Almubarak, have
 reviewed and proofread the following work and agree that it is ready for
 submission.
