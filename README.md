@@ -22,6 +22,10 @@ The tasks column contains the tasks that we believe need to be done to meet the 
 
 **3. [Audience Profile](https://github.com/Abdulelah01/EUREKA/blob/master/AudienceProfile/AudienceProfile.md)**
 
+(_Audience profiling can help to determine the goal of the product by determining to whom the product should be marketed.
+Audience profiling should be completed during product development to make sure the product will fit a certain audience.
+companies need to have goals in mind when they are selling a product.) 
+
 **4. [Data Cleaning Documentation](https://github.com/Abdulelah01/EUREKA/blob/master/DataCleaning/DataCleaning.md)** 
 * Due Oct 24
 
