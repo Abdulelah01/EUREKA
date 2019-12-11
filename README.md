@@ -30,15 +30,14 @@ companies need to have goals in mind when they are selling a product.
 
 _The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes.
 
-**5. [Progress Meeting](https://github.com/Abdulelah01/EUREKA/blob/master/MeetingNotes.md)** _Concluded_
+**5. [Progress Meeting](https://github.com/Abdulelah01/EUREKA/blob/master/MeetingNotes.md)** 
 
 _Run the stats behind native vs nonNative failure rates Seed Vendor failure rates Site failure rates, then relates previous cover data.
 
-**6. [R Script](https://github.com/Abdulelah01/EUREKA/blob/master/Rscripts/Rscripts.md)** _Concluded_
-
+**6. [R Script](https://github.com/Abdulelah01/EUREKA/blob/master/Rscripts/Rscripts.md)** 
 _In this section we covered how to extract data from the datasheet we were provided  
 
-**7. [R Plots](https://github.com/Abdulelah01/EUREKA/blob/master/RPlots/Rplot.md)** _Concluded_
+**7. [R Plots](https://github.com/Abdulelah01/EUREKA/blob/master/RPlots/Rplot.md)** 
 
 _Versus Plots This versus plot does shows the differences between floral coverage of native and non-native plant species, however since both plots are such a small variation of coverage values it does not show anything very conclusive Plant Species Coverage Density Versus This versus plots shows the differences between plant species coverage of native and non-native plant species.
 The plot shows an expected decreasing density, with very few at the largest coverage value of Native Floral Coverage Density This plot shows the density of the floral coverage values for native plant species.
@@ -53,7 +52,7 @@ Non-Native Plant Species Coverage Density This plot shows the density of the pla
 **9. [Git Repository Package](https://github.com/Abdulelah01/EUREKA/blob/master/Git%20Repository%20Package.md)** _In progress_
 * Due Dec 12 at 3PM
 
-**10. [Project Preference Ranking Survey]()** _Concluded_
+**10. [Project Preference Ranking Survey]()** 
 * Due Sep 13 at 9 PM
 
 ### Resources
