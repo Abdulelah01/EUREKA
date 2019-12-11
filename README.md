@@ -35,7 +35,8 @@ _The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation)
 _Run the stats behind native vs nonNative failure rates Seed Vendor failure rates Site failure rates, then relates previous cover data.
 
 **6. [R Script](https://github.com/Abdulelah01/EUREKA/blob/master/Rscripts/Rscripts.md)** _Concluded_
-* Due Nov 7
+
+_In this section we covered how to extract data from the datasheet we were provided  
 
 **7. [R Plots](https://github.com/Abdulelah01/EUREKA/blob/master/RPlots/Rplot.md)** _Concluded_
 * Due Nov 14
