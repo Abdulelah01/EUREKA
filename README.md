@@ -7,11 +7,17 @@ _This is our group project for class Special Topics In ISQA_
 
 ### Deliverables
 **1. [Background Research & Research Questions](https://github.com/Abdulelah01/EUREKA/blob/master/BackgroundResearch%26RQs/BR%26RQ_BackgroundResearch%26RQs.md)**
+
 _This process creates “a social and economic boost to poverty-stricken rural communities through pollination services and the sustainable harvesting of Elephant Friendly Honey.” During this study, researchers are able to identify and record hundreds of pollinator and which flower type that each pollinator visits, and document the trends and distribution patterns of a variety pollinators, including honeybees Recent Pollinator Trends Many organizations within in Nebraska have taken on conservation projects around pollinator health.
 Researchers in this type of study may gather data by reviewing historical records, performing field observations, performing experiments, measuring the effects of environmental differences, and/or making phylogenetic, the evolution of a particular group of organisms, assessments.
 Researchers in this type of study may gather data by reviewing historical records, performing field observations, performing experiments, measuring the effects of environmental differences, and/or measuring the effects of spring climates._
 
 **2. [Project Plan](https://github.com/Abdulelah01/EUREKA/blob/master/Project_Plan.md)**
+
+_Being an agile group, we want to allow for unforeseen issues and adjust our work plan as needed.
+The contributor column contains the team member that is responsible for completing the task.
+The completion date column can signify two things: when the task should be completed by or when the task was completed by.
+The tasks column contains the tasks that we believe need to be done to meet the deliverable._
 
 
 **3. [Audience Profile](https://github.com/Abdulelah01/EUREKA/blob/master/AudienceProfile/AudienceProfile.md)**
