@@ -39,7 +39,13 @@ _Run the stats behind native vs nonNative failure rates Seed Vendor failure rate
 _In this section we covered how to extract data from the datasheet we were provided  
 
 **7. [R Plots](https://github.com/Abdulelah01/EUREKA/blob/master/RPlots/Rplot.md)** _Concluded_
-* Due Nov 14
+
+_Versus Plots This versus plot does shows the differences between floral coverage of native and non-native plant species, however since both plots are such a small variation of coverage values it does not show anything very conclusive Plant Species Coverage Density Versus This versus plots shows the differences between plant species coverage of native and non-native plant species.
+The plot shows an expected decreasing density, with very few at the largest coverage value of Native Floral Coverage Density This plot shows the density of the floral coverage values for native plant species.
+Research Question This plot shows a side by side look at the density of plant species coverage for native and non-native plants.
+This means that more native plants were recorded as established than non-native plants Plots showing the conservatism of coefficient specific to the filed_ID Gage11018A Analysis: Based on this plot we could say that the maximum number of species count fall under the coefficient of conservatism of 4 where the coefficient value ranges from 0 to 7.
+Non-Native Floral Coverage Density This plot shows the density of the floral coverage values for non-native plant species.
+Non-Native Plant Species Coverage Density This plot shows the density of the plant species coverage values for non-native plant species.
 
 **8. [Project Presentation](https://github.com/Abdulelah01/EUREKA/blob/master/Project%20Presentation.md)** _In progress_
 * Due Dec 12 at 6 PM
