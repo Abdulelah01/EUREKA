@@ -5,7 +5,7 @@
 ### Deliverables
 **1. [Background Research & Research Questions](https://github.com/Abdulelah01/EUREKA/blob/master/BackgroundResearch%26RQs/BR%26RQ_BackgroundResearch%26RQs.md)**
 
-This process creates “a social and economic boost to poverty-stricken rural communities through pollination services and the sustainable harvesting of Elephant Friendly Honey.” During this study, researchers are able to identify and record hundreds of pollinator and which flower type that each pollinator visits, and document the trends and distribution patterns of a variety pollinators, including honeybees Recent Pollinator Trends Many organizations within in Nebraska have taken on conservation projects around pollinator health.
+ During this study, researchers are able to identify and record hundreds of pollinator and which flower type that each pollinator visits, and document the trends and distribution patterns of a variety pollinators, including honeybees Recent Pollinator Trends Many organizations within in Nebraska have taken on conservation projects around pollinator health.
 Researchers in this type of study may gather data by reviewing historical records, performing field observations, performing experiments, measuring the effects of environmental differences, and/or making phylogenetic, the evolution of a particular group of organisms, assessments.
 Researchers in this type of study may gather data by reviewing historical records, performing field observations, performing experiments, measuring the effects of environmental differences, and/or measuring the effects of spring climates.
 
