@@ -11,3 +11,5 @@ I, Kristi Boxley, worked on the Final Summary. I completed all parts except for 
 |Change Made | Changer|
 |---------|--------------|  
 |Updated Research Questions to be more obtainable| Team |
+|Added Taxonmy Data to Species data set | Kristi Boxley |
+|Added Landscaping Data to Site data set | Kristi Boxley |
