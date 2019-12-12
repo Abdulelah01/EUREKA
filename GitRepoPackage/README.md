@@ -15,7 +15,7 @@
 [Summary HTML](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Summary_8086.html)  
 [References](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/References.md)  
 
-[Presentation PDF]()
+[Presentation PDF](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Eureka_Final_Presentation.pdf)
 
 [Contribution](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Contribution.md)
 
