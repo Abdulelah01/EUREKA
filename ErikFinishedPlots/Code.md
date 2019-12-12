@@ -57,10 +57,12 @@ MultiPSC <- grid.arrange(densityNativePSC, densityNonNativePSC)
 This plot shows that many of the families did not have much data in regards to Floral Coverage. The Aster, Mint, and Pea families were the only ones with recorded data. There is not many conclusions to be drawn from this plot. It is shown that the Aster and Mint family are recorded very highly at the value of 1, which indicates they started growing well, even if only covering a small amount. The Pea family while having less density at the value of 1, has the largest density of 2. The Mint family was the highest at 3, meaning it covered the most amount of the quadrant of any plant family measured by floral coverage.
 ```
 densityFamilyFC <- ggplot(FamilyFC, aes(FamilyFC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3"))  + scale_y_continuous(name="Density") + facet_grid(~FamilyFC$Family) + ggtitle("Density of Floral Cover per Plant Family")
+densityFamilyFC
 ```
 ### Density of Plant Species Cover per Plant Family
 ![](densityFamilyPSC.png)
 This plot shows each plant families density of cover data in regards to Plant Species Coverage. Bellflower, Figwort, Pea, Potato, and Verbana show very small, if any density past the Cover Value of 3. This means that the did not grow to cover as much of the quadrant as some of the other families did. Aster, Grass, and Poaceae families showed the highest densities at 6, the top cover value. This means that these families had the highest coverage of their quadrants.
 ```
 densityFamilyPSC <- ggplot(FamilyPSC, aes(FamilyPSC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3","4","5","6"))  + scale_y_continuous(name="Density") + facet_grid(~FamilyPSC$Family) + ggtitle("Density of Plant Species Cover per Plant Family")
+densityFamilyPSC
 ```
