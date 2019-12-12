@@ -1,0 +1,651 @@
+---
+title: "Integrated Rplots/Scripts"
+author: "Anitha"
+date: "12/12/2019"
+output: html_document
+theme: cosmo
+toc: yes
+github_document:
+  toc:yes
+  word_document: default
+  pdf_document:
+    toc:yes
+---
+
+# Description of Xerces Data Set
+
+The project team was provided the data in Excel format. The Excel spreadsheet was composed of six sheets, Site, Visit, Veg (Vegetation), Macro, Seed and Species Attributes. Below you will find descriptions of each of the Excel sheets. We did not have any intellectual property constraints or licensing issues associated with the data.  For this Rmarkdown script to work you will need to download the site_data.csv and landscape.csv.
+
+## Data Reference
+
+Powers, R 2019, *Plant establishment in Conservation Reserve Program's pollinator habitats across Nebrasksa*, data file, NRCS-Xerces Society, *Microsoft Excel file*
+
+## Site Data Description
+
+The Site data is composed of 17 rows and 10 columns. It contains a field id, a region, the number of acres associated with the field, the county, the date the site was planted, the planting method, the number of species planted, the Pure Live Seed pounds per acre, the previous vegetation cover and the Vendor for the seed planted. Only two cells were left N/A. 
+
+The Columns for the Site Data: 
+
+<table border=2> 
+<th> Field ID </th>
+<th> Region </th>
+<th> Field acres </th>
+<th> County </th>
+<th> Planted Date </th>
+<th> Planting method </th>
+<th> # of species planted </th>
+<th> Pure Live Seed lbs/acre </th>
+<th> Previous cover </th>
+<th> Seed Vendor </td>
+</table>
+<hr/>
+
+### Remediation of the Site Data
+
+On a whole the site data was fine. There were two missing cells for Number of Species and Pure Live Seed pounds per acre for the Prairie Plains Seed Vendor. Otherwise, the data set was complete. From the planted date, we will look at deriving a new field called PlantingSeason. The PlantingSeason allows for a friendlier translation of the date. However, the Site data alone is not enough information to draw many conclusions. As a result, it will be necessary to merge this data with the visit data to increase its value. The planting method will be removed since the method is drill for all sites.
+
+## Visit Data Description  
+
+The Visit data is composed of 56 rows and 7 columns. It contains a field ID, a visit ID, Transect, the visit date, the observer, the surrounding Landscape and the Notes about the visit. Much of the data for the surrounding landscape is duplicated for each transect and each visit. The notes cells have the missing data for this sheet. The notes also contain an indication if the site failed. Another indication of a failed site is a fall visit will not occur. The biggest issue with this data are the Surrounding Landscape and the Notes columns. These columns are free text fields and difficult to parse. The Surrounding Landscape data has the potential to add value though. As a result, this data was parsed manually with a description of this new dataset below.  
+
+The Columns for the Visit Data:  
+
+<table border=2> 
+<th> Visit ID </th>
+<th> Field ID </th>
+<th> Transect </th>
+<th> Date </th>
+<th> Observer </th>
+<th> Surrounding Landscape </th>
+<th> Notes </td>
+</table>
+<hr/>
+
+The columns for the parsed Surrounding Landscape Data:
+
+<table border=2> 
+<th> Field ID </th>
+<th> LandSTree </th>
+<th> LandSRoad </th>
+<th> LandSStructuresr </th>
+<th> LandSSCrop </th>
+<th> LandSGrass </th>
+<th> LandSWaterArea </th>
+<th> LandSOther </td>
+</table>
+<hr/>  
+
+### Remediation of the Visit Data
+
+The visit data, on a whole, was fine. Most of the data was present. Only the Notes columns had missing cells and that is to be expected for a free form field. The Notes data for the most part will be ignored since it is more of a qualitative data. Although, the Notes column does tell us if the site was a failure. We will take that information and manually create a new column called established and populate the words success or failure. The Surrounding Landscape data was free form data as well. At first site we might have categorized this data as qualitative as well but the client specifically called out this data as variable in the analysis. The current form the data was unusable though. Using Excel, this data was parsed into 7 columns. The data was collapsed to the Field ID level. This collapsing was done since the data did not vary by transect, observer or visit date. The observer was Ms. Rae Powers for every visit except two where she was joined by another individual.
+
+#### Steps  
+
+1. Created copy of Visit data Excel Sheet and named it visit_data_updated  
+
+2. Added new columns to Excel sheet (LandSTree,LandSRoad,LandSStructures,LandSSCrop,LandSGrass,LandSWaterArea,LandSOther, Established)  
+
+3. Added data to each of the new columns based on the contents in the Surrounding Landscape column  
+
+4. Consolidated all visits into one row for each Field ID and removed extra rows.  
+
+5. Removed Visit ID, Observer, Visit Date, Transect, Surrounding LandScape and Notes columns.  
+
+6. Merged visit_data_updated sheet with site data sheet based on Field ID  
+
+
+The New consolidated dataset, ExpandedSiteData
+
+<table border=2> 
+<th> FieldID </th>
+<th> Region </th>
+<th> NumOfAcres </th>
+<th> County </th>
+<th> PlantedDate </th>
+<th> PlantingSeason </th>
+<th> SpeciesNum </th>
+<th> TotalPLSAcre </th>
+<th> PreCover </th>
+<th> SeedVendor </th>
+<th> LandSTree </th>
+<th> LandSRoad </th>
+<th> LandSStructuresr </th>
+<th> LandSSCrop </th>
+<th> LandSGrass </th>
+<th> LandSWaterArea </th>
+<th> LandSOther </th>
+<th> Established </td>
+</table>
+<hr/>  
+
+### Load Site and Landscape Data  
+
+```{r reading csvs}
+site <- read.csv("site_data.csv")
+landS <- read.csv("landscape.csv")
+sitelandS <- merge(x=site, y=landS, by="FieldID", all=TRUE)
+print(sitelandS)
+```
+## Veg Data Description
+
+The Veg data is composed of 891 rows and 22 columns. The data set contains a Visit ID, a species and 20 quadrat columns divided by floral cover and non-floral cover. The quadrat contains a number from 1 to 6 that translates to the amount of coverage for that species within the quadrat. Much of this data is blank but not missing which is to be expected.  
+
+The Columns for Veg Data:  
+
+<table border=2> 
+<th> Visit ID </th>
+<th> Species </th>
+<th> Q1 </th>
+<th> Q1FC </th>
+<th> Q2 </th>
+<th> Q2FC </th>
+<th> Q3 </th>
+<th> Q3FC </th>
+<th> Q4 </th>
+<th> Q4FC </th>
+<th> Q5 </th>
+<th> Q5FC </th>
+<th> Q6 </th>
+<th> Q6FC </th>
+<th> Q7 </th>
+<th> Q7FC </th>
+<th> Q8 </th>
+<th> Q8FC </th>
+<th> Q9 </th>
+<th> Q9FC </th>
+<th> Q10 </th>
+<th> Q10FC </td>
+</table>
+<hr/>  
+
+### Remediation of Veg Data  
+
+The Veg data requires some additional data from the visit dataset and the site data set. Below are the steps necessary to merge that data.
+
+1. Export each tab of excel spreadsheet into individual csv
+      a. File > Export > Change File Type > CSV > Save As  
+      b. "Site data" saved as "site data.csv"  
+      c. "Visit data" saved as "visit data.csv"  
+      d. "Veg data" saved as "veg data.csv"  
+      e. "Species attributes" saved as "species attributes.csv"         
+2. Import each csv into RStudio  
+```{r library}
+library(readr)
+Veg_Data <- read_csv("veg data.csv", col_types = cols(Q4FC = col_double(), Q5FC = col_double(), Q6FC = col_double(), Q7FC = col_double(), Q8FC = col_double(), Q9FC = col_double()))
+library(readr)
+visit_data <- read_csv("visit data.csv", col_types = cols(Date = col_date(format = "%m/%d/%Y")))
+library(readr)
+site_data <- read_csv("site data.csv", col_types = cols(`Planted Date` = col_date(format = "%m/%d/%Y")))
+library(readr)
+species_attributes <- read_csv("species attributes.csv")
+```
+3. Combine all the data  
+```{r combining}
+combined <- merge(x=Veg_Data, y=visit_data, by="Visit ID", all=TRUE)
+combined <- merge(x=combined, y=species_attributes, by="Species", all.x=TRUE)
+combined <- merge(x=combined, y=site_data, by="Field ID", all.x=TRUE)
+```
+4. Trim the unneeded data columns  
+```{r trimming}
+trimmed <- combined %>% select("Field ID","Species","Visit ID","Q1","Q1FC","Q2","Q2FC","Q3","Q3FC","Q4","Q4FC","Q5","Q5FC","Q6","Q6FC","Q7","Q7FC","Q8","Q8FC","Q9","Q9FC","Q10","Q10FC","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor")
+```
+#### Split the floral coverage and plant species coverage & Gather the quadrant and cover value data
+##### Each of theses melts should have the rows of trimmed(891) x 10
+Using tidyr::gather()
+
+1. Gather the floral coverage data (Rows 8910, Cols 10)
+```{r merge1}
+meltFC <- trimmed %>% select("Field ID","Species","Visit ID","Q1","Q2","Q3","Q4","Q5","Q6","Q7","Q8","Q9","Q10","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor") %>% gather("Quadrant", "Cover Value", 4:13)
+```
+2. Gather the plant species coverage data (Rows 8910, Cols 10)
+```{r merge2}
+meltPSC <- trimmed %>% select("Field ID","Species","Visit ID","Q1FC","Q2FC","Q3FC","Q4FC","Q5FC","Q6FC","Q7FC","Q8FC","Q9FC","Q10FC","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor") %>% gather("Quadrant", "Cover Value", 4:13)
+```
+#### Seperating the gathered data into native and non-native
+1. Native
+```{r native}
+native <- subset(meltFC, meltFC$`Coefficient of Conservatism`!= '*')
+```
+2. Non-native
+```{r nonNative}
+nonNative <- subset(meltFC, meltFC$`Coefficient of Conservatism`<='*')
+```
+## Macro Data Description 
+
+The Macro data is composed of 650 rows and 5 columns. The data set contains a Visit ID, 3 columns that categorizes the species cover in the macroplots, <1%, 1-5% and > 5%, and Notes. The Notes are free form text. Much of this data is blank but not missing which is to be expected.  
+
+The columns for Macro Data:  
+
+<table border=2> 
+<th> Visit ID </th>
+<th> <1% </th>
+<th> 1-5% </th>
+<th> 5%> </th>
+<th> Notes </td>
+</table>
+<hr/>
+
+## Seed Data Description  
+
+The Seed data is composed of 543 rows and 4 columns. The data set contains a Field ID, Species, Pure Live Seed lbs per acre and Origin. This data set contains no missing data. The sum of the Pure Live Seed pound per acre by Field ID data matches the value found for that Field ID in the Site data sheet.  
+
+The columns for Seed Data:  
+
+<table border=2> 
+<th> Field ID </th>
+<th> Species </th>
+<th> Pure Live Seed lbs/acre </th>
+<th> Origin </td>
+</table>
+<hr/>
+ 
+
+## Species Attributes Description  
+
+The Species attributes data is composed of 182 rows and 3 columns. The data set contains Species, Coefficient of Conservatism and common Name. A significant portion of the Coefficient of Conservatism is marked with an asterisk. These species will not be included in any coefficient of conservation averages per the client.  
+
+The Columns for Species Attributes Data:  
+
+<table border=2> 
+<th> Species </th>
+<th> Coefficient of Conservatism </th>
+<th> Common Name </td>
+</table>
+<hr/>
+
+## Data Dictionary
+<table border=2> 
+<th>Attribute Name</th>
+
+<th>Attribute Description</td>
+<tr>
+<td>FieldID</td>
+<td>The name assigned to the site</td>
+<tr> 
+<td>Region</td>
+<td>The Region of the state, like NorthEast(NE)</td>
+<tr> 
+<td>NumOfAcres</td> 
+<td>The number of Acres associated with the site</td> 
+<tr>
+<td>County </td> 
+<td>The county of the site</td> 
+<tr>
+<td>PlantedDate</td> 
+<td>The date the species were planted</td> 
+<tr>
+<td>PlantingSeason</td> 
+<td>The season when the species were planted </td> 
+<tr>
+<td>Established</td> 
+<td>The success or failure of the site </td> 
+<tr>
+<td>VisitNum	</td> 
+<td>The Number of Visits </td> 
+<tr>
+<td>SpeciesNum	</td> <td>The number of Species planted </td> <tr>
+<td>TotalPLSAcre	</td> <td>The total amount of Pure Live Seed by pound by acre planted at the site </td> <tr>
+<td>PreCover	</td> <td>The species that was the previous cover </td> <tr>
+<td>SeedVendor	</td> <td>The name of the vendor that provided the seeds </td> <tr>
+<td>Transect </td> <td>The areas in which the site is divided. In most cases there are two transect but in one case there are three. </td> <tr>
+<td>LandSTree	</td> <td>Contains the trees in the surrounding landscape </td> <tr>
+<td>LandSRoad	</td> <td>Indicates if there is a road in the surrounding landscape </td> <tr>
+<td>LandSStructures	</td> <td>  Indicates if there are housing in the surrounding landscape </td> <tr>
+<td>LandSCrop	 </td> <td> Indicates what types of crops are in the surrounding landscape </td> <tr>
+<td>LandSGrass	 </td> <td> Indicates what type of grass is in the surrounding landscape </td> <tr>
+<td>LandSWaterArea	</td> <td>Indicates that some source of water exists near the site </td> <tr>
+<td>LandSOther	</td> <td>Indicates an attribute of the surrounding landscape that did not fall within the other 6 categories </td> <tr>
+<td>VisitID   </td> <td> Indicator to distinguish visits; starts with SP for Spring  or F for Fall and contains 1,2, or 3 for the transect </td> <tr>
+<td>VisitDate  </td> <td> Indicates date of the visits </td> <tr>
+<td>VisitObserver  </td> <td>Indicates who made the observations during the visits </td> <tr>
+<td>SurrLandScape </td> <td>Notation like text about the surrounding Landscape of the site; this data was broken up for more usability </td> <tr>
+<td>VisitNotes        </td> <td> Free form text about the visits </td> <tr>
+<td>Species          </td> <td> The species that were planted at the site or were observed at the site </td> <tr>
+<td>SpeciesOrigin   </td> <td>  The origin of the Species planted </td> <tr>
+<td>SpeciesPLS      <td>   The pure live seed pounds per acre that was planted for a species </td> <tr>
+<td>SpeciesCommName  </td> <td>   The Common Name of a Species </td> <tr>
+<td>CoEOfConsvm		</td> <td>	The Coefficient of Conservatism which is a range between 0 and 10. The higher the score the lower tolerance to environmental degradation </td> 
+<tr>
+</table>
+<hr/> 
+
+## Rplots
+
+### Libraries
+
+```{r lib}
+library(tidyverse)
+library(gridExtra)
+library(ggplot2)
+library(dplyr)
+```
+## Non-Native Floral Coverage Density
+
+```{r nonNative density}
+densityNonNativeFC <- ggplot(nonNativeFC[c(2,9,10)], aes(nonNativeFC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3","4","5","6"))  + scale_y_continuous(name="Density",breaks=c(0.0,0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0)) + ggtitle("Non-Native Floral Coverage Density")
+```
+
+
+This plot shows the density of the floral coverage values for non-native plant species. As the plot shows the highest coverage value recorded was 3. The large majority was 1 meaning very little coverage. This plot can be hard to intepret due to the lack of coverage value range.
+
+## Non-Native Plant Species Coverage Density
+
+```{r nonNative density1}
+densityNonNativePSC <- ggplot(nonNativePSC[c(2,9,10)], aes(nonNativePSC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3","4","5","6"))  + scale_y_continuous(name="Density",breaks=c(0.0,0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0)) + ggtitle("Non-Native Plant Species Coverage Density")
+```
+
+
+This plot shows the density of the plant species coverage values for non-native plant species. The plot shows an expected decreasing density, with very few at the largest coverage value of 6.
+
+## Native Floral Coverage Density
+
+```{r nonNative density2}
+densityNativeFC <- ggplot(nativeFC[c(2,9,10)], aes(nativeFC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3","4","5","6"))  + scale_y_continuous(name="Density",breaks=c(0.0,0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0)) + ggtitle("Native Floral Coverage Density")
+```
+
+
+This plot shows the density of the floral coverage values for native plant species. As the plot shows the highest coverage value recorded was 2, which is lower than non-native species. This plot can be hard to intepret due to the lack of coverage value range.
+
+## Native Plant Species Coverage Density
+
+```{r Native density}
+densityNativePSC <- ggplot(nativePSC[c(2,9,10)], aes(nativePSC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3","4","5","6"))  + scale_y_continuous(name="Density",breaks=c(0.0,0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0)) + ggtitle("Native Plant Species Coverage Density")
+```
+
+
+This plot shows the density of the plant species coverage values for native plant species. The plot shows an expected decreasing density, with very few at the largest coverage value of 6.
+
+
+## Floral Coverage Density Versus
+
+```{r Floral}
+grid.arrange(densityNativeFC,densityNonNativeFC)
+
+```
+
+
+This versus plot does shows the differences between floral coverage of native and non-native plant species, however since both plots are such a small variation of coverage values it does not show anything very conclusive
+
+## Plant Species Coverage Density Versus
+
+```{r arrange}
+grid.arrange(densityNativePSC,densityNonNativePSC)
+```
+
+
+This versus plots shows the differences between plant species coverage of native and non-native plant species. The values of 1, 2, and 3 all show a higher density in the values for native plant species. This means that more native plants were recorded as established than non-native plants.
+
+
+### R Scripts
+
+
+plot <- filter(nativeFC, Field_ID=="Gage11018A")
+ggplot(plot, mapping =aes(x=Coefficient_of_Conservatism))+ geom_bar() + labs(x = "ConservatismOfCoefficient", y= "nativeSpeciesCount", title="Observation of conservatism of coefficient for field Gage11018A")
+
+
+Analysis:
+Based on this plot we could say that the maximum number of species count fall under the coefficient of conservatism of 4 where the coefficient value ranges from 0 to 7.
+
+ggplot(plot, mapping =aes(x=Coefficient_of_Conservatism,y=Visit_ID))+ geom_point()+labs(x = "ConservatismOfCoefficient", y= "Visit_ID", title="Observation specific to visitID for field Gage11018A")
+
+
+Analysis:
+Based on this plot we could see that there is a consistent in the coefficient ranging from 1 - 4 compared to other ranges for the native species specific to the vist_ID in the field Gage11018A.
+
+## Plots showing the conservatism of coefficient specific to the filed_ID Webster11004
+
+plot2 <- filter(nativeFC, Field_ID=="Webster11004")
+ggplot(plot2, mapping =aes(x=Coefficient_of_Conservatism))+ geom_bar() + labs(x = "ConservatismOfCoefficient", y= "nativeSpeciesCount", title="Observation of conservatism of coefficient for field Webster11004")
+
+
+
+Analysis:
+Based on this plot we could say that the maximum number of species count fall under the coefficient of conservatism of 4 where the coefficient value ranges from 0 to 7.
+
+ggplot(plot2, mapping =aes(x=Coefficient_of_Conservatism,y=Visit_ID))+ geom_point()+labs(x = "ConservatismOfCoefficient", y= "Visit_ID", title="Observation specific to visitID for field Webster11004")
+
+
+
+Analysis:
+Based on this plot we could see that there is a consistent in the coefficient in the range 2,4,5 & 6 compared to other ranges for the native species specific to the vist_ID in the field Webster11004.
+
+
+## Research Question
+How does the the factor of being native versus non-native affect the plant growth of species in the fields tested?
+
+### Interpretation
+
+This plot shows a side by side look at the density of plant species coverage for native and non-native plants. The plant species coverage is a measure of how established the plant is within a quadrant. The higher the value the better the growth. The plots show that the native plants have a higher density in the coverage values 1:4. This is showing that the early establishment of native plants is stronger than non-native plants. Values 5 and 6 show very similar densities between native and non-native plant species but the density is very small for each.
+
+```{r species}
+expSpeciesData <- read.csv('Species_Attribute_expanded.csv',head=T)
+attach(expSpeciesData)
+```
+
+```{r expspecies}
+expSpeciesDataRem <- expSpeciesData[,-c(2:3)]
+nativePlantCover <- read.csv('nativePlantCover.csv',head=T)
+```
+
+```{r plantcover}
+expNativePlantCover <- merge(expSpeciesDataRem,nativePlantCover, by=c('Species'),all.x = F)
+```
+```{r plant}
+expNatPlantCovNA <- na.omit(expNativePlantCover,CoverValue)
+condNatPlantCover <- select(expNatPlantCovNA, Order, CoverValue)
+condNatPlantCoverMean <- condNatPlantCover %>%
+    group_by(Order) %>%
+    summarise(mean=mean(CoverValue), n = n())
+attach(condNatPlantCoverMean)   
+```
+ 
+###  Dot Plot of Mean Data
+
+It shows that of the groupings that survived some cover values where significant to others but mostly they fell in the same range
+
+```{r plot lib}
+library(ggplot2)
+library(scales)
+theme_set(theme_classic())
+ggplot(condNatPlantCoverMean, aes(x=mean, y=Order)) + 
+  geom_point(col="tomato2", size=3) +   # Draw points
+  geom_segment(aes(x=mean, 
+                   xend=mean, 
+                   y=Order, 
+                   yend=Order), 
+               linetype="dashed", 
+               size=0.1) 
+```
+
+# Import New Dataset and Merge 
+
+1. Import new Expanded Site Data
+```{r expanded}
+ExpandedSiteData <- read_csv("ExpandedSiteData.csv")
+```
+2. Extract only 'FieldID' and 'Notes' columns
+```{r notes}
+notes <- notes[-c(2,9,10), c(1,2)]
+notes <- ExpandedSiteData[c(1,7)]
+```
+3. Rename 'FieldID' to 'Field ID' to keep consistency with other datasets
+```{r notes1}
+names(notes)[1] <- paste("Field ID")
+```
+4. Add missing Field ID and infer based on the Quadrant data resembling the cover values of success fields that the field was successful
+```{r notes2}
+notes[nrow(notes) + 1,] = list("Furnas1008","Success")
+```
+5. Merge the 'Notes' column to pre-existing datasets
+```{r merge4}
+combined <- merge(x=combined, y=notes, by="Field ID", all.x=TRUE)
+trimmed <- merge(x=trimmed, y=notes, by="Field ID", all.x=TRUE)
+```
+## Redosplit over floral coverage and plant species coverage & regather the quadrant and cover value data 
+Using tidyr::gather()
+1. Gather the floral coverage data
+```{r melt}
+meltFC <- trimmed %>% select("Field ID","Species","Visit ID","Q1","Q2","Q3","Q4","Q5","Q6","Q7","Q8","Q9","Q10","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor", "Established") %>% gather("Quadrant", "Cover Value", 4:13)
+```
+2. Gather the plant species coverage data
+```{r melt2}
+meltPSC <- trimmed %>% select("Field ID","Species","Visit ID","Q1FC","Q2FC","Q3FC","Q4FC","Q5FC","Q6FC","Q7FC","Q8FC","Q9FC","Q10FC","Transect","Date","Coefficient of Conservatism","Planted Date","Seed Vendor", "Established") %>% gather("Quadrant", "Cover Value", 4:13)
+```
+## Seperating the gathered data into native and non-native
+1. Native
+```{r native1}
+nativePSC <- subset(meltPSC, meltPSC$`Coefficient of Conservatism` != '*')
+nativeFC <- subset(meltFC, meltFC$`Coefficient of Conservatism`!= '*')
+```
+2. Non-native
+```{ r nonNative2}
+nonNativePSC <- subset(meltPSC, meltPSC$`Coefficient of Conservatism`<='*')
+nonNativeFC <- subset(meltFC, meltFC$`Coefficient of Conservatism`<='*')
+```
+## R Script for writing the CSV Files
+
+#### nonNativeFloralCover
+```{r write1}
+write.csv(nonNativeFC, file="nonNativeFloralCover.csv")
+```
+#### nativeFloralCover
+```{r write2}
+write.csv(nativeFC, file="nativeFloralCover.csv")
+```
+#### nonNativePlantSpeciesCover
+```{r write3}
+write.csv(nonNativePSC, file="nonNativePlantSpeciesCover.csv")
+```
+#### nativePlantSpeciesCover
+```{r write4}
+write.csv(nativePSC, file="nativePlantSpeciesCover.csv")
+```
+#### mergedData
+```{r write5}
+write.csv(combined, "mergedData.csv")
+```
+#### trimmedData
+```{r write6}
+write.csv(trimmed, "trimmedData.csv")
+```
+# Data Setup
+### Site Data
+```{r siteData}
+expSiteData <- read.csv("ExpandedSiteData.csv", stringsAsFactors = FALSE)
+transform(expSiteData, NumOfAcres = as.numeric(NumOfAcres),
+                             PlantedDate = as.Date(PlantedDate, format("%m/%d/%y")),
+                             SpeciesNum = as.numeric(SpeciesNum),
+                             PLSAcre = as.numeric(PLSAcre))
+print(expSiteData)
+```{r expSite}
+
+### Load Species Taxonomic Data
+
+```
+expSpeciesData <- read.csv('Species_Attribute_expanded.csv',head=T)
+expSpeciesDataRem <- expSpeciesData[,-c(2:3)]
+```
+
+### Load Native Floral Cover Data
+
+```{r nativeFloral}
+nativeFloralCover <- read.csv('nativeFloralCover.csv',head=T)
+transform(nativeFloralCover, VisitDate = as.Date(VisitDate),
+                             PlantedDate = as.Date(PlantedDate))
+expNativeFloralCover <- merge(expSpeciesDataRem,nativeFloralCover, by=c('Species'),all.x = F)
+print(expNativeFloralCover)
+```
+
+### Native Plant Cover Data
+
+```{r nativePlantcover}
+nativePlantCover <- read.csv('nativePlantCover.csv',head=T)
+transform(nativePlantCover, VisitDate = as.Date(VisitDate),
+                             PlantedDate = as.Date(PlantedDate))
+expNativePlantCover <- merge(expSpeciesDataRem,nativePlantCover, by=c('Species'),all.x = F)
+print(expNativeFloralCover)
+```
+
+### Non Native Floral Cover Data
+
+```{r non native}
+nonNativeFloralCover <- read.csv('nonNativeFloralCover.csv',head=T)
+transform(nonNativeFloralCover, VisitDate = as.Date(VisitDate),
+                             PlantedDate = as.Date(PlantedDate))
+expNonNativeFloralCover <- merge(expSpeciesDataRem,nonNativeFloralCover, by=c('Species'),all.x = F)
+print(expNonNativeFloralCover)
+```
+
+### Non Native Plant Cover Data
+
+```{r nonNativePlant cover}
+nonNativePlantCover <- read.csv('nonNativePlantCover.csv',head=T)
+transform(nonNativePlantCover, VisitDate = as.Date(VisitDate),
+                             PlantedDate = as.Date(PlantedDate))
+expNonNativePlantCover <- merge(expSpeciesDataRem,nonNativePlantCover, by=c('Species'),all.x = F)
+print(expNativeFloralCover)
+```
+
+# Distributive Statistics Native Plant Species
+
+### Reading the csv file
+
+```{r reading}
+nonnative <- read.csv("nonNativePlantSpeciesCover.csv")
+native <- read.csv("nativePlantSpeciesCover.csv")
+View (native)
+VIew(nonnative)
+library(pastecs)
+library(dplyr)
+library(data.table)
+```
+### Summary of native and non native plant species 
+```{ r summary}
+summary(native)
+summary(nonnative)
+```
+### code to change the names of the column for computation
+```{ r names}
+names(native) <- c("X_no", "Field_ID", "Species", "Visit_ID", "Transect", "Date", "Coef_of_consv", "Planted_Date", "Seed_Vendor", "Quadrant",
+                   "Cover_Value")
+View(native)
+summary(native)
+```
+### code for distributive statistice on coeffiencent column specific to field_id
+```{ r statcodes}
+stat.desc(native %>% filter(Field_ID == "Antelope11001")%>%select(Coef_of_consv))
+#median - 3.0000000,mean -2.9523810,SE.mean  - 0.1178454,std.dev - 1.7077417
+stat.desc(native %>% filter(Field_ID == "Antelope11002")%>%select(Coef_of_consv))
+#median- 3.0000000, mean - 3.0000000, SE.mean - 0.1601282, std.dev - 1.0127394
+stat.desc(native %>% filter(Field_ID == "Antelope11005")%>%select(Coef_of_consv))
+# median - 3.5000000, mean - 2.6785714, SE.mean -0.1280577 ,std.dev - 2.1428145
+stat.desc(native %>% filter(Field_ID == "Antelope11025A")%>%select(Coef_of_consv))
+# median - 1.0000000, mean - 1.7222222, SE.mean - 0.1448593 ,std.dev - 1.9434909
+stat.desc(native %>% filter(Field_ID == "Antelope11025B")%>%select(Coef_of_consv))
+# median - 2.0000000, mean - 2.3181818, SE.mean - 0.1278658 ,std.dev - 1.8965569
+```
+### code for distributive statistics on coefficient column specific to seed vendors.
+```{ r stat code2}
+stat.desc(native %>% filter(Seed_Vendor == "The Seed House- same mix as Antelope11002")%>%select(Coef_of_consv))
+# median - 3.0000000 , mean - 2.9523810 , SE.mean - 0.1178454  ,std.dev - 1.7077417
+stat.desc(native %>% filter(Seed_Vendor == "Kaup Forage and Turf")%>%select(Coef_of_consv))
+# median - 1.0000000, mean -  1.7222222, SE.mean -0.1448593  ,std.dev - 1.9434909
+stat.desc(native %>% filter(Seed_Vendor == "Kaup Forage and Turf-Same mix as Antelope11025A")%>%select(Coef_of_consv))
+# median -2.0000000 , mean - 2.3181818, SE.mean - 0.1278658 ,std.dev - 1.8965569
+stat.desc(native %>% filter(Seed_Vendor == "Prairie Plains Resource Institute 12 bulk lbs of PPRI mix, purity 23-30%, no seed sheet info")%>%select(Coef_of_consv))
+# median -4.0000000 , mean - 3.2931034, SE.mean - 0.0748248 ,std.dev - 0.5472102
+stat.desc(native %>% filter(Seed_Vendor == "Star Seed - Dealer - PF")%>%select(Coef_of_consv))
+# median - 4.000000e+00 , mean - 3.188119e+00 , SE.mean - 6.101788e-02 ,std.dev - 1.939179e+00
+stat.desc(native %>% filter(Seed_Vendor == "Star Seed - Dealer -PF seed mix")%>%select(Coef_of_consv))
+# median - 0.0000000 , mean - 0.4000000, SE.mean - 0.1142857 ,std.dev - 0.8081220
+stat.desc(native %>% filter(Seed_Vendor == "Star Seed - Dealer - PF, same mix as Furnas11006")%>%select(Coef_of_consv))
+# median - 4.000000e+00 , mean - 2.777778e+00, SE.mean - 9.112505e-02 ,std.dev - 1.933054e+00
+stat.desc(native %>% filter(Seed_Vendor == "Stock Seed")%>%select(Coef_of_consv))
+# median -3.000000e+00 , mean -2.902913e+00 , SE.mean - 5.655776e-02  ,std.dev - 1.815143e+00
+stat.desc(native %>% filter(Seed_Vendor == "The Seed House")%>%select(Coef_of_consv))
+# median - 3.0000000 , mean - 3.0000000, SE.mean - 0.1601282  ,std.dev - 1.0127394
+stat.desc(native %>% filter(Seed_Vendor == "The Seed House- same mix as Antelope11002")%>%select(Coef_of_consv))
+# median - 3.0000000, mean - 2.9523810, SE.mean -  0.1178454 ,std.dev - 1.7077417
+stat.desc(native %>% filter(Seed_Vendor == "Wagner's Feed Store")%>%select(Coef_of_consv))
+# median - 3.000000e+00, mean - 2.663265e+00, SE.mean - 5.204614e-02 ,std.dev - 1.629302e+00
+```
