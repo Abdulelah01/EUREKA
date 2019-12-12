@@ -17,12 +17,12 @@ This contains data of the Floral Coverage Quadrants and Cover Values for native 
 * nonNativeFC.csv  
 This contains data of the Floral Coverage Quadrants and Cover Values for non-native plant species.
 ```
-read.csv("FamilyFC.csv")
-read.csv("FamilyPSC.csv")
-read.csv("nativePSC.csv")
-read.csv("nonNativePSC.csv")
-read.csv("nativeFC.csv")
-read.csv("nonNativeFC.csv")
+FamilyFC <- read_csv("FamilyFC.csv", col_types = cols(X1 = col_skip()))
+FamilyPSC <- read_csv("FamilyPSC.csv", col_types = cols(X1 = col_skip()))
+nativePSC <- read_csv("nativePSC.csv", col_types = cols(X1 = col_skip()))
+nonNativePSC <- read_csv("nonNativePSC.csv", col_types = cols(X1 = col_skip()))
+nativeFC <- read_csv("nativeFC.csv", col_types = cols(X1 = col_skip()))
+nonNativeFC <- read_csv("nonNativeFC.csv", col_types = cols(X1 = col_skip()))
 ```
 # Plots
 Coverage Value is a number assigned to a scale of the percentage of the Quadrant covered by the plant.  
