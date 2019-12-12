@@ -7,3 +7,7 @@ I, Kristi Boxley, worked on the Final Summary. I completed all parts except for 
 
 
 ## Changelog
+
+|Change Made | Changer|
+|---------|--------------|  
+|Updated Research Questions to be more obtainable| Team |
