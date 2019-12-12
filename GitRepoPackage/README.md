@@ -7,17 +7,17 @@
 * [Abdulelah Almubarak](https://github.com/Abdulelah01)
 
 ### Contents
-![Audience Profile](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/AudienceProfile.md)
+[Audience Profile](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/AudienceProfile.md)
 
-![Integrated R-Plots & R-Scripts](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Integrated_Rplots_R%20scripts.rmd)
+[Integrated R-Plots & R-Scripts](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Integrated_Rplots_R%20scripts.rmd)
 
-![Summary Rmarkdown](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Summary_8086.rmd)  
-![Summary HTML](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Summary_8086.html)  
-![References](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/References.md)  
+[Summary Rmarkdown](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Summary_8086.rmd)  
+[Summary HTML](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Summary_8086.html)  
+[References](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/References.md)  
 
-![Presentation PDF]()
+[Presentation PDF]()
 
-![Contribution](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Contribution.md)
+[Contribution](https://github.com/Abdulelah01/EUREKA/blob/master/GitRepoPackage/Contribution.md)
 
 ### License
 [MIT License](https://github.com/Abdulelah01/EUREKA/blob/master/LICENSE)  
