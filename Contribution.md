@@ -8,12 +8,12 @@ _Kristi worked on the background research and questions and created the Audience
 ## Anitha Saminathan
 _In the beginning of the project Anitha worked on updating the project plan and formatted the project plan. She covered the study of Organism and added the role of pollinators. Also, she worked on the background research where she identified the role of Pollinators in the Ecosystem. In part she worked on the Technology skills and the targeted community. Also, she updated the audience profile side by side with data cleaning. Part of the work Anitha did was the distributive statistics where she worked on Rscripts and Rplots and the focus was native plant species and non-native species by integrating the files to include description of Xerces data.
 
-## Abdulelah
+## Abdulelah Almubarak
 _Abdulelah worked on the background research and added the questions that need to be addressed for the project. Also, he worked on part of the Audience profile and target community. In addition, he worked on Readme file and kept the file up to date with what we finish, and he worked on Rmarkdown.  Also, he worked on putting together all the data analyzed in the final file Rscripts. And worked on using the feedback to fix what needed to be updated. 
 
 ## Contributors  
 |---------|--------------|  
-|Erik Eiler |
-|Kristi Boxley |
-|Anitha Saminathan |
-|Abdulelah Almubarak |
+|Erik Eiler |  |
+|Kristi Boxley |   |
+|Anitha Saminathan |  |
+|Abdulelah Almubarak |  |
