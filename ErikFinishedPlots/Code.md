@@ -16,6 +16,14 @@ This contains data of the Plant Species Coverage Quadrants and Cover Values for 
 This contains data of the Floral Coverage Quadrants and Cover Values for native plant species.  
 * nonNativeFC.csv  
 This contains data of the Floral Coverage Quadrants and Cover Values for non-native plant species.
+```
+read.csv("FamilyFC.csv")
+read.csv("FamilyPSC.csv")
+read.csv("nativePSC.csv")
+read.csv("nonNativePSC.csv")
+read.csv("nativeFC.csv")
+read.csv("nonNativeFC.csv")
+```
 # Plots
 Coverage Value is a number assigned to a scale of the percentage of the Quadrant covered by the plant.  
 1 -- < 5%   
