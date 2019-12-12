@@ -1,0 +1,2 @@
+densityFamilyFC <- ggplot(FamilyFC, aes(FamilyFC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3"))  + scale_y_continuous(name="Density") + facet_grid(~FamilyFC$Family) + ggtitle("Density of Floral Cover per Plant Family")
+densityFamilyPSC <- ggplot(FamilyPSC, aes(FamilyPSC$`Cover Value`)) + geom_density() + scale_x_discrete(name ="Cover Value",limits=c("1","2","3","4","5","6"))  + scale_y_continuous(name="Density") + facet_grid(~FamilyPSC$Family) + ggtitle("Density of Plant Species Cover per Plant Family")
