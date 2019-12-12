@@ -14,5 +14,8 @@ _Abdulelah worked on the background research and added the questions that need t
 ## Contributors  
 |    1       |     2     |    3     |    4    |
 | :------------- | :----------: | -----------: |
-|  Erik Eiler | Kristi Boxley   | Anitha Saminathan   | Abdulelah Almubarak |
+|Erik Eiler |
+|Kristi Boxley |
+|Anitha Saminathan |
+|Abdulelah Almubarak |
 
