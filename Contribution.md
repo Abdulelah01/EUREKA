@@ -12,8 +12,7 @@ _In the beginning of the project Anitha worked on updating the project plan and 
 _Abdulelah worked on the background research and added the questions that need to be addressed for the project. Also, he worked on part of the Audience profile and target community. In addition, he worked on Readme file and kept the file up to date with what we finish, and he worked on Rmarkdown.  Also, he worked on putting together all the data analyzed in the final file Rscripts. And worked on using the feedback to fix what needed to be updated. 
 
 ## Contributors  
-|---------|--------------|  
-|Erik Eiler |  |
-|Kristi Boxley |   |
-|Anitha Saminathan |  |
-|Abdulelah Almubarak |  |
+|    1       |     2     |    3     |    4    |
+| :------------- | :----------: | -----------: |
+|  Erik Eiler | Kristi Boxley   | Anitha Saminathan   | Abdulelah Almubarak |
+
